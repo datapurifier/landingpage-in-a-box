@@ -1,36 +1,35 @@
----
+ShowRssButtonInSectionTermList: true
 baseURL: https://datapurifier.github.io/landingpage-in-a-box/
 languageCode: en-us
-title: "Landingpage-in-a-Box"
-theme: PaperMod
-taxonomies:
-  category: categories
-  tag: tags
-  publishers: publishers
-  author: author
-  affiliations: affiliations
-params:
-  profileMode:
-    enabled: true
-    title: "Landingpage-in-a-Box"
-    subtitle: "A lightweight approach to a metadata-driven dataset landing page web site"
-    buttons:
-    - name: Search
-      url: "search"
-    - name: "Tags"
-      url: "tags"
-    - name: "Categories"
-      url: "categories"
-    - name: "Authors"
-      url: "author"
-    - name: "Affiliations"
-      url: "affiliations"
-    - name: "Publishers"
-      url: "publishers"
-ShowRssButtonInSectionTermList: true
 outputs:
   home:
   - HTML
   - RSS
   - JSON
----
+params:
+  profileMode:
+    buttons:
+    - name: Search
+      url: search
+    - name: Tags
+      url: tags
+    - name: Categories
+      url: categories
+    - name: Authors
+      url: author
+    - name: Affiliations
+      url: affiliations
+    - name: Publishers
+      url: publishers
+    enabled: true
+    subtitle: A lightweight approach to a metadata-driven dataset landing page web
+      site
+    title: Landingpage-in-a-Box
+taxonomies:
+  affiliations: affiliations
+  author: author
+  category: categories
+  publishers: publishers
+  tag: tags
+theme: PaperMod
+title: Landingpage-in-a-Box
