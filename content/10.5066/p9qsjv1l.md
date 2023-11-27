@@ -1,0 +1,17 @@
+---
+title: "Drilling, construction, geophysical data, and lithologic log for borehole USGS 145"
+doi: 10.5066/p9qsjv1l
+date: 2023-11-22T22:02:21Z
+categories: ['Dataset']
+tags: ['Geophysics', 'Hydrology', 'Stratigraphy', 'Water Quality']
+publishers: ['U.S. Geological Survey']
+author: ['Allison R Trcka', 'Brian V Twining']
+affiliations: ['United States Geological Survey']
+funders: []
+---
+
+# Abstract
+During 2017 and 2018, the U.S. Geological Survey (USGS) Idaho National Laboratory Project Office, in cooperation with the U.S. Department of Energy (DOE), drilled and constructed borehole USGS 145 (USGS site 433358113042701) for hydrogeologic data collection and stratigraphic framework analyses. The well is located along the western boundary of the Idaho National Laboratory (INL) just south of highway 20. USGS 145 was continuously cored from approximately 3 to 1,368 feet below land surface (BLS), and had water level of 704.73 ft BLS directly after drilling. Core was recovered over a two-year period, this includes cored depths from 3 to 678 ft between May 30, 2017,and November 13, 2017, and from 678 to 1,368 ft between May 17, 2018 and July 12, 2018. After coring was completed, the USGS collected geophysical data and finished construction as a dual piezometer well. The general purpose for the drilling and construction of USGS 145 was to improve the understanding of hydrogeology in the west-central part of the INL and to collect geologic data from recovered core. The well is equipped with a 1-in. stainless steel piezometer line and a 0.75-in. stainless steel piezometer line set down to 1,304 and 1,037 ft BLS, respectively. The well was filled with silica sand and cement grout from 740 to 1,368 ft BLS, encasing the piezometer screened intervals of 1,017 to 1,037 ft BLS and 1,277 to 1,297 ft BLS. The USGS collected select geophysical data, daily drilling notes, and detailed core descriptions to 1,368 ft BLS, which are included as part of this data release. The USGS collected geophysical source and deviation logs through drill casing on July 16, 2018 and additional open borehole logs on July 24, 2018. Geophysical data were collected using Century? multi-parameter logging probes. Geophysical data include natural gamma (tool 9057A), neutron, gamma-gamma density (tool 0024C), and acoustic televiewer (ATV) logs (tool 9804A) which were examined synergistically with available core material to identify contacts between basalt flows and location and thickness of sediment layers. These logs are displayed in the file USGS145_Geophysical_Logs.pdf. Additionally, a gyroscopic deviation survey (tool 9095C) was set to collect data at 0.2-ft increments and used to display the projected well bore path and as displayed in plan view in file USGS145_PlanView_Gyro.pdf and associated well path file USGS145_9095Gyro.asc. Geophysical log data can be obtained by downloading attached LAS files or by visiting USGS - GeoLog Locator. Borehole core from USGS 145 is archived at the USGS Lithologic Core Storage Library located at Central Facilities Area, INL. Drill core was photographed and described using the standardized methods of Johnson and others, 2005. These standardized methods make use of commercially available software that include using a procedure developed by the USGS INL Project Office. The standardized method maximizes description and minimizes interpretation of the borehole core.
+
+# Access Points
+https://www.sciencebase.gov/catalog/item/64d15b1dd34ef477cf3c0228
