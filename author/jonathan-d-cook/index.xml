@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jonathan D Cook on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/jonathan-d-cook/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/jonathan-d-cook/</link>
     <description>Recent content in Jonathan D Cook on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Nov 2023 20:12:11 +0000</lastBuildDate><atom:link href="http://example.org/author/jonathan-d-cook/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Nov 2023 20:12:11 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/jonathan-d-cook/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chronic Wasting Disease Modeling for Bridger Teton National Forest Structured Decision Making (cwd-btnf-sdm-v2)</title>
-      <link>http://example.org/10.5066/p9r7xwo1/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9r7xwo1/</link>
       <pubDate>Wed, 22 Nov 2023 20:12:11 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9r7xwo1/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9r7xwo1/</guid>
       <description>Abstract This software release contains the code necessary to run the chronic wasting disease (CWD) and elk habitat selection models used to support the U.S. Forest Service decision on whether to continue to permit supplemental feeding of elk on USFS land. The models allow for four different management alternatives: continued feeding, emergency feeding, phase-out after three years, or no feeding. The CWD model simulates elk population and disease dynamics over time and includes output data on the number of elk hunted over time.</description>
     </item>
     
     <item>
       <title>Simulating chronic wasting disease on Wyoming elk feedgrounds</title>
-      <link>http://example.org/10.5066/p9j32opc/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9j32opc/</link>
       <pubDate>Wed, 22 Nov 2023 16:02:04 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9j32opc/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9j32opc/</guid>
       <description>Access Points https://code.usgs.gov/usgs/norock/cross_p/cwd-sdm-btnf</description>
     </item>
     

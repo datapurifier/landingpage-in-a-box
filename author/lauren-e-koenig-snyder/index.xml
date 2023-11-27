@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Lauren E Koenig Snyder on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/lauren-e-koenig-snyder/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/lauren-e-koenig-snyder/</link>
     <description>Recent content in Lauren E Koenig Snyder on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Nov 2023 15:17:37 +0000</lastBuildDate><atom:link href="http://example.org/author/lauren-e-koenig-snyder/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Nov 2023 15:17:37 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/lauren-e-koenig-snyder/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Model Code, Outputs, and Supporting Data for Approaches to Process-Guided Deep Learning for Groundwater-Influenced Stream Temperature Predictions</title>
-      <link>http://example.org/10.5066/p9ko49ot/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ko49ot/</link>
       <pubDate>Tue, 21 Nov 2023 15:17:37 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9ko49ot/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ko49ot/</guid>
       <description>Abstract This model archive provides all data, code, and modeling results used in Barclay and others (2023) to assess the ability of process-guided deep learning stream temperature models to accurately incorporate groundwater-discharge processes. We assessed the performance of an existing process-guided deep learning stream temperature model of the Delaware River Basin (USA) and explored four approaches for improving groundwater process representation: 1) a custom loss function that leverages the unique patterns of air and water temperature coupling resulting from different temperature drivers, 2) inclusion of additional groundwater-relevant catchment attributes, 3) incorporation of additional process model outputs, and 4) a composite model.</description>
     </item>
     

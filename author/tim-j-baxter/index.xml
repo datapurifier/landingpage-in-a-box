@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tim J Baxter on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/tim-j-baxter/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/tim-j-baxter/</link>
     <description>Recent content in Tim J Baxter on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Nov 2023 16:33:46 +0000</lastBuildDate><atom:link href="http://example.org/author/tim-j-baxter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Nov 2023 16:33:46 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/tim-j-baxter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fluorescence sensor measurements in sediment suspensions to evaluate turbidity corrections</title>
-      <link>http://example.org/10.5066/p9ob430e/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ob430e/</link>
       <pubDate>Thu, 16 Nov 2023 16:33:46 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9ob430e/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ob430e/</guid>
       <description>Abstract The use of field-deployable fluorescence sensors to better understand dissolved organic matter concentrations and composition has grown immensely in recent years. Applications of these sensors to critical monitoring efforts have also grown to encompass post-fire monitoring, wastewater tracking, and use as a proxy for various contaminants. Despite the growth, it is well known that these sensors are subject to various interferences and require corrections for temperature, turbidity, and concentration effects.</description>
     </item>
     

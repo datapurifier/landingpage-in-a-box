@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Carson L Arends on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/carson-l-arends/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/carson-l-arends/</link>
     <description>Recent content in Carson L Arends on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Nov 2023 20:46:00 +0000</lastBuildDate><atom:link href="http://example.org/author/carson-l-arends/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Nov 2023 20:46:00 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/carson-l-arends/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stable isotope data for sea turtles and prey items in St. Joseph Bay, FL (2011-2021) and comprehensive summary of sea turtle diet papers</title>
-      <link>http://example.org/10.5066/p9ch622o/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ch622o/</link>
       <pubDate>Thu, 16 Nov 2023 20:46:00 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9ch622o/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ch622o/</guid>
       <description>Abstract This stable isotope dataset includes the carbon and nitrogen values for loggerhead, Kemp&amp;rsquo;s ridley, green sea turtles and their prey items in St. Joseph Bay, FL sampled between 2011 and 2021. 2. This dataset was created from a collection of sea turtle diet papers to produce a comprehensive summary of sea turtle diet based on scientific publications for loggerhead, Kemp&amp;rsquo;s ridley and green turtles. Access Points https://www.sciencebase.gov/catalog/item/639c8afad34e0de3a1f21ef3</description>
     </item>
     

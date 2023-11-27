@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Remote Sensing on Landingpage-in-a-Box</title>
-    <link>http://example.org/tags/remote-sensing/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/tags/remote-sensing/</link>
     <description>Recent content in Remote Sensing on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Nov 2023 21:36:17 +0000</lastBuildDate><atom:link href="http://example.org/tags/remote-sensing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Nov 2023 21:36:17 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/remote-sensing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estuarine vegetated wetland change scenarios for estuaries in the conterminous United States, 1996–2019</title>
-      <link>http://example.org/10.5066/p9u43qeo/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9u43qeo/</link>
       <pubDate>Tue, 21 Nov 2023 21:36:17 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9u43qeo/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9u43qeo/</guid>
       <description>Abstract This data release contains land cover-derived statistics regarding estuarine vegetated wetland area change within estuary drainage areas along the conterminous U.S. This dataset includes net change in estuarine vegetated wetland area based on National Oceanic and Atmospheric Administration&amp;rsquo;s (NOAA) Coastal Change Assessment Program (C-CAP) 1996 and 2016 land cover data. Net change was assessed between estuarine vegetated wetlands (i.e., estuarine marshes, mangroves, non-mangrove estuarine woody wetlands, and salt pannes, depending on vegetation coverage and type) and the following other landcover classes: 1) water; 2) unconsolidated shore; 3) freshwater woody wetlands; 4) freshwater marsh; 5) upland; and 6) agriculture.</description>
     </item>
     
     <item>
       <title>Hydrodynamic model output and image simulation code for evaluating image-based river velocimetry from a case study on the Sacramento River near Glenn, California</title>
-      <link>http://example.org/10.5066/p9c19z0s/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9c19z0s/</link>
       <pubDate>Thu, 16 Nov 2023 22:16:57 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9c19z0s/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9c19z0s/</guid>
       <description>Abstract This data release includes the data and code used for the manuscript titled &amp;ldquo;A framework to facilitate development and testing of image-based river velocimetry algorithms&amp;rdquo;, submitted to the journal Earth Surface Processes and Landforms. Three *.csv files and five *.m files with MATLAB source code are included below. Each *.csv file contains output from a hydrodynamic model of a reach of the Sacramento River near Glenn, California, with a separate file for each of three different discharges (i.</description>
     </item>
     
     <item>
       <title>Land Change Monitoring, Assessment, and Projection (LCMAP) Collection 1.3 Annual Land Cover and Land Cover Change Validation Tables (1985&amp;amp;amp;ndash;2021) for the Conterminous United States</title>
-      <link>http://example.org/10.5066/p9aqyze0/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9aqyze0/</link>
       <pubDate>Thu, 16 Nov 2023 18:36:37 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9aqyze0/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9aqyze0/</guid>
       <description>Abstract A validation assessment of Land Cover Monitoring, Assessment, and Projection Collection 1.3 annual land cover products (1985?2021) for the Conterminous United States was conducted with an independently collected reference dataset. Reference data land cover attributes were assigned by trained interpreters for each year of the time series (1984?2021) to a reference sample of 26,971 Landsat resolution (30m x 30m) pixels. These pixels were selected from a sample frame of all pixels in the ARD grid system which fell within the map area (Dwyer et al.</description>
     </item>
     

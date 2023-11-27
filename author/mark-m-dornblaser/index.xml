@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mark M Dornblaser on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/mark-m-dornblaser/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/mark-m-dornblaser/</link>
     <description>Recent content in Mark M Dornblaser on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Nov 2023 08:55:36 +0000</lastBuildDate><atom:link href="http://example.org/author/mark-m-dornblaser/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Nov 2023 08:55:36 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/mark-m-dornblaser/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Water quality and gas fluxes of Interior Alaska (2014-2018)</title>
-      <link>http://example.org/10.5066/p9c6bdbq/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9c6bdbq/</link>
       <pubDate>Thu, 16 Nov 2023 08:55:36 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9c6bdbq/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9c6bdbq/</guid>
       <description>Abstract This product consists of multiple tabular datasets and associated metadata of water quality information related to rivers, streams, and lakes in the Yukon River watershed between 2014 and 2018. This data release is apart of the National Aeronautics and Space Administration (NASA) funded Arctic-Boreal Vulnerability Experiment (ABoVE) and is an assessment of water quality and greenhouse gas fluxes within the interior of Alaska. Sampling frequency varied across locations, with some sites sampled twice a year or more.</description>
     </item>
     

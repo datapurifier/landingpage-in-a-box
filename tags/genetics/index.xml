@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Genetics on Landingpage-in-a-Box</title>
-    <link>http://example.org/tags/genetics/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/tags/genetics/</link>
     <description>Recent content in Genetics on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Nov 2023 04:55:25 +0000</lastBuildDate><atom:link href="http://example.org/tags/genetics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Nov 2023 04:55:25 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/genetics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Occurrences of Apis mellifera filamentous virus (AmFV) sequences in public accessions of Apis mellifera and Varroa destructor</title>
-      <link>http://example.org/10.5066/p9xt6gbe/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9xt6gbe/</link>
       <pubDate>Sun, 26 Nov 2023 04:55:25 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9xt6gbe/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9xt6gbe/</guid>
       <description>Abstract Honey bees (Apis mellifera), a critical agricultural pollinator in many areas, have a high rate of infection with a large DNA virus, Apis mellifera filamentous virus (AmFV), yet little is known about its ecology or impact on honey bee colonies, other than its ubiquity and apparent low virulence. This study scanned over 5,000 public data sets to detect AmFV sequences in honey bees as well as a parasitic mite of honey bees, Varroa destructor, that is a potential vector of AmFV.</description>
     </item>
     
     <item>
       <title>Amplified Fragment Length Polymorphism (AFLP) data obtained for 34 long-tailed vole (Microtus longicaudus) individuals at 91 loci</title>
-      <link>http://example.org/10.5066/p9yd9m3p/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9yd9m3p/</link>
       <pubDate>Thu, 16 Nov 2023 15:18:59 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9yd9m3p/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9yd9m3p/</guid>
       <description>Abstract Prior to removal of pest species from an area, resource managers must determine if re-immigration from another population is possible. Voles inhabiting Saddle Rock on the southern Oregon coast are suspected to be partially responsible for declines in the Leach&amp;rsquo;s storm petrel colony on the island. The island is very close to the mainland, and it is potentially accessible during below-average low tides. USGS scientists Mark Miller and Susan Haig and colleagues used genetic techniques to assess island vole population connectivity.</description>
     </item>
     

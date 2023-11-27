@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jenna L. Shelton on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/jenna-l.-shelton/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/jenna-l.-shelton/</link>
     <description>Recent content in Jenna L. Shelton on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Nov 2023 18:13:54 +0000</lastBuildDate><atom:link href="http://example.org/author/jenna-l.-shelton/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Nov 2023 18:13:54 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/jenna-l.-shelton/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Low biomass microbiology samples collected from a hydraulically fractured well producing from the Niobrara Shale in Colorado</title>
-      <link>http://example.org/10.5066/p9d9zogu/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9d9zogu/</link>
       <pubDate>Wed, 15 Nov 2023 18:13:54 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9d9zogu/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9d9zogu/</guid>
       <description>Abstract Low biomass waters provide a unique challenge in the field of microbial ecology. It is difficult to determine, when biomass concentrations are extremely low, whether or not the sequencing data received are of good quality and representative of the waters sampled. Fifty-nine samples including 8 blanks were collected from a low biomass hydraulically fractured well producing from the Niobrara Shale in Colorado. At least 4 samples were collected by filtering the exact volume for each listed here: 1000 mL, 900 mL, 800 mL, 700 mL, 600 mL, 500 mL, 400 mL, 300 mL, 200 mL, 100 mL, 0 mL (blanks).</description>
     </item>
     
     <item>
       <title>Microbiology of the greater Bravo Dome region</title>
-      <link>http://example.org/10.5066/f76m361r/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f76m361r/</link>
       <pubDate>Wed, 15 Nov 2023 18:02:03 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f76m361r/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f76m361r/</guid>
       <description>Abstract Bravo Dome is a commercial natural CO2 field that supplies the gas to depleted oil fields for enhanced oil recovery. In order to understand the distribution of CO2 across the greater Bravo Dome region, including southeastern Colorado and northwestern New Mexico, and to assess the impacts of high CO2 concentrations on microbes in the subsurface, 7 samples were collected from sites associated with high natural CO2 concentrations. Four water samples were collected, two from wells producing within Bravo Dome, one from an oil and gas field north of Bravo Dome associated with high CO2 concentrations, the Oakdale field, and one sample from a shallow groundwater well on the Rafter K ranch that effervesces CO2.</description>
     </item>
     

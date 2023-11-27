@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Earth Resources Observation And Science (EROS) Center on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/earth-resources-observation-and-science-eros-center/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/earth-resources-observation-and-science-eros-center/</link>
     <description>Recent content in Earth Resources Observation And Science (EROS) Center on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 08:55:43 +0000</lastBuildDate><atom:link href="http://example.org/author/earth-resources-observation-and-science-eros-center/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 08:55:43 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/earth-resources-observation-and-science-eros-center/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Global Multi-resolution Terrain Elevation Data 2010 (GMTED2010)</title>
-      <link>http://example.org/10.5066/f7j38r2n/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7j38r2n/</link>
       <pubDate>Sun, 19 Nov 2023 08:55:43 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7j38r2n/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7j38r2n/</guid>
       <description>Abstract The U.S. Geological Survey (USGS) and the National Geospatial-Intelligence Agency (NGA) have collaborated on the development of a notably enhanced global elevation model named the Global Multi-resolution Terrain Elevation Data 2010 (GMTED2010) that replaces GTOPO30 as the elevation dataset of choice for global and continental scale applications. GMTED2010 provides a new level of detail in global topographic data. The GMTED2010 product suite contains seven new raster elevation products for each of the 30-, 15-, and 7.</description>
     </item>
     
     <item>
       <title>Shuttle Radar Topography Mission (SRTM) Void Filled</title>
-      <link>http://example.org/10.5066/f7f76b1x/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7f76b1x/</link>
       <pubDate>Fri, 17 Nov 2023 08:55:20 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7f76b1x/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7f76b1x/</guid>
       <description>Abstract The Shuttle Radar Topography Mission (SRTM) was flown aboard the space shuttle Endeavour February 11-22, 2000. The National Aeronautics and Space Administration (NASA) and the National Geospatial-Intelligence Agency (NGA) participated in an international project to acquire radar data which were used to create the first near-global set of land elevations.
 Access Points https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-void?qt-science_center_objects=0#qt-science_center_objects</description>
     </item>

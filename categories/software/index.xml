@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Software on Landingpage-in-a-Box</title>
-    <link>http://example.org/categories/software/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/categories/software/</link>
     <description>Recent content in Software on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Nov 2023 20:12:11 +0000</lastBuildDate><atom:link href="http://example.org/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Nov 2023 20:12:11 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/categories/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chronic Wasting Disease Modeling for Bridger Teton National Forest Structured Decision Making (cwd-btnf-sdm-v2)</title>
-      <link>http://example.org/10.5066/p9r7xwo1/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9r7xwo1/</link>
       <pubDate>Wed, 22 Nov 2023 20:12:11 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9r7xwo1/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9r7xwo1/</guid>
       <description>Abstract This software release contains the code necessary to run the chronic wasting disease (CWD) and elk habitat selection models used to support the U.S. Forest Service decision on whether to continue to permit supplemental feeding of elk on USFS land. The models allow for four different management alternatives: continued feeding, emergency feeding, phase-out after three years, or no feeding. The CWD model simulates elk population and disease dynamics over time and includes output data on the number of elk hunted over time.</description>
     </item>
     
     <item>
       <title>Simulating chronic wasting disease on Wyoming elk feedgrounds</title>
-      <link>http://example.org/10.5066/p9j32opc/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9j32opc/</link>
       <pubDate>Wed, 22 Nov 2023 16:02:04 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9j32opc/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9j32opc/</guid>
       <description>Access Points https://code.usgs.gov/usgs/norock/cross_p/cwd-sdm-btnf</description>
     </item>
     
     <item>
       <title>CalPUR-LUE</title>
-      <link>http://example.org/10.5066/p9guwkzz/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9guwkzz/</link>
       <pubDate>Wed, 22 Nov 2023 01:28:13 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9guwkzz/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9guwkzz/</guid>
       <description>Abstract Estimating High Resolution Multi-Cropped Irrigated Land Use Using a Pesticide Use Reporting Database in California Estimating the amount of water needed for agriculture is vital for food and water security. These estimates rely on maps of crop type and acreage that have limited ground-truthing or represent multiple years or regional cropping patterns. In regions where crops change frequently or more than one crop is grown in a season, these data are insufficient for estimating water needs.</description>
     </item>
     
     <item>
       <title>digger: A python package for D-Claw model inputs</title>
-      <link>http://example.org/10.5066/p9en7c2k/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9en7c2k/</link>
       <pubDate>Tue, 21 Nov 2023 16:20:45 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9en7c2k/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9en7c2k/</guid>
       <description>Abstract Digger is a python package that provides a number of pre- and post-processing tools for working with the D-Claw model.
 Access Points https://code.usgs.gov/ghsc/lhp/digger/-/tree/1.0.0</description>
     </item>
     
     <item>
       <title>Seafloor Elevation Change Analysis Tool</title>
-      <link>http://example.org/10.5066/p9d5uuz0/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9d5uuz0/</link>
       <pubDate>Tue, 21 Nov 2023 14:45:48 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9d5uuz0/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9d5uuz0/</guid>
       <description>Abstract The Seafloor Elevation Change Analysis Tool (SECAT) is a Python script intended to be run as a script tool by ArcMap or ArcGIS Pro that automates their intricate methodology.
 Access Points https://code.usgs.gov/spcmsc/volume-and-elevation-calculation-software</description>
     </item>
     
     <item>
       <title>MODFLOW-2005: USGS three-dimensional finite-difference groundwater model</title>
-      <link>http://example.org/10.5066/f7rf5s7g/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7rf5s7g/</link>
       <pubDate>Sun, 19 Nov 2023 04:33:46 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7rf5s7g/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7rf5s7g/</guid>
       <description>Abstract MODFLOW is a three-dimensional (3D) finite-difference groundwater model that was first published in 1984. It has a modular structure that allows it to be easily modified to adapt the code for a particular application. Many new capabilities have been added to the original model. MODFLOW 6 is presently the core MODFLOW version distributed by the USGS, but MODFLOW-2005 (the previous core version) is still actively maintained and supported. MODFLOW-2005 (Harbaugh, 2005) simulates steady and nonsteady flow in an irregularly shaped flow system in which aquifer layers can be confined, unconfined, or a combination of confined and unconfined.</description>
     </item>
     
     <item>
       <title>Groundwater Toolbox: A graphical and mapping interface for analysis of hydrologic data</title>
-      <link>http://example.org/10.5066/f7r78c9g/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7r78c9g/</link>
       <pubDate>Sun, 19 Nov 2023 04:30:09 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7r78c9g/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7r78c9g/</guid>
       <description>Abstract The Groundwater Toolbox is a graphical and mapping interface for analysis of hydrologic data. The software is a customized interface built on the non-proprietary, open-source MapWindow geographic information system software in a Microsoft Windows computing environment. The Groundwater Toolbox allows for the retrieval of hydrologic time-series data (streamflow, groundwater levels, and precipitation) from the USGS National Water Information System; preprocessed meteorological data from the National Oceanic and Atmospheric Administration National Climatic Data Center also are available with the Groundwater Toolbox.</description>
     </item>
     
     <item>
       <title>REDPy - Repeating Earthquake Detector in Python (Version 1.0.1)</title>
-      <link>http://example.org/10.5066/p9236een/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9236een/</link>
       <pubDate>Fri, 17 Nov 2023 19:00:39 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9236een/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9236een/</guid>
       <description>Abstract REDPy (Repeating Earthquake Detector in Python) is a tool for automated detection and analysis of repeating earthquakes in continuous data. It works without any previous assumptions of what repeating seismicity looks like (that is, does not require a template event). Repeating earthquakes are clustered into families based on waveform similarity via cross-correlation across multiple stations. All data, including waveforms, are stored in a HDF5 database using PyTables.
 Access Points https://code.</description>
     </item>
     
     <item>
       <title>GRAPES.jl - GRAph Prediction of Earthquake Shaking in Julia (Version 1.0.0)</title>
-      <link>http://example.org/10.5066/p97fbhtl/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p97fbhtl/</link>
       <pubDate>Wed, 15 Nov 2023 23:48:01 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p97fbhtl/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p97fbhtl/</guid>
       <description>Abstract GRAPES.jl is a Julia-language code for earthquake early warning. GRAPES.jl implements the GRAph Prediction of Earthquake Shaking (GRAPES) algorithm using graph neural networks. The GRAPES.jl package provides code for EEW ground motion predictions.
 Access Points https://code.usgs.gov/esc/grapes.jl/-/tree/1.0.0/</description>
     </item>
     
     <item>
       <title>Software for the program code AFCE (Aqueous-Flow-Concentration-Estimator) for estimation of ambient groundwater flow in bedrock open boreholes using concentrations of chlorinated volatile organic compounds from coupled straddle packer and passive sampling results</title>
-      <link>http://example.org/10.5066/p92ub0kt/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p92ub0kt/</link>
       <pubDate>Wed, 15 Nov 2023 20:00:36 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p92ub0kt/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p92ub0kt/</guid>
       <description>Abstract Software program code for the AFCE (Aqueous Flow Concentration Estimator) that is used to estimate inflow of groundwater contaminants to a water column of an open borehole in a fractured-rock aquifer. It is particularly useful program for assessing ambient flow in low permeability open boreholes, which have no detectable flow as measured with conventional borehole flowmeter tools. The software is in VBA (Visual Basic for Applications) Excel and utilizes a Monte-Carlo Chemical Budget approach to compute proportional inflow.</description>
     </item>
     

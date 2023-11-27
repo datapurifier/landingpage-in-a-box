@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sharon L Qi on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/sharon-l-qi/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/sharon-l-qi/</link>
     <description>Recent content in Sharon L Qi on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 04:33:22 +0000</lastBuildDate><atom:link href="http://example.org/author/sharon-l-qi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 04:33:22 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/sharon-l-qi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Historical Produced Water Chemistry Data Compiled for the North Coles Levee Oilfield, Kern County, California</title>
-      <link>http://example.org/10.5066/p9gd7w9l/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9gd7w9l/</link>
       <pubDate>Sun, 19 Nov 2023 04:33:22 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9gd7w9l/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9gd7w9l/</guid>
       <description>Abstract This dataset contains geochemical and other information for 40 historical samples of produced water from the North Coles Levee Oil Field. Three of these samples are from commingled tanks containing produced water from multiple wells as noted in the Remarks column. Water that is produced as a byproduct of oil production is called produced water. The numerical water chemistry data were compiled by the U.S. Geological Survey (USGS) from scanned laboratory analysis reports available from the California Geologic Energy Management Division (CalGEM).</description>
     </item>
     

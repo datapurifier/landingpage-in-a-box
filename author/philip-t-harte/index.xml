@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Philip T Harte on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/philip-t-harte/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/philip-t-harte/</link>
     <description>Recent content in Philip T Harte on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Nov 2023 20:00:36 +0000</lastBuildDate><atom:link href="http://example.org/author/philip-t-harte/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Nov 2023 20:00:36 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/philip-t-harte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software for the program code AFCE (Aqueous-Flow-Concentration-Estimator) for estimation of ambient groundwater flow in bedrock open boreholes using concentrations of chlorinated volatile organic compounds from coupled straddle packer and passive sampling results</title>
-      <link>http://example.org/10.5066/p92ub0kt/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p92ub0kt/</link>
       <pubDate>Wed, 15 Nov 2023 20:00:36 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p92ub0kt/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p92ub0kt/</guid>
       <description>Abstract Software program code for the AFCE (Aqueous Flow Concentration Estimator) that is used to estimate inflow of groundwater contaminants to a water column of an open borehole in a fractured-rock aquifer. It is particularly useful program for assessing ambient flow in low permeability open boreholes, which have no detectable flow as measured with conventional borehole flowmeter tools. The software is in VBA (Visual Basic for Applications) Excel and utilizes a Monte-Carlo Chemical Budget approach to compute proportional inflow.</description>
     </item>
     

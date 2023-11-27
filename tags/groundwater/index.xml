@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>groundwater on Landingpage-in-a-Box</title>
-    <link>http://example.org/tags/groundwater/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/tags/groundwater/</link>
     <description>Recent content in groundwater on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Nov 2023 21:47:07 +0000</lastBuildDate><atom:link href="http://example.org/tags/groundwater/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Nov 2023 21:47:07 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/groundwater/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MODFLOW-NWT models and calibration files for the Mississippi Alluvial Plain, USA</title>
-      <link>http://example.org/10.5066/p9ar7y02/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ar7y02/</link>
       <pubDate>Wed, 22 Nov 2023 21:47:07 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9ar7y02/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ar7y02/</guid>
       <description>Abstract The existing three-dimensional groundwater flow model (MODFLOW-2005) of the Mississippi Embayment Regional Aquifer system (MERAS), South-Central United States, was updated with: 1) higher stream density; 2) more spatially refined recharge; 3) better estimates of water use; 4) more recent time period simulated; 5) more realistic storage conceptualization; and 6) more robust handling of dry nodes through use of MODFLOW-NWT. For this study, the MODFLOW-NWT groundwater flow model was used to evaluate four parameter estimation algorithms with lower computational burdens.</description>
     </item>
     
     <item>
       <title>MODFLOW-2005: USGS three-dimensional finite-difference groundwater model</title>
-      <link>http://example.org/10.5066/f7rf5s7g/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7rf5s7g/</link>
       <pubDate>Sun, 19 Nov 2023 04:33:46 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7rf5s7g/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7rf5s7g/</guid>
       <description>Abstract MODFLOW is a three-dimensional (3D) finite-difference groundwater model that was first published in 1984. It has a modular structure that allows it to be easily modified to adapt the code for a particular application. Many new capabilities have been added to the original model. MODFLOW 6 is presently the core MODFLOW version distributed by the USGS, but MODFLOW-2005 (the previous core version) is still actively maintained and supported. MODFLOW-2005 (Harbaugh, 2005) simulates steady and nonsteady flow in an irregularly shaped flow system in which aquifer layers can be confined, unconfined, or a combination of confined and unconfined.</description>
     </item>
     
     <item>
       <title>Groundwater Toolbox: A graphical and mapping interface for analysis of hydrologic data</title>
-      <link>http://example.org/10.5066/f7r78c9g/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7r78c9g/</link>
       <pubDate>Sun, 19 Nov 2023 04:30:09 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7r78c9g/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7r78c9g/</guid>
       <description>Abstract The Groundwater Toolbox is a graphical and mapping interface for analysis of hydrologic data. The software is a customized interface built on the non-proprietary, open-source MapWindow geographic information system software in a Microsoft Windows computing environment. The Groundwater Toolbox allows for the retrieval of hydrologic time-series data (streamflow, groundwater levels, and precipitation) from the USGS National Water Information System; preprocessed meteorological data from the National Oceanic and Atmospheric Administration National Climatic Data Center also are available with the Groundwater Toolbox.</description>
     </item>
     
     <item>
       <title>MODFLOW-2005 model used to simulate the regional groundwater flow system in the updated New Jersey Coastal Plain model, 1980-2013</title>
-      <link>http://example.org/10.5066/p9w6rxfc/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9w6rxfc/</link>
       <pubDate>Fri, 17 Nov 2023 14:56:06 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9w6rxfc/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9w6rxfc/</guid>
       <description>Abstract A third revision of the New Jersey Coastal Plain (NJCP) groundwater flow model, using MODFLOW-2005 (version 1.12.00), was completed to maintain the model?s usefulness for water-resource managment and development. The regional groundwater-flow model was initially developed for the U.S. Geological Survey (USGS) Regional Aquifer System Analysis (RASA) program. Periodic revision of the model is required as the result of changing hydrologic stresses, different and more complex water management needs, and increased knowledge of hydrologic conditions.</description>
     </item>
     

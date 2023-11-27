@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Peter Vikre on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/peter-vikre/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/peter-vikre/</link>
     <description>Recent content in Peter Vikre on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Nov 2023 14:24:50 +0000</lastBuildDate><atom:link href="http://example.org/author/peter-vikre/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Nov 2023 14:24:50 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/peter-vikre/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trace element chemistry of sulfides and quartz, in situ sulfur isotope values of sulfides, cathodoluminescence of quartz, fluid inclusion microthermometry and raman, and radiogenic isotope and whole rock geochemistry from the Stibnite-Yellow Pine district, Idaho 2016-2022</title>
-      <link>http://example.org/10.5066/p91acjsc/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p91acjsc/</link>
       <pubDate>Fri, 17 Nov 2023 14:24:50 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p91acjsc/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p91acjsc/</guid>
       <description>Abstract This dataset is a collection of geochemical data on samples from the Stibnite-Yellow Pine district of Idaho. The datasets include: whole rock geochemistry; lead, strontium and neodymium isotope chemistry of sulfides and whole rock samples by isotope dilution-thermal-mass spectrometry (ID-TIMS); in situ sulfur isotope chemistry of sulfides by laser ablation-multi collector-inductively coupled-mass spectrometry (LA-MC-ICP-MS); electron microprobe (EMP) images, cathodoluminescence (CL) images and spectra, along with EMP and laser ablation-inductively coupled-mass spectrometry (LA-ICP-MS) trace element analysis of sulfides and quartz; and fluid inclusion microthermometry and raman.</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>John G Warden on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/john-g-warden/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/john-g-warden/</link>
     <description>Recent content in John G Warden on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 04:30:17 +0000</lastBuildDate><atom:link href="http://example.org/author/john-g-warden/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 04:30:17 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/john-g-warden/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Geophysical, geological, hydrological, and geochemical data for aquifer salinity mapping in the Elk Hills, Buena Vista, and Coles Levee Oil Fields, Kern County, California</title>
-      <link>http://example.org/10.5066/p9kwnefw/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kwnefw/</link>
       <pubDate>Sun, 19 Nov 2023 04:30:17 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9kwnefw/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kwnefw/</guid>
       <description>Abstract The U.S. Geological Survey (USGS) in cooperation with the California State Water Resources Control Board (State Water Board) compiled and analyzed data for mapping groundwater salinity, characterizing aquifer systems, and documenting the effects of oil field water injection in the Elk Hills Elk Hills, Buena Vista, and Coles Levee Oil Fields, San Joaquin Valley, California. Data provided in this data release include borehole geophysical data, geochemical analyses of water samples, hydrologic data, geological formation depths, and information on observed well log resistivity anomalies - interpreted to be from injection for disposal of produced water from oil wells or from natural causes.</description>
     </item>
     

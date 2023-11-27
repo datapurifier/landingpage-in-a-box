@@ -2,99 +2,99 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>hydrology on Landingpage-in-a-Box</title>
-    <link>http://example.org/tags/hydrology/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/tags/hydrology/</link>
     <description>Recent content in hydrology on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Nov 2023 22:02:21 +0000</lastBuildDate><atom:link href="http://example.org/tags/hydrology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Nov 2023 22:02:21 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/hydrology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Drilling, construction, geophysical data, and lithologic log for borehole USGS 145</title>
-      <link>http://example.org/10.5066/p9qsjv1l/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9qsjv1l/</link>
       <pubDate>Wed, 22 Nov 2023 22:02:21 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9qsjv1l/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9qsjv1l/</guid>
       <description>Abstract During 2017 and 2018, the U.S. Geological Survey (USGS) Idaho National Laboratory Project Office, in cooperation with the U.S. Department of Energy (DOE), drilled and constructed borehole USGS 145 (USGS site 433358113042701) for hydrogeologic data collection and stratigraphic framework analyses. The well is located along the western boundary of the Idaho National Laboratory (INL) just south of highway 20. USGS 145 was continuously cored from approximately 3 to 1,368 feet below land surface (BLS), and had water level of 704.</description>
     </item>
     
     <item>
       <title>Sampling information and water-quality data collected during viable avian influenza virus sampling in Iowa wetlands, 2022</title>
-      <link>http://example.org/10.5066/p9y9ezi9/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9y9ezi9/</link>
       <pubDate>Tue, 21 Nov 2023 20:54:28 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9y9ezi9/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9y9ezi9/</guid>
       <description>Abstract Data sets containing: (1) sampling information and equipment, (2) precipitation and air temperature data from Iowa counties containing wetlands sampled, (3) water quality measurements from Iowa wetlands sampled, (4) quality assurance quality control sample result information, and (4) similarities between the highly pathogenic H5N1 virus water sequence and other highly pathogenic avian influenza H5N1 viruses sequenced from poultry and wild birds in Iowa.
 Access Points https://www.sciencebase.gov/catalog/item/6446cc2fd34ee8d4adec6c45</description>
     </item>
     
     <item>
       <title>Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) Green Bay, U.S.: Dikes</title>
-      <link>http://example.org/10.5066/p9rrv9aj/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9rrv9aj/</link>
       <pubDate>Tue, 21 Nov 2023 15:27:47 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9rrv9aj/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9rrv9aj/</guid>
       <description>Abstract This dataset is part of the U.S. Geological Survey (USGS) Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) initiative. These data represent the location of dikes within the Green Bay Restoration Assessment (GBRA) study area. An ArcGIS model (Python script) identified dikes as having a difference in elevation above a certain threshold. If the elevation difference was below a certain threshold, the area was not considered a dike. However, if the difference in elevation between two points was significantly high, then the area was marked as a dike.</description>
     </item>
     
     <item>
       <title>Model Code, Outputs, and Supporting Data for Approaches to Process-Guided Deep Learning for Groundwater-Influenced Stream Temperature Predictions</title>
-      <link>http://example.org/10.5066/p9ko49ot/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ko49ot/</link>
       <pubDate>Tue, 21 Nov 2023 15:17:37 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9ko49ot/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ko49ot/</guid>
       <description>Abstract This model archive provides all data, code, and modeling results used in Barclay and others (2023) to assess the ability of process-guided deep learning stream temperature models to accurately incorporate groundwater-discharge processes. We assessed the performance of an existing process-guided deep learning stream temperature model of the Delaware River Basin (USA) and explored four approaches for improving groundwater process representation: 1) a custom loss function that leverages the unique patterns of air and water temperature coupling resulting from different temperature drivers, 2) inclusion of additional groundwater-relevant catchment attributes, 3) incorporation of additional process model outputs, and 4) a composite model.</description>
     </item>
     
     <item>
       <title>Groundwater, surface water, and soil data collected near and at the Ammonium Perchlorate Rocket Motor Destruction (ARMD) facility at the Letterkenny Army Depot, Chambersburg, Pennsylvania</title>
-      <link>http://example.org/10.5066/p92yiatz/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p92yiatz/</link>
       <pubDate>Mon, 20 Nov 2023 23:03:30 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p92yiatz/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p92yiatz/</guid>
       <description>Abstract Sampling was conducted by the U.S. Geological Survey (USGS) at four wells, one surface water site, and five soil sampling locations near and at the Ammonium Perchlorate Rocket Motor Destruction (ARMD) facility at the Letterkenny Army Depot. Analytical results for groundwater samples collected in 2021 are provided in ?ARMD_wells_data_2021.xlsx?. Analytical results for surface-water samples collected in 2021 are provided in ?ARMD_sw_data_2021.xlsx?. Analytical results for soil samples collected in 2021 are provided in ?</description>
     </item>
     
     <item>
       <title>Data supporting the 2017 geomorphic survey of North Fork Eagle Creek, New Mexico</title>
-      <link>http://example.org/10.5066/f7pr7tx3/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7pr7tx3/</link>
       <pubDate>Mon, 20 Nov 2023 20:06:12 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7pr7tx3/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7pr7tx3/</guid>
       <description>Abstract This U.S. Geological Survey (USGS) data release contains the results from the 2017 geomorphic survey of North Fork Eagle Creek, New Mexico. The 2017 geomorphic survey was conducted by the USGS, in cooperation with the Village of Ruidoso, New Mexico, and is the first in a planned series of five annual geomorphic surveys of the stream reach located between the North Fork Eagle Creek near Alto, New Mexico, streamflow-gaging station (USGS site 08387550) and the Eagle Creek below South Fork near Alto, New Mexico, streamflow-gaging station (USGS site 08387600).</description>
     </item>
     
     <item>
       <title>Sediment model inputs and outputs for the Smith Creek watershed near New Market, Virginia for 2012-2016</title>
-      <link>http://example.org/10.5066/p9avghmb/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9avghmb/</link>
       <pubDate>Sun, 19 Nov 2023 04:56:21 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9avghmb/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9avghmb/</guid>
       <description>Abstract This data release includes data created, collected, and/or otherwise modified in the process of quantifying a sediment budget for the Smith Creek Watershed near New Market, Virginia, USA. Five raster files are included, namely a modeled index of hydrological connectivity, a raster model of modeled floodplain depositional masses and extent, a rasters of modeled gross and delivered upland erosion, and a hydrologically conditioned Digital Elevation Model (DEM). Two vector shapefiles are also included.</description>
     </item>
     
     <item>
       <title>Geophysical, geological, hydrological, and geochemical data for aquifer salinity mapping in the Elk Hills, Buena Vista, and Coles Levee Oil Fields, Kern County, California</title>
-      <link>http://example.org/10.5066/p9kwnefw/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kwnefw/</link>
       <pubDate>Sun, 19 Nov 2023 04:30:17 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9kwnefw/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kwnefw/</guid>
       <description>Abstract The U.S. Geological Survey (USGS) in cooperation with the California State Water Resources Control Board (State Water Board) compiled and analyzed data for mapping groundwater salinity, characterizing aquifer systems, and documenting the effects of oil field water injection in the Elk Hills Elk Hills, Buena Vista, and Coles Levee Oil Fields, San Joaquin Valley, California. Data provided in this data release include borehole geophysical data, geochemical analyses of water samples, hydrologic data, geological formation depths, and information on observed well log resistivity anomalies - interpreted to be from injection for disposal of produced water from oil wells or from natural causes.</description>
     </item>
     
     <item>
       <title>Daily Climate and Soil Moisture Data for the Southern Colorado Plateau Network Parks, 1980 &amp;amp;ndash; 2018 (ver. 1.1, November, 2023)</title>
-      <link>http://example.org/10.5066/p9wqtbp0/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9wqtbp0/</link>
       <pubDate>Fri, 17 Nov 2023 16:16:24 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9wqtbp0/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9wqtbp0/</guid>
       <description>Abstract These data are daily climate, water balance, and soil moisture data for 270 plots in the National Park Service (NPS) Southern Colorado Plateau Network (SCPN) Inventory &amp;amp;amp;amp;amp;amp;amp; Monitoring (I&amp;amp;amp;amp;amp;amp;amp;M) network. Climate data was collected from a gridded, daily climate dataset, Daymet (https://daymet.ornl.gov/). Climate, alongside field-collected soils (SoilDepthsByPlot.csv) and vegetation information, were then used to drive a point based, daily, multi soil-layer, ecosystem water-balance model, SOILWAT2 (https://github.com/DrylandEcology/SOILWAT2). SCPN plots were established to capture the range of ecosystem conditions present in this network.</description>
     </item>
     
     <item>
       <title>Hydrodynamic model output and image simulation code for evaluating image-based river velocimetry from a case study on the Sacramento River near Glenn, California</title>
-      <link>http://example.org/10.5066/p9c19z0s/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9c19z0s/</link>
       <pubDate>Thu, 16 Nov 2023 22:16:57 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9c19z0s/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9c19z0s/</guid>
       <description>Abstract This data release includes the data and code used for the manuscript titled &amp;ldquo;A framework to facilitate development and testing of image-based river velocimetry algorithms&amp;rdquo;, submitted to the journal Earth Surface Processes and Landforms. Three *.csv files and five *.m files with MATLAB source code are included below. Each *.csv file contains output from a hydrodynamic model of a reach of the Sacramento River near Glenn, California, with a separate file for each of three different discharges (i.</description>
     </item>
     

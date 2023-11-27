@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Limnology on Landingpage-in-a-Box</title>
-    <link>http://example.org/tags/limnology/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/tags/limnology/</link>
     <description>Recent content in Limnology on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Nov 2023 08:55:09 +0000</lastBuildDate><atom:link href="http://example.org/tags/limnology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Nov 2023 08:55:09 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/limnology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Great Lakes Research Vessel Catch (RVCAT) Database</title>
-      <link>http://example.org/10.5066/p9xvolr1/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9xvolr1/</link>
       <pubDate>Fri, 17 Nov 2023 08:55:09 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9xvolr1/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9xvolr1/</guid>
       <description>Abstract The Great Lakes Research Vessel Catch (RVCAT) database is managed at the Great Lakes Science Center (GLSC). RVCAT has been used as the primary data collection tool aboard the GLSC?s research vessel operations across the Great Lakes. Content: The data set has been collected on various vessel operations on all the Great Lakes and select connecting waterways between the years 1930-2021. Data collection begins in early spring and ends in late fall.</description>
     </item>
     

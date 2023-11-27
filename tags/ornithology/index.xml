@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ornithology on Landingpage-in-a-Box</title>
-    <link>http://example.org/tags/ornithology/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/tags/ornithology/</link>
     <description>Recent content in Ornithology on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Nov 2023 01:31:12 +0000</lastBuildDate><atom:link href="http://example.org/tags/ornithology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Nov 2023 01:31:12 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/ornithology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tracking Data for Bar-tailed Godwits (Limosa lapponica)</title>
-      <link>http://example.org/10.5066/p9a9byqw/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9a9byqw/</link>
       <pubDate>Sat, 18 Nov 2023 01:31:12 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9a9byqw/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9a9byqw/</guid>
       <description>Abstract This metadata document describes the data contained in the &amp;ldquo;rawData&amp;rdquo; folder of this data package. This data package contains all data collected by the Argos System from 63 satellite transmitters attached to Bar-tailed Godwits on their breeding range in arctic and western Alaska, 2005-2010. Five data files are included in the &amp;ldquo;rawData&amp;rdquo; folder of this data package. Two data files (with identical content) contain the raw Argos DIAG (Diagnostic) data, one in the legacy verbose ASCII format and one in a tabular Comma Separate Value (CSV) format.</description>
     </item>
     

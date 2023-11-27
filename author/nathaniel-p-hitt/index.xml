@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nathaniel P Hitt on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/nathaniel-p-hitt/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/nathaniel-p-hitt/</link>
     <description>Recent content in Nathaniel P Hitt on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Nov 2023 04:55:09 +0000</lastBuildDate><atom:link href="http://example.org/author/nathaniel-p-hitt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Nov 2023 04:55:09 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/nathaniel-p-hitt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brook trout abundance in streams across southern Appalachia from 1958-2021</title>
-      <link>http://example.org/10.5066/p9dqid6g/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9dqid6g/</link>
       <pubDate>Sun, 26 Nov 2023 04:55:09 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9dqid6g/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9dqid6g/</guid>
       <description>Abstract This Data Release compiles records of brook trout abundance from 745 unique sites across the southern Appalachian mountains from 1958-2021. Records were compiled from 10 institutions, primarily state natural resource agencies. Data were collected from wadeable stream environments with standard backpack electrofishing methods, and observed abundances of adult and juvenile brook trout are reported for each electrofishing pass within sample sites.
 Access Points https://www.sciencebase.gov/catalog/item/6439af5dd34ee8d4ade231f8</description>
     </item>

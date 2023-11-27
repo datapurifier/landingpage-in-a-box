@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bozimowski, Alexandra (Sasha) A on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/bozimowski-alexandra-sasha-a/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/bozimowski-alexandra-sasha-a/</link>
     <description>Recent content in Bozimowski, Alexandra (Sasha) A on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Nov 2023 15:21:28 +0000</lastBuildDate><atom:link href="http://example.org/author/bozimowski-alexandra-sasha-a/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Nov 2023 15:21:28 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/bozimowski-alexandra-sasha-a/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) Green Bay, U.S.: Composite Model Layers</title>
-      <link>http://example.org/10.5066/p98l86i3/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p98l86i3/</link>
       <pubDate>Tue, 21 Nov 2023 15:21:28 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p98l86i3/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p98l86i3/</guid>
       <description>Abstract This dataset contains all the layers associated with U.S. Geological Survey (USGS) Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) initiative for the Green Bay Restoration Assessment (GBRA) which aims to identify and rank coastal areas with the greatest potential for wetland habitat restoration. Each layer has a unique contribution to the identification of restorable wetlands. The 7 parameters (Parameter 0: Mask, Parameter 1: Hydroperiod, Parameter 2: Wetland Soils, Parameter 3: Flowlines, Parameter 4: Conservation and Recreation Lands, Parameter 5: Impervious Surfaces, and Parameter 6: Land Use) and Index Composite directly correlate to areas that are recommended for restoration.</description>
     </item>
     

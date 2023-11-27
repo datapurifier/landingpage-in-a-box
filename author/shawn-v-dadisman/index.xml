@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Shawn V Dadisman on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/shawn-v-dadisman/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/shawn-v-dadisman/</link>
     <description>Recent content in Shawn V Dadisman on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Nov 2023 14:36:58 +0000</lastBuildDate><atom:link href="http://example.org/author/shawn-v-dadisman/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Nov 2023 14:36:58 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/shawn-v-dadisman/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>St. Petersburg Coastal and Marine Science Center&#39;s Geologic Core and Sample Database</title>
-      <link>http://example.org/10.5066/f7319tr3/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7319tr3/</link>
       <pubDate>Wed, 22 Nov 2023 14:36:58 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7319tr3/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7319tr3/</guid>
       <description>Abstract This application contains information on coral, coral reef, limestone and sediment cores and samples collected by the U.S. Geological Survey (USGS) St. Petersburg Coastal and Marine Science Center (SPCMSC) or in collaboration with federal, state and university partners. This application contains the geographic location where cores were collected, field survey information, storage location, and if available, associated publications, data analyses, disposition and archival information.
 Access Points https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=2b7d5dbc0be340b9b17f6d94aac5b713</description>
     </item>

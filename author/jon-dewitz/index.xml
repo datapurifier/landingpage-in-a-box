@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jon Dewitz on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/jon-dewitz/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/jon-dewitz/</link>
     <description>Recent content in Jon Dewitz on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Nov 2023 08:55:19 +0000</lastBuildDate><atom:link href="http://example.org/author/jon-dewitz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Nov 2023 08:55:19 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/jon-dewitz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>National Land Cover Database (NLCD) 2019 Products</title>
-      <link>http://example.org/10.5066/p9kzcm54/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kzcm54/</link>
       <pubDate>Tue, 21 Nov 2023 08:55:19 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9kzcm54/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kzcm54/</guid>
       <description>Abstract The U.S. Geological Survey (USGS), in partnership with several federal agencies, has developed and released five National Land Cover Database (NLCD) products over the past two decades: NLCD 1992, 2001, 2006, 2011, and 2016. The 2016 release saw landcover created for additional years of 2003, 2008, and 2013. These products provide spatially explicit and reliable information on the Nation?s land cover and land cover change. To continue the legacy of NLCD and further establish a long-term monitoring capability for the Nation?</description>
     </item>
     

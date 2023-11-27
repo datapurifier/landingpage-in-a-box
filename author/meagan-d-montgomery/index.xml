@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Meagan D Montgomery on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/meagan-d-montgomery/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/meagan-d-montgomery/</link>
     <description>Recent content in Meagan D Montgomery on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Nov 2023 19:33:34 +0000</lastBuildDate><atom:link href="http://example.org/author/meagan-d-montgomery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Nov 2023 19:33:34 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/meagan-d-montgomery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Water-quality profiles within the Caloosahatchee River and twelve fiberglass tanks, during experimental nutrient addition treatments, 2021</title>
-      <link>http://example.org/10.5066/p9jx9na1/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9jx9na1/</link>
       <pubDate>Wed, 15 Nov 2023 19:33:34 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9jx9na1/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9jx9na1/</guid>
       <description>Abstract This U.S. Geological Survey (USGS) Data Release provides water-quality data collected during 1-week and 2-week nutrient studies beginning on February 22, May 17, and July 26 located in the Caloosahatchee River at the S-79 water-control structure. For each study period, 12 fiberglass tanks were suspended in the river using three floating cradles with each cradle holding four tanks. Each tank was open to the atmosphere and closed to the river.</description>
     </item>
     

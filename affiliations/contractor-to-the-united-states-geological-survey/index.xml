@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Contractor to the United States Geological Survey on Landingpage-in-a-Box</title>
-    <link>http://example.org/affiliations/contractor-to-the-united-states-geological-survey/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/affiliations/contractor-to-the-united-states-geological-survey/</link>
     <description>Recent content in Contractor to the United States Geological Survey on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Nov 2023 19:37:21 +0000</lastBuildDate><atom:link href="http://example.org/affiliations/contractor-to-the-united-states-geological-survey/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Nov 2023 19:37:21 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/affiliations/contractor-to-the-united-states-geological-survey/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data from the development and evaluation of a CRISPR/Cas12a-based biosensor for the detection of DNA from Pseudogymnoascus destructans using samples collected from various species of bats across the United States, from 2018 to 2023</title>
-      <link>http://example.org/10.5066/p9gytruz/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9gytruz/</link>
       <pubDate>Wed, 22 Nov 2023 19:37:21 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9gytruz/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9gytruz/</guid>
       <description>Abstract Reported here are the fluorescence data points recorded from CRISPR/Cas12a biosensor assays to detect the presence or absence of DNA from Pseudogymnoascus destructans (Pd), the causative fungal agent of white-nose syndrome in bats, from artificial controls, dermal swab, and guano samples. Ct values from qPCR experiments are also provided in a table. Furthermore, we also provide the GenBank accession numbers used to develop the aforementioned CRISPR/Cas12a biosensor assay for Pd DNA detection.</description>
     </item>
     
     <item>
       <title>Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) Green Bay, U.S.: Dikes</title>
-      <link>http://example.org/10.5066/p9rrv9aj/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9rrv9aj/</link>
       <pubDate>Tue, 21 Nov 2023 15:27:47 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9rrv9aj/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9rrv9aj/</guid>
       <description>Abstract This dataset is part of the U.S. Geological Survey (USGS) Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) initiative. These data represent the location of dikes within the Green Bay Restoration Assessment (GBRA) study area. An ArcGIS model (Python script) identified dikes as having a difference in elevation above a certain threshold. If the elevation difference was below a certain threshold, the area was not considered a dike. However, if the difference in elevation between two points was significantly high, then the area was marked as a dike.</description>
     </item>
     
     <item>
       <title>Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) Green Bay, U.S.: Degree Flowlines</title>
-      <link>http://example.org/10.5066/p9qajrbw/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9qajrbw/</link>
       <pubDate>Tue, 21 Nov 2023 15:23:56 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9qajrbw/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9qajrbw/</guid>
       <description>Abstract This dataset is part of the U.S. Geological Survey (USGS) Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) initiative. These data represent the flowline network in the Green Bay Restoration Assessment (GBRA). It is attributed with the number of disconnections (e.g., road crossings) between the reach and Lake Ontario. The more road crossings on a flowline the more disconnected that area is from the lake and the less suitable it will be for restoration.</description>
     </item>
     
     <item>
       <title>Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) Green Bay, U.S.: Composite Model Layers</title>
-      <link>http://example.org/10.5066/p98l86i3/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p98l86i3/</link>
       <pubDate>Tue, 21 Nov 2023 15:21:28 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p98l86i3/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p98l86i3/</guid>
       <description>Abstract This dataset contains all the layers associated with U.S. Geological Survey (USGS) Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) initiative for the Green Bay Restoration Assessment (GBRA) which aims to identify and rank coastal areas with the greatest potential for wetland habitat restoration. Each layer has a unique contribution to the identification of restorable wetlands. The 7 parameters (Parameter 0: Mask, Parameter 1: Hydroperiod, Parameter 2: Wetland Soils, Parameter 3: Flowlines, Parameter 4: Conservation and Recreation Lands, Parameter 5: Impervious Surfaces, and Parameter 6: Land Use) and Index Composite directly correlate to areas that are recommended for restoration.</description>
     </item>
     
     <item>
       <title>Compilation of Geospatial Data (GIS) for the Mineral Industries and Related Infrastructure of the People&#39;s Republic of China</title>
-      <link>http://example.org/10.5066/p9hk2k8i/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9hk2k8i/</link>
       <pubDate>Thu, 16 Nov 2023 18:44:30 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9hk2k8i/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9hk2k8i/</guid>
       <description>Abstract The U.S. Geological Survey (USGS) has compiled a geodatabase containing mineral-related geospatial data for the People&amp;rsquo;s Republic of China. The data can be used in analyses of the extractive fuel and nonfuel mineral industries and related economic and physical infrastructure integral for the successful operation of the mineral industries within the area of study as well as the movement of mineral products across domestic and global markets. This geodatabase reflects the USGS ongoing commitment to its mission of understanding the nature and distribution of global mineral commodity supply chains by updating and publishing the georeferenced locations of mineral commodity production and processing facilities, mineral exploration and development sites, and mineral commodity exporting ports for the countries in the area of study.</description>
     </item>
     

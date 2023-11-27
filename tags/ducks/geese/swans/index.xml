@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ducks/Geese/Swans on Landingpage-in-a-Box</title>
-    <link>http://example.org/tags/ducks/geese/swans/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/tags/ducks/geese/swans/</link>
     <description>Recent content in Ducks/Geese/Swans on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/ducks/geese/swans/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/ducks/geese/swans/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Molecular Detection and Characterization of Highly Pathogenic H5N1 Avian Influenza Viruses in Wild Birds Inhabiting Western Alaska Provides Evidence for Three Independent Viral Introductions</title>
-      <link>http://example.org/10.5066/p9lph8zq/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9lph8zq/</link>
       <pubDate>Wed, 15 Nov 2023 22:48:25 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9lph8zq/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9lph8zq/</guid>
       <description>Abstract This data set describes three independent viral introductions of Highly pathogenic H5N1 avian influenza viruses into Alaska.
 Access Points https://alaska.usgs.gov/products/data.php?dataid=606</description>
     </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Daniel G Galeone on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/daniel-g-galeone/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/daniel-g-galeone/</link>
     <description>Recent content in Daniel G Galeone on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Nov 2023 23:03:30 +0000</lastBuildDate><atom:link href="http://example.org/author/daniel-g-galeone/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Nov 2023 23:03:30 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/daniel-g-galeone/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Groundwater, surface water, and soil data collected near and at the Ammonium Perchlorate Rocket Motor Destruction (ARMD) facility at the Letterkenny Army Depot, Chambersburg, Pennsylvania</title>
-      <link>http://example.org/10.5066/p92yiatz/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p92yiatz/</link>
       <pubDate>Mon, 20 Nov 2023 23:03:30 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p92yiatz/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p92yiatz/</guid>
       <description>Abstract Sampling was conducted by the U.S. Geological Survey (USGS) at four wells, one surface water site, and five soil sampling locations near and at the Ammonium Perchlorate Rocket Motor Destruction (ARMD) facility at the Letterkenny Army Depot. Analytical results for groundwater samples collected in 2021 are provided in ?ARMD_wells_data_2021.xlsx?. Analytical results for surface-water samples collected in 2021 are provided in ?ARMD_sw_data_2021.xlsx?. Analytical results for soil samples collected in 2021 are provided in ?</description>
     </item>
     

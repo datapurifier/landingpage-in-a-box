@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Phillip J Herrera on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/phillip-j-herrera/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/phillip-j-herrera/</link>
     <description>Recent content in Phillip J Herrera on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 04:28:17 +0000</lastBuildDate><atom:link href="http://example.org/author/phillip-j-herrera/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 04:28:17 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/phillip-j-herrera/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inorganic chemistry data for groundwater wells near selected oil fields in the southwestern San Joaquin Valley, central California</title>
-      <link>http://example.org/10.5066/p9xk9aq1/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9xk9aq1/</link>
       <pubDate>Sun, 19 Nov 2023 04:28:17 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9xk9aq1/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9xk9aq1/</guid>
       <description>Abstract This digital dataset contains geochemical and other information for 1,209 samples of groundwater from 343 wells located within 3-miles of the Buena Vista, Elk Hills, Midway-Sunset, and North and South Coles Levee oil fields in the southwestern San Joaquin Valley of central California. Data were compiled by the U.S. Geological Survey (USGS) from preexisting datasets and transferred manually into two separate data files described as follows: 1) a summary data file identifying each well, it&amp;rsquo;s location, basic well construction, the number of chemistry samples and period of record, and data sources; and 2) a data file of geochemistry analyses for selected water-quality indicators, major and minor ions, nutrients, and trace elements, plus parameter code and (or) method, reporting level, reporting level type, and supplemental notes.</description>
     </item>
     

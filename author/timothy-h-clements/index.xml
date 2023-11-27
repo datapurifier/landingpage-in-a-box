@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Timothy H Clements on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/timothy-h-clements/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/timothy-h-clements/</link>
     <description>Recent content in Timothy H Clements on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Nov 2023 23:48:01 +0000</lastBuildDate><atom:link href="http://example.org/author/timothy-h-clements/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Nov 2023 23:48:01 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/timothy-h-clements/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GRAPES.jl - GRAph Prediction of Earthquake Shaking in Julia (Version 1.0.0)</title>
-      <link>http://example.org/10.5066/p97fbhtl/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p97fbhtl/</link>
       <pubDate>Wed, 15 Nov 2023 23:48:01 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p97fbhtl/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p97fbhtl/</guid>
       <description>Abstract GRAPES.jl is a Julia-language code for earthquake early warning. GRAPES.jl implements the GRAph Prediction of Earthquake Shaking (GRAPES) algorithm using graph neural networks. The GRAPES.jl package provides code for EEW ground motion predictions.
 Access Points https://code.usgs.gov/esc/grapes.jl/-/tree/1.0.0/</description>
     </item>

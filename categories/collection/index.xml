@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Collection on Landingpage-in-a-Box</title>
-    <link>http://example.org/categories/collection/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/categories/collection/</link>
     <description>Recent content in Collection on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Nov 2023 13:54:18 +0000</lastBuildDate><atom:link href="http://example.org/categories/collection/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Nov 2023 13:54:18 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/categories/collection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Multichannel sparker and chirp seismic reflection data collected during USGS field activity 2018-658-FA between Cape Blanco and Cape Mendocino in October of 2018</title>
-      <link>http://example.org/10.5066/p9myl7wj/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9myl7wj/</link>
       <pubDate>Tue, 21 Nov 2023 13:54:18 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9myl7wj/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9myl7wj/</guid>
       <description>Abstract This data release contains processed high-resolution multichannel sparker seismic-reflection (MCS) data and chirp sub-bottom data that were collected aboard Humboldt State University&amp;rsquo;s R/V Coral Sea in October of 2018 on U.S. Geological Survey cruise 2018-658-FA on the shelf and slope between Cape Blanco, Oregon, and Cape Mendocino, California. MCS data were collected to characterize quaternary deformation and sediment dynamics along the southern Cascadia margin.
 Access Points https://cmgds.marine.usgs.gov/data-releases/datarelease/10.5066-P9MYL7WJ/</description>
     </item>

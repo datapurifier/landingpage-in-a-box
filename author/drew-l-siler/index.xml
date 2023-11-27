@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Drew L Siler on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/drew-l-siler/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/drew-l-siler/</link>
     <description>Recent content in Drew L Siler on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Nov 2023 08:55:29 +0000</lastBuildDate><atom:link href="http://example.org/author/drew-l-siler/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Nov 2023 08:55:29 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/drew-l-siler/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Snake River Plain Play Fairway Analysis Phase 1 Favorability Model (DE EE0006733)</title>
-      <link>http://example.org/10.5066/p95eulti/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p95eulti/</link>
       <pubDate>Tue, 21 Nov 2023 08:55:29 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p95eulti/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p95eulti/</guid>
       <description>Abstract This data release contains all digital geographic data used and produced by the Snake River Plain Play Fairway Analysis (DE EE0006733) for Phase 1 (ArcGIS shapefiles and raster files) as well as the model processing script, tables, and documentation used to generate data outputs. Brief descriptions of data layers are in the metadata of GIS files, greater detail is available in the Larger Work, the Snake River Plain Play Fairway Analysis Phase 1 report.</description>
     </item>
     
     <item>
       <title>Snake River Plain Play Fairway Analysis Phase 2 Favorability Model (DE EE0006733)</title>
-      <link>http://example.org/10.5066/p9y8mezy/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9y8mezy/</link>
       <pubDate>Tue, 21 Nov 2023 08:55:29 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9y8mezy/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9y8mezy/</guid>
       <description>Abstract This data release contains all digital geographic data used and produced by the Snake River Plain Play Fairway Analysis (DE EE0006733) for Phase 2 (ArcGIS shapefiles and raster files) as well as the model processing script, tables, and documentation used to generate data outputs. Phase 2 examines two subset areas of the Phase 1 study area, Mountain Home and Camas Prairie. Brief descriptions of data layers are in the metadata of GIS files, greater detail is available in the Larger Work, the Snake River Plain Play Fairway Analysis Phase 2 report.</description>
     </item>
     

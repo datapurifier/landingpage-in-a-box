@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Martha G Nielsen on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/martha-g-nielsen/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/martha-g-nielsen/</link>
     <description>Recent content in Martha G Nielsen on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Nov 2023 19:57:00 +0000</lastBuildDate><atom:link href="http://example.org/author/martha-g-nielsen/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Nov 2023 19:57:00 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/martha-g-nielsen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prototype updated principal aquifer datasets for three aquifer systems in the Upper Midwest, USA</title>
-      <link>http://example.org/10.5066/p9pf3psm/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9pf3psm/</link>
       <pubDate>Wed, 22 Nov 2023 19:57:00 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9pf3psm/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9pf3psm/</guid>
       <description>Abstract This geospatial dataset represents a prototype of a finer-scale representation of the principal aquifers of the United States, using four original principal aquifers in the Upper Midwest, United States, which were re-analyzed and condensed into three updated principal aquifers. �The original principal aquifer definitions and extents were published in the Ground Water Atlas of the United States at a scale of 1:5,000,000. �The updated version in this dataset are based on a reinterpretation of the original definitions using geologic data from the U.</description>
     </item>
     

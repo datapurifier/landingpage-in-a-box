@@ -2,819 +2,819 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dataset on Landingpage-in-a-Box</title>
-    <link>http://example.org/categories/dataset/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/categories/dataset/</link>
     <description>Recent content in Dataset on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Nov 2023 11:03:45 +0000</lastBuildDate><atom:link href="http://example.org/categories/dataset/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Nov 2023 11:03:45 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/categories/dataset/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>United States Register of Introduced and Invasive Species (US-RIIS) (ver. 2.0, November 2022)</title>
-      <link>http://example.org/10.5066/p9kfftod/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kfftod/</link>
       <pubDate>Mon, 27 Nov 2023 11:03:45 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9kfftod/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kfftod/</guid>
       <description>Abstract Introduced (non-native) species that become established may eventually become invasive, so tracking all introduced species provides a baseline for effective modeling of species trends and interactions, geospatially and temporally. The United States Register of Introduced and Invasive Species (US-RIIS) (ver. 2.0, November 2022, https://doi.org/10.5066/P9KFFTOD), as of 2022-10-23, is comprised of three lists, for the localities of Alaska (AK, with 545 records), Hawaii (HI, with 5,628 records), and the conterminous (or lower 48) United States (L48, with 8,527 records).</description>
     </item>
     
     <item>
       <title>Occurrences of Apis mellifera filamentous virus (AmFV) sequences in public accessions of Apis mellifera and Varroa destructor</title>
-      <link>http://example.org/10.5066/p9xt6gbe/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9xt6gbe/</link>
       <pubDate>Sun, 26 Nov 2023 04:55:25 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9xt6gbe/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9xt6gbe/</guid>
       <description>Abstract Honey bees (Apis mellifera), a critical agricultural pollinator in many areas, have a high rate of infection with a large DNA virus, Apis mellifera filamentous virus (AmFV), yet little is known about its ecology or impact on honey bee colonies, other than its ubiquity and apparent low virulence. This study scanned over 5,000 public data sets to detect AmFV sequences in honey bees as well as a parasitic mite of honey bees, Varroa destructor, that is a potential vector of AmFV.</description>
     </item>
     
     <item>
       <title>Hourly Vehicle Traffic Data Associated with Industrial Activity on the North Slope of Alaska During Summers 2019-2020</title>
-      <link>http://example.org/10.5066/p9hxw3n5/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9hxw3n5/</link>
       <pubDate>Sun, 26 Nov 2023 04:55:17 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9hxw3n5/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9hxw3n5/</guid>
       <description>Abstract This dataset contains hourly vehicle traffic counts in the Kuparuk and Milne Point oil fields on the North Slope of Alaska during summers 2019 and 2020. The oil field roads were generally closed to the public during the study period, so traffic was primarily associated with industrial activities. Data were collected using TRAFx vehicle traffic counters (TRAFx Research Ltd, Canmore, Alberta, Canada) that were placed at random locations throughout the Kuparuk and Milne Point road systems representing varying traffic conditions.</description>
     </item>
     
     <item>
       <title>Brook trout abundance in streams across southern Appalachia from 1958-2021</title>
-      <link>http://example.org/10.5066/p9dqid6g/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9dqid6g/</link>
       <pubDate>Sun, 26 Nov 2023 04:55:09 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9dqid6g/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9dqid6g/</guid>
       <description>Abstract This Data Release compiles records of brook trout abundance from 745 unique sites across the southern Appalachian mountains from 1958-2021. Records were compiled from 10 institutions, primarily state natural resource agencies. Data were collected from wadeable stream environments with standard backpack electrofishing methods, and observed abundances of adult and juvenile brook trout are reported for each electrofishing pass within sample sites.
 Access Points https://www.sciencebase.gov/catalog/item/6439af5dd34ee8d4ade231f8</description>
     </item>
     
     <item>
       <title>Blacklegged tick nymph densities, tickborne pathogen prevalence, and white-tailed deer densities in eight national parks in the eastern United States from 2014-2022</title>
-      <link>http://example.org/10.5066/p9lsi8k9/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9lsi8k9/</link>
       <pubDate>Sun, 26 Nov 2023 04:55:01 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9lsi8k9/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9lsi8k9/</guid>
       <description>Abstract The data presented here are blacklegged tick nymph densities, white-tailed deer densities, and Borrelia burgdorferi (causative agent of Lyme disease) prevalences for eight national parks in the eastern United States from 2014-2022.
 Access Points https://www.sciencebase.gov/catalog/item/637cfb9bd34ed907bf73c08c</description>
     </item>
     
     <item>
       <title>Geologic age and lithology of Afghanistan (glgafg.shp)</title>
-      <link>http://example.org/10.5066/p9o13l2c/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9o13l2c/</link>
       <pubDate>Sat, 25 Nov 2023 08:55:18 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9o13l2c/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9o13l2c/</guid>
       <description>Abstract This shapefile contains polygons that describe the geologic age and lithologies of outcrops in Afghanistan.
 Access Points https://www.sciencebase.gov/catalog/item/60d3a6a2d34e12a1b009d0cc</description>
     </item>
     
     <item>
       <title>Hawaii Island forest bird movement data from 2014 to 2019</title>
-      <link>http://example.org/10.5066/p9mgxhlz/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9mgxhlz/</link>
       <pubDate>Sat, 25 Nov 2023 08:55:18 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9mgxhlz/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9mgxhlz/</guid>
       <description>Abstract This data release includes data and metadata containing estimated and predicted locations of radio telemetered Hawaiian forest birds. Radio telemetry data was collected using an automated radio telemetry network from 2014 to 2019 from birds in two study sites, one a continuous forest and the other a fragmented forest. Four bird species that varied in age and sex were studied: the nectarivorous ?i?iwi (Drepanis coccinea) and ?apapane (Himatione sanguinea), the frugivorous ?</description>
     </item>
     
     <item>
       <title>North American Breeding Bird Survey Dataset 1966 - 2015, version 2015.0</title>
-      <link>http://example.org/10.5066/f71r6nk8/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f71r6nk8/</link>
       <pubDate>Fri, 24 Nov 2023 13:54:01 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f71r6nk8/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f71r6nk8/</guid>
       <description>Abstract The 1966-2015 North American Breeding Bird Survey dataset contains avian point count data for more than 700 North American bird taxa (primarily species, but also some races and unidentified species groupings). These data are collected annually during the breeding season, primarily June and May, along thousands of randomly established roadside survey routes in the United States and Canada. Routes are about 24.5 miles (39.2 km) long with counting locations placed at regular intervals, for a total of 50 stops.</description>
     </item>
     
     <item>
       <title>North American Breeding Bird Survey Dataset 1966 - 2014, version 2014.0</title>
-      <link>http://example.org/10.5066/f7q81b46/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7q81b46/</link>
       <pubDate>Fri, 24 Nov 2023 13:52:16 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7q81b46/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7q81b46/</guid>
       <description>Abstract The 1966-2014 North American Breeding Bird Survey dataset contains avian point count data for more than 700 North American bird taxa (species, races, and unidentified species groupings). These data are collected annually during the breeding season, primarily June and May, along thousands of randomly established roadside survey routes in the United States and Canada. Routes are about 24.5 miles (39.2 km) long with counting locations placed at regular intervals, for a total of 50 stops.</description>
     </item>
     
     <item>
       <title>USGS Spectral Library Version 7 Data</title>
-      <link>http://example.org/10.5066/f7rr1wdj/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7rr1wdj/</link>
       <pubDate>Thu, 23 Nov 2023 08:55:39 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7rr1wdj/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7rr1wdj/</guid>
       <description>Abstract This data release provides the U.S. Geological Survey (USGS) Spectral Library Version 7 and all related documents. The library contains spectra measured with laboratory, field, and airborne spectrometers. The instruments used cover wavelengths from the ultraviolet to the far infrared (0.2 to 200 microns). Laboratory samples of specific minerals, plants, chemical compounds, and man-made materials were measured. In many cases, samples were purified, so that unique spectral features of a material can be related to its chemical structure.</description>
     </item>
     
     <item>
       <title>Telemetry evaluation of invasive carp herding in Jonathan Creek Embayment, Kentucky Lake, Kentucky</title>
-      <link>http://example.org/10.5066/p9vqecfp/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9vqecfp/</link>
       <pubDate>Thu, 23 Nov 2023 08:55:29 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9vqecfp/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9vqecfp/</guid>
       <description>Abstract Data tables represents a telemetry study assessing the efficacy of sound and electricity used to herd Silver Carp (Hypophthalmichthys molitrix). The study occurred in Jonathan Creek Embayment of Kentucky Lake, Kentucky using 10 telemetered Silver Carp and 46 passive acoustic receivers. Two herding boats traveled at 2.22 meters per second along bank-to-bank transects through the study area (longitudinal progression rate = 0.37 meters per second) emitting sound and electricity (?</description>
     </item>
     
     <item>
       <title>Drilling, construction, geophysical data, and lithologic log for borehole USGS 145</title>
-      <link>http://example.org/10.5066/p9qsjv1l/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9qsjv1l/</link>
       <pubDate>Wed, 22 Nov 2023 22:02:21 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9qsjv1l/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9qsjv1l/</guid>
       <description>Abstract During 2017 and 2018, the U.S. Geological Survey (USGS) Idaho National Laboratory Project Office, in cooperation with the U.S. Department of Energy (DOE), drilled and constructed borehole USGS 145 (USGS site 433358113042701) for hydrogeologic data collection and stratigraphic framework analyses. The well is located along the western boundary of the Idaho National Laboratory (INL) just south of highway 20. USGS 145 was continuously cored from approximately 3 to 1,368 feet below land surface (BLS), and had water level of 704.</description>
     </item>
     
     <item>
       <title>MODFLOW-NWT models and calibration files for the Mississippi Alluvial Plain, USA</title>
-      <link>http://example.org/10.5066/p9ar7y02/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ar7y02/</link>
       <pubDate>Wed, 22 Nov 2023 21:47:07 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9ar7y02/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ar7y02/</guid>
       <description>Abstract The existing three-dimensional groundwater flow model (MODFLOW-2005) of the Mississippi Embayment Regional Aquifer system (MERAS), South-Central United States, was updated with: 1) higher stream density; 2) more spatially refined recharge; 3) better estimates of water use; 4) more recent time period simulated; 5) more realistic storage conceptualization; and 6) more robust handling of dry nodes through use of MODFLOW-NWT. For this study, the MODFLOW-NWT groundwater flow model was used to evaluate four parameter estimation algorithms with lower computational burdens.</description>
     </item>
     
     <item>
       <title>North American Bird Banding Program Dataset 1960-2023 retrieved 2023-07-12</title>
-      <link>http://example.org/10.5066/p97lqnhy/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p97lqnhy/</link>
       <pubDate>Wed, 22 Nov 2023 21:15:11 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p97lqnhy/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p97lqnhy/</guid>
       <description>Abstract The North American Bird Banding Program is administered through the U.S. Geological Survey (USGS) Bird Banding Laboratory (BBL), Eastern Ecological Science Center at the Patuxent Research Refuge (EESC) and the Bird Banding Office (BBO), Environment and Climate Change Canada (ECCC). The respective banding offices have similar functions and policies and use the same bands, reporting forms and data formats. This long-term dataset (1960-2023) consists of over 83 million bird banding, encounter and recapture records of over 1,000 species covered under the Migratory Bird Treaty Act (MBTA).</description>
     </item>
     
     <item>
       <title>Prototype updated principal aquifer datasets for three aquifer systems in the Upper Midwest, USA</title>
-      <link>http://example.org/10.5066/p9pf3psm/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9pf3psm/</link>
       <pubDate>Wed, 22 Nov 2023 19:57:00 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9pf3psm/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9pf3psm/</guid>
       <description>Abstract This geospatial dataset represents a prototype of a finer-scale representation of the principal aquifers of the United States, using four original principal aquifers in the Upper Midwest, United States, which were re-analyzed and condensed into three updated principal aquifers. �The original principal aquifer definitions and extents were published in the Ground Water Atlas of the United States at a scale of 1:5,000,000. �The updated version in this dataset are based on a reinterpretation of the original definitions using geologic data from the U.</description>
     </item>
     
     <item>
       <title>Data from the development and evaluation of a CRISPR/Cas12a-based biosensor for the detection of DNA from Pseudogymnoascus destructans using samples collected from various species of bats across the United States, from 2018 to 2023</title>
-      <link>http://example.org/10.5066/p9gytruz/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9gytruz/</link>
       <pubDate>Wed, 22 Nov 2023 19:37:21 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9gytruz/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9gytruz/</guid>
       <description>Abstract Reported here are the fluorescence data points recorded from CRISPR/Cas12a biosensor assays to detect the presence or absence of DNA from Pseudogymnoascus destructans (Pd), the causative fungal agent of white-nose syndrome in bats, from artificial controls, dermal swab, and guano samples. Ct values from qPCR experiments are also provided in a table. Furthermore, we also provide the GenBank accession numbers used to develop the aforementioned CRISPR/Cas12a biosensor assay for Pd DNA detection.</description>
     </item>
     
     <item>
       <title>Digital Database and Maps of Quaternary Deposits in East and Central Siberia</title>
-      <link>http://example.org/10.5066/f7vt1q89/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7vt1q89/</link>
       <pubDate>Wed, 22 Nov 2023 01:10:23 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7vt1q89/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7vt1q89/</guid>
       <description>Abstract This digital database is the product of collaboration between the U.S. Geological Survey, the Alfred Wegener Institute for Polar and Marine Research Potsdam, Foothill College GeoSpatial Technology Certificate Program, and the Geophysical Institute at the University of Alaska. The primary goal for creating this digital database is to enhance current estimates of organic carbon stored in deep permafrost, in particular Late Pleistocene syngenetic ice-rich loess permafrost deposits, called Yedoma. This deposit is vulnerable to thermokarst and erosion due to natural and anthropogenic disturbances.</description>
     </item>
     
     <item>
       <title>Data describing habitat use and availability for wild waterfowl in California, USA</title>
-      <link>http://example.org/10.5066/p9i1rs1z/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9i1rs1z/</link>
       <pubDate>Tue, 21 Nov 2023 22:06:03 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9i1rs1z/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9i1rs1z/</guid>
       <description>Abstract These data describe the overlap of wild waterfowl and domestic poultry operations in California, USA. These data support a paired USGS publication.
 Access Points https://www.sciencebase.gov/catalog/item/65537ff0d34ee4b6e05c3d64</description>
     </item>
     
     <item>
       <title>Estuarine vegetated wetland change scenarios for estuaries in the conterminous United States, 1996–2019</title>
-      <link>http://example.org/10.5066/p9u43qeo/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9u43qeo/</link>
       <pubDate>Tue, 21 Nov 2023 21:36:17 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9u43qeo/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9u43qeo/</guid>
       <description>Abstract This data release contains land cover-derived statistics regarding estuarine vegetated wetland area change within estuary drainage areas along the conterminous U.S. This dataset includes net change in estuarine vegetated wetland area based on National Oceanic and Atmospheric Administration&amp;rsquo;s (NOAA) Coastal Change Assessment Program (C-CAP) 1996 and 2016 land cover data. Net change was assessed between estuarine vegetated wetlands (i.e., estuarine marshes, mangroves, non-mangrove estuarine woody wetlands, and salt pannes, depending on vegetation coverage and type) and the following other landcover classes: 1) water; 2) unconsolidated shore; 3) freshwater woody wetlands; 4) freshwater marsh; 5) upland; and 6) agriculture.</description>
     </item>
     
     <item>
       <title>Sampling information and water-quality data collected during viable avian influenza virus sampling in Iowa wetlands, 2022</title>
-      <link>http://example.org/10.5066/p9y9ezi9/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9y9ezi9/</link>
       <pubDate>Tue, 21 Nov 2023 20:54:28 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9y9ezi9/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9y9ezi9/</guid>
       <description>Abstract Data sets containing: (1) sampling information and equipment, (2) precipitation and air temperature data from Iowa counties containing wetlands sampled, (3) water quality measurements from Iowa wetlands sampled, (4) quality assurance quality control sample result information, and (4) similarities between the highly pathogenic H5N1 virus water sequence and other highly pathogenic avian influenza H5N1 viruses sequenced from poultry and wild birds in Iowa.
 Access Points https://www.sciencebase.gov/catalog/item/6446cc2fd34ee8d4adec6c45</description>
     </item>
     
     <item>
       <title>Development, testing and use of four species-specific qPCR assays for freshwater mussel eDNA detection in the Niobrara River</title>
-      <link>http://example.org/10.5066/p96qmw8w/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p96qmw8w/</link>
       <pubDate>Tue, 21 Nov 2023 15:39:10 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p96qmw8w/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p96qmw8w/</guid>
       <description>Abstract This data consists of information on the specificity and sensitivity of 4 species specific qPCR assays for the detection of eDNA from 4 species of freshwater mussels, specifically Lampsilis cardium, Lampsilis siliquoidea, Pyganodon grandis, and Anodontoides ferussacianus. The data also contain the results of eDNA sampling in Niobrara River at Niobrara National Scenic River and Agate Fossil Beds National Monument for detection of these 4 species.
 Access Points https://www.sciencebase.gov/catalog/item/655b8b1dd34ee4b6e05cbcd5</description>
     </item>
     
     <item>
       <title>Post-fire species point intercept data from four megafires in the Great Basin</title>
-      <link>http://example.org/10.5066/p97b8ti7/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p97b8ti7/</link>
       <pubDate>Tue, 21 Nov 2023 15:32:30 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p97b8ti7/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p97b8ti7/</guid>
       <description>Abstract Data set is a combined collection of post-fire species point intercept cover monitoring data across the Murphy 2007 fire, Rush 2012 fire, Holloway 2012 fire, and Soda 2015 fire. Data was collected between 2008 and 2022 by the Bureau of Land Management, US Geological Survey, and Idaho Fish and Wildfire for various purposes. The species data was leveraged to assess post-fire community structure and trajectories.
 Access Points https://www.sciencebase.gov/catalog/item/65412f64d34ee4b6e05bcd8f</description>
     </item>
     
     <item>
       <title>Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) Green Bay, U.S.: Dikes</title>
-      <link>http://example.org/10.5066/p9rrv9aj/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9rrv9aj/</link>
       <pubDate>Tue, 21 Nov 2023 15:27:47 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9rrv9aj/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9rrv9aj/</guid>
       <description>Abstract This dataset is part of the U.S. Geological Survey (USGS) Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) initiative. These data represent the location of dikes within the Green Bay Restoration Assessment (GBRA) study area. An ArcGIS model (Python script) identified dikes as having a difference in elevation above a certain threshold. If the elevation difference was below a certain threshold, the area was not considered a dike. However, if the difference in elevation between two points was significantly high, then the area was marked as a dike.</description>
     </item>
     
     <item>
       <title>Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) Green Bay, U.S.: Degree Flowlines</title>
-      <link>http://example.org/10.5066/p9qajrbw/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9qajrbw/</link>
       <pubDate>Tue, 21 Nov 2023 15:23:56 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9qajrbw/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9qajrbw/</guid>
       <description>Abstract This dataset is part of the U.S. Geological Survey (USGS) Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) initiative. These data represent the flowline network in the Green Bay Restoration Assessment (GBRA). It is attributed with the number of disconnections (e.g., road crossings) between the reach and Lake Ontario. The more road crossings on a flowline the more disconnected that area is from the lake and the less suitable it will be for restoration.</description>
     </item>
     
     <item>
       <title>Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) Green Bay, U.S.: Composite Model Layers</title>
-      <link>http://example.org/10.5066/p98l86i3/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p98l86i3/</link>
       <pubDate>Tue, 21 Nov 2023 15:21:28 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p98l86i3/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p98l86i3/</guid>
       <description>Abstract This dataset contains all the layers associated with U.S. Geological Survey (USGS) Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) initiative for the Green Bay Restoration Assessment (GBRA) which aims to identify and rank coastal areas with the greatest potential for wetland habitat restoration. Each layer has a unique contribution to the identification of restorable wetlands. The 7 parameters (Parameter 0: Mask, Parameter 1: Hydroperiod, Parameter 2: Wetland Soils, Parameter 3: Flowlines, Parameter 4: Conservation and Recreation Lands, Parameter 5: Impervious Surfaces, and Parameter 6: Land Use) and Index Composite directly correlate to areas that are recommended for restoration.</description>
     </item>
     
     <item>
       <title>Model Code, Outputs, and Supporting Data for Approaches to Process-Guided Deep Learning for Groundwater-Influenced Stream Temperature Predictions</title>
-      <link>http://example.org/10.5066/p9ko49ot/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ko49ot/</link>
       <pubDate>Tue, 21 Nov 2023 15:17:37 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9ko49ot/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ko49ot/</guid>
       <description>Abstract This model archive provides all data, code, and modeling results used in Barclay and others (2023) to assess the ability of process-guided deep learning stream temperature models to accurately incorporate groundwater-discharge processes. We assessed the performance of an existing process-guided deep learning stream temperature model of the Delaware River Basin (USA) and explored four approaches for improving groundwater process representation: 1) a custom loss function that leverages the unique patterns of air and water temperature coupling resulting from different temperature drivers, 2) inclusion of additional groundwater-relevant catchment attributes, 3) incorporation of additional process model outputs, and 4) a composite model.</description>
     </item>
     
     <item>
       <title>Machine-learning model predictions and rasters of groundwater salinity in the Mississippi Alluvial Plain</title>
-      <link>http://example.org/10.5066/p9wse8js/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9wse8js/</link>
       <pubDate>Tue, 21 Nov 2023 15:13:37 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9wse8js/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9wse8js/</guid>
       <description>Abstract Groundwater from the Mississippi River Valley alluvial aquifer (MRVA), coincident with the Mississippi Alluvial Plain (MAP), is a vital resource for agriculture and drinking-water supplies in the central United States. Water availability can be limited in some areas of the aquifer by high concentrations of salinity, measured as specific conductance. Boosted regression trees (BRT), a type of ensemble-tree machine-learning method, were used to predict specific conductance concentration at multiple depths throughout the MRVA and underlying aquifers.</description>
     </item>
     
     <item>
       <title>EAARL Coastal Topography-Louisiana, Mississippi and Alabama, September 2006: First and Last Return Elevation Data</title>
-      <link>http://example.org/10.5066/f7765cf4/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7765cf4/</link>
       <pubDate>Tue, 21 Nov 2023 14:54:37 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7765cf4/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7765cf4/</guid>
       <description>Abstract This dataset, prepared by the U.S. Geological Survey St. Petersburg Coastal and Marine Science Center, provides first and last return elevation data collected during a September 20-22, 2006 airborne lidar survey for the Chandeleur Islands, Louisiana, and Cat Island, Mississippi, through Dauphin Island, Alabama. Elevation measurements were collected over the area using the National Aeronautics and Space Administration (NASA) Experimental Advanced Airborne Research Lidar (EAARL), a pulsed laser ranging system mounted onboard an aircraft to measure ground elevation, vegetation canopy, and coastal topography.</description>
     </item>
     
     <item>
       <title>Laboratory Observations of Artificial Sand and Oil Agglomerates Video and Velocity Data</title>
-      <link>http://example.org/10.5066/f76d5r69/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f76d5r69/</link>
       <pubDate>Tue, 21 Nov 2023 14:52:09 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f76d5r69/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f76d5r69/</guid>
       <description>Abstract The U.S. Geological Survey conducted experiments during March of 2014 to expand the available data on sand and oil agglomerate motion; test shear stress based incipient motion parameterizations in a controlled, laboratory setting; and directly observe sand and oil agglomerate exhumation and burial processes. Experiments were carried out at the Naval Research Laboratory, Stennis Space Center, Stennis, Mississippi using a small-oscillatory flow tunnel. HD Video data was collected by two Canon 7D DSLR cameras.</description>
     </item>
     
     <item>
       <title>Projected Seafloor Elevation Change and Relative Sea Level Rise Near St. Croix, U.S. Virgin Islands 25, 50, 75, and 100 Years from 2014</title>
-      <link>http://example.org/10.5066/p9zpzxkf/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9zpzxkf/</link>
       <pubDate>Tue, 21 Nov 2023 14:47:53 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9zpzxkf/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9zpzxkf/</guid>
       <description>Abstract The U.S. Geological Survey (USGS) St. Petersburg Coastal and Marine Science Center conducted research to quantify bathymetric changes near Buck Island and St. Croix, U.S. Virgin Islands. Changes in seafloor elevation were calculated using historical bathymetric point data from the 1980s (see Yates and others, 2017a) and light detection and ranging (lidar)-derived data acquired in 2014 (NOAA, 2015) using methods outlined in Yates and others (2017b). An elevation change analysis between the 1980s and 2014 data was performed to quantify and map historical impacts to seafloor elevation and to determine elevation-change statistics for 12 habitat types found near St, Croix.</description>
     </item>
     
     <item>
       <title>Seafloor elevation change in Maui, St. Croix, St. Thomas, and the Florida Keys</title>
-      <link>http://example.org/10.5066/f7wq01w0/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7wq01w0/</link>
       <pubDate>Tue, 21 Nov 2023 14:47:52 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7wq01w0/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7wq01w0/</guid>
       <description>Abstract The U.S. Geological Survey (USGS) St. Petersburg Coastal and Marine Science Center conducted research to quantify the combined effect of all constructive and destructive processes on modern coral reef ecosystems by measuring regional-scale changes in seafloor elevation. USGS staff assessed five coral reef ecosystems in the Atlantic Ocean (Upper and Lower Florida Keys), Caribbean Sea (U.S. Virgin Islands: St. Thomas and Buck Island, St. Croix), and Pacific Ocean (Maui, Hawaii), including both coral-dominated and adjacent, non-coral dominated habitats.</description>
     </item>
     
     <item>
       <title>Projected Seafloor Elevation Change and Relative Sea Level Rise Surrounding Maui, Hawaii 25, 50, 75, and 100 Years from 1999</title>
-      <link>http://example.org/10.5066/p9diyqv4/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9diyqv4/</link>
       <pubDate>Tue, 21 Nov 2023 14:45:48 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9diyqv4/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9diyqv4/</guid>
       <description>Abstract The U.S. Geological Survey (USGS) St. Petersburg Coastal and Marine Science Center conducted research to quantify bathymetric changes surrounding Maui, Hawaii. Changes in seafloor elevation were calculated using historical bathymetric point data from the 1960s (see Yates and others, 2017a) and light detection and ranging (lidar)-derived data acquired in 1999 (NOAA, 2013) using methods outlined in Yate and others (2017b). An elevation change analysis between the 1960s and 1999 data was performed to quantify and map historical impacts to seafloor elevation and to determine elevation-change statistics for 12 habitat types found surrounding Maui.</description>
     </item>
     
     <item>
       <title>Projected Seafloor Elevation Change and Relative Sea Level Rise Near St. Thomas, U.S. Virgin Islands 25, 50, 75, and 100 Years from 2014</title>
-      <link>http://example.org/10.5066/p9xx37mp/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9xx37mp/</link>
       <pubDate>Tue, 21 Nov 2023 14:44:06 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9xx37mp/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9xx37mp/</guid>
       <description>Abstract The U.S. Geological Survey (USGS) St. Petersburg Coastal and Marine Science Center conducted research to quantify bathymetric changes near St. Thomas, U.S. Virgin Islands. Changes in seafloor elevation were calculated using historical bathymetric point data from the 1960s and 1970s (see Yates and others, 2017a) and light detection and ranging (lidar)-derived elevation data acquired in 2014 (NOAA, 2015) using methods outlined in Yates and others (2017b). An elevation change analysis between the historical and 2014 data was performed to quantify and map historical impacts to seafloor elevation and to determine elevation-change statistics for 18 habitat types found near St.</description>
     </item>
     
     <item>
       <title>Multichannel sparker seismic reflection data of USGS field activity 2018-658-FA collected between Cape Blanco and Cape Mendocino from 2018-10-04 to 2018-10-18</title>
-      <link>http://example.org/10.5066/p9r3qm97/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9r3qm97/</link>
       <pubDate>Tue, 21 Nov 2023 13:53:21 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9r3qm97/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9r3qm97/</guid>
       <description>Abstract This data release contains processed high-resolution multichannel sparker seismic-reflection (MCS) data that were collected aboard Humboldt State University&amp;rsquo;s R/V Coral Sea in October of 2018 on U.S. Geological Survey cruise 2018-658-FA on the shelf and slope between Cape Blanco, Oregon, and Cape Mendocino, California. MCS data were collected to characterize quaternary deformation and sediment dynamics along the southern Cascadia margin.
 Access Points https://www.sciencebase.gov/catalog/item/5e2a40a5e4b0a79317cf81b0</description>
     </item>
     
     <item>
       <title>Snake River Plain Play Fairway Analysis Phase 1 Favorability Model (DE EE0006733)</title>
-      <link>http://example.org/10.5066/p95eulti/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p95eulti/</link>
       <pubDate>Tue, 21 Nov 2023 08:55:29 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p95eulti/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p95eulti/</guid>
       <description>Abstract This data release contains all digital geographic data used and produced by the Snake River Plain Play Fairway Analysis (DE EE0006733) for Phase 1 (ArcGIS shapefiles and raster files) as well as the model processing script, tables, and documentation used to generate data outputs. Brief descriptions of data layers are in the metadata of GIS files, greater detail is available in the Larger Work, the Snake River Plain Play Fairway Analysis Phase 1 report.</description>
     </item>
     
     <item>
       <title>Snake River Plain Play Fairway Analysis Phase 2 Favorability Model (DE EE0006733)</title>
-      <link>http://example.org/10.5066/p9y8mezy/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9y8mezy/</link>
       <pubDate>Tue, 21 Nov 2023 08:55:29 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9y8mezy/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9y8mezy/</guid>
       <description>Abstract This data release contains all digital geographic data used and produced by the Snake River Plain Play Fairway Analysis (DE EE0006733) for Phase 2 (ArcGIS shapefiles and raster files) as well as the model processing script, tables, and documentation used to generate data outputs. Phase 2 examines two subset areas of the Phase 1 study area, Mountain Home and Camas Prairie. Brief descriptions of data layers are in the metadata of GIS files, greater detail is available in the Larger Work, the Snake River Plain Play Fairway Analysis Phase 2 report.</description>
     </item>
     
     <item>
       <title>National Land Cover Database (NLCD) 2019 Products</title>
-      <link>http://example.org/10.5066/p9kzcm54/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kzcm54/</link>
       <pubDate>Tue, 21 Nov 2023 08:55:19 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9kzcm54/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kzcm54/</guid>
       <description>Abstract The U.S. Geological Survey (USGS), in partnership with several federal agencies, has developed and released five National Land Cover Database (NLCD) products over the past two decades: NLCD 1992, 2001, 2006, 2011, and 2016. The 2016 release saw landcover created for additional years of 2003, 2008, and 2013. These products provide spatially explicit and reliable information on the Nation?s land cover and land cover change. To continue the legacy of NLCD and further establish a long-term monitoring capability for the Nation?</description>
     </item>
     
     <item>
       <title>ShakeMap</title>
-      <link>http://example.org/10.5066/f7w957b2/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7w957b2/</link>
       <pubDate>Tue, 21 Nov 2023 08:55:18 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7w957b2/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7w957b2/</guid>
       <description>Abstract ShakeMap is a product of the USGS Earthquake Hazards Program in conjunction with the regional seismic networks. ShakeMaps provide near-real-time maps of ground motion and shaking intensity following significant earthquakes. These maps are used by federal, state, and local organizations, both public and private, for post-earthquake response and recovery, public and scientific information, as well as for preparedness exercises and disaster planning.
 Access Points http://earthquake.usgs.gov/data/shakemap/</description>
     </item>
     
     <item>
       <title>Groundwater, surface water, and soil data collected near and at the Ammonium Perchlorate Rocket Motor Destruction (ARMD) facility at the Letterkenny Army Depot, Chambersburg, Pennsylvania</title>
-      <link>http://example.org/10.5066/p92yiatz/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p92yiatz/</link>
       <pubDate>Mon, 20 Nov 2023 23:03:30 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p92yiatz/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p92yiatz/</guid>
       <description>Abstract Sampling was conducted by the U.S. Geological Survey (USGS) at four wells, one surface water site, and five soil sampling locations near and at the Ammonium Perchlorate Rocket Motor Destruction (ARMD) facility at the Letterkenny Army Depot. Analytical results for groundwater samples collected in 2021 are provided in ?ARMD_wells_data_2021.xlsx?. Analytical results for surface-water samples collected in 2021 are provided in ?ARMD_sw_data_2021.xlsx?. Analytical results for soil samples collected in 2021 are provided in ?</description>
     </item>
     
     <item>
       <title>MODFLOW-2005 and MODPATH models in support of groundwater flow model investigation of water resources at Chaco Culture National Historical Park</title>
-      <link>http://example.org/10.5066/p98ltter/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p98ltter/</link>
       <pubDate>Mon, 20 Nov 2023 20:43:50 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p98ltter/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p98ltter/</guid>
       <description>Abstract Situated in a remote corner of northwestern New Mexico, Chaco Culture National Historical Park (CCNHP) was once the center of a sophisticated social, political and architectural civilization with a 50,000-square mile sphere of influence. The park protects the greatest concentration of Chacoan historical sites in the American Southwest and is arguably the most significant prehistoric site in North America. Following decades of unsuccessful attempts to develop usable near-surface water sources, the National Park Service constructed a 3,100-foot deep well into the Gallup Sandstone aquifer in 1972, providing the park with the first reliable drinking water source since it was established in 1907.</description>
     </item>
     
     <item>
       <title>Data supporting the 2019 geomorphic survey of North Fork Eagle Creek, New Mexico</title>
-      <link>http://example.org/10.5066/p97alynz/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p97alynz/</link>
       <pubDate>Mon, 20 Nov 2023 20:11:11 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p97alynz/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p97alynz/</guid>
       <description>Abstract This U.S. Geological Survey (USGS) data release contains results from the 2019 geomorphic survey of North Fork Eagle Creek, New Mexico. The 2019 geomorphic survey was conducted by the USGS, in cooperation with the Village of Ruidoso, New Mexico, and is the third in a planned series of five annual geomorphic surveys of the stream reach located between the North Fork Eagle Creek near Alto, New Mexico, streamflow-gaging station (USGS site 08387550) and the Eagle Creek below South Fork near Alto, New Mexico, streamflow-gaging station (USGS site 08387600).</description>
     </item>
     
     <item>
       <title>Data supporting the 2018 geomorphic survey of North Fork Eagle Creek, New Mexico</title>
-      <link>http://example.org/10.5066/p94zqhku/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p94zqhku/</link>
       <pubDate>Mon, 20 Nov 2023 20:08:47 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p94zqhku/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p94zqhku/</guid>
       <description>Abstract This U.S. Geological Survey (USGS) data release contains results from the 2018 geomorphic survey of North Fork Eagle Creek, New Mexico. The 2018 geomorphic survey was conducted by the USGS, in cooperation with the Village of Ruidoso, New Mexico, and is the second in a planned series of five annual geomorphic surveys of the stream reach located between the North Fork Eagle Creek near Alto, New Mexico, streamflow-gaging station (USGS site 08387550) and the Eagle Creek below South Fork near Alto, New Mexico, streamflow-gaging station (USGS site 08387600).</description>
     </item>
     
     <item>
       <title>Data supporting the 2017 geomorphic survey of North Fork Eagle Creek, New Mexico</title>
-      <link>http://example.org/10.5066/f7pr7tx3/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7pr7tx3/</link>
       <pubDate>Mon, 20 Nov 2023 20:06:12 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7pr7tx3/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7pr7tx3/</guid>
       <description>Abstract This U.S. Geological Survey (USGS) data release contains the results from the 2017 geomorphic survey of North Fork Eagle Creek, New Mexico. The 2017 geomorphic survey was conducted by the USGS, in cooperation with the Village of Ruidoso, New Mexico, and is the first in a planned series of five annual geomorphic surveys of the stream reach located between the North Fork Eagle Creek near Alto, New Mexico, streamflow-gaging station (USGS site 08387550) and the Eagle Creek below South Fork near Alto, New Mexico, streamflow-gaging station (USGS site 08387600).</description>
     </item>
     
     <item>
       <title>United States Register of Introduced and Invasive Species (US-RIIS)</title>
-      <link>http://example.org/10.5066/p95xl09q/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p95xl09q/</link>
       <pubDate>Mon, 20 Nov 2023 10:24:57 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p95xl09q/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p95xl09q/</guid>
       <description>Abstract Introduced (non-native) species that becomes established may eventually become invasive, so tracking introduced species provides a baseline for effective modeling of species trends and interactions, geospatially and temporally. The United States Register of Introduced and Invasive Species (US-RIIS) is comprised of three lists, one each for Alaska (AK, with 532 records), Hawaii (HI, with 6,075 records), and the conterminous United States (L48, with 8,657 records). Each list includes introduced (non-native), established (reproducing) taxa that: are, or may become, invasive (harmful) in the locality; are not known to be harmful there; and/or have been used for biological control in the locality.</description>
     </item>
     
     <item>
       <title>Global Multi-resolution Terrain Elevation Data 2010 (GMTED2010)</title>
-      <link>http://example.org/10.5066/f7j38r2n/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7j38r2n/</link>
       <pubDate>Sun, 19 Nov 2023 08:55:43 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7j38r2n/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7j38r2n/</guid>
       <description>Abstract The U.S. Geological Survey (USGS) and the National Geospatial-Intelligence Agency (NGA) have collaborated on the development of a notably enhanced global elevation model named the Global Multi-resolution Terrain Elevation Data 2010 (GMTED2010) that replaces GTOPO30 as the elevation dataset of choice for global and continental scale applications. GMTED2010 provides a new level of detail in global topographic data. The GMTED2010 product suite contains seven new raster elevation products for each of the 30-, 15-, and 7.</description>
     </item>
     
     <item>
       <title>Household survey data about participation in wildfire risk mitigation cost-share in western Colorado 2013-2017</title>
-      <link>http://example.org/10.5066/p9uc6wk9/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9uc6wk9/</link>
       <pubDate>Sun, 19 Nov 2023 04:56:29 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9uc6wk9/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9uc6wk9/</guid>
       <description>Abstract Household survey data about participation in wildfire risk mitigation cost-share programs and related questions, including stated barriers to conducting wildfire risk mitigation, basic demographics, and willingness to pay toward that cost-share program. Data (n=1,689) were collected in 95 communities exposed to wildfire risk in six counties in western Colorado, 2013-2017, with an overall survey response rate of 41.9%. The household surveys providing data were organized and implemented by two regional wildfire risk mitigation organizations, West Region Wildfire Council and Wildfire Adapted Partnership (formerly Firewise of Southwest Colorado).</description>
     </item>
     
     <item>
       <title>Sediment model inputs and outputs for the Smith Creek watershed near New Market, Virginia for 2012-2016</title>
-      <link>http://example.org/10.5066/p9avghmb/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9avghmb/</link>
       <pubDate>Sun, 19 Nov 2023 04:56:21 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9avghmb/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9avghmb/</guid>
       <description>Abstract This data release includes data created, collected, and/or otherwise modified in the process of quantifying a sediment budget for the Smith Creek Watershed near New Market, Virginia, USA. Five raster files are included, namely a modeled index of hydrological connectivity, a raster model of modeled floodplain depositional masses and extent, a rasters of modeled gross and delivered upland erosion, and a hydrologically conditioned Digital Elevation Model (DEM). Two vector shapefiles are also included.</description>
     </item>
     
     <item>
       <title>Data Release for Luminescence: Construction and modification of debris-flow alluvial fans as captured in the geomorphic and sedimentary record: examples from the western Sangre de Cristo Mountains, south-central Colorado</title>
-      <link>http://example.org/10.5066/p96162bf/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p96162bf/</link>
       <pubDate>Sun, 19 Nov 2023 04:56:13 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p96162bf/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p96162bf/</guid>
       <description>Abstract The following report summarizes the dating results from the San Luis Valley-Pioneer Fan 2017-2019 dating project. Within this report, we detail the methodology used by the USGS Luminescence Geochronology Laboratory to obtain ages including sample preparation methods, luminescence measurement, equivalent dose determination, and dating-related calculations. We recommend that this report be included as the supplementary material for any publication(s) that use the ages within this report.
 Access Points https://www.sciencebase.gov/catalog/item/630e7febd34e36012ef9f6bb</description>
     </item>
     
     <item>
       <title>Farmington Lake Sediment Descriptions, Total Sediment Chemistry, and Batch Experiment Chemistry</title>
-      <link>http://example.org/10.5066/p9kr7nsl/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kr7nsl/</link>
       <pubDate>Sun, 19 Nov 2023 04:34:23 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9kr7nsl/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kr7nsl/</guid>
       <description>Abstract These datasets provide information about the physical properties, total sediment chemistry, and batch experiment chemistry (to evaluate element mobility) of sediment cores from the Farmington Lake reservoir in Farmington, NM. The sediment cores were collected in November 2019.
 Access Points https://www.sciencebase.gov/catalog/item/5e41d3e5e4b0edb47be63c63</description>
     </item>
     
     <item>
       <title>Historical Produced Water Chemistry Data Compiled for the North Coles Levee Oilfield, Kern County, California</title>
-      <link>http://example.org/10.5066/p9gd7w9l/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9gd7w9l/</link>
       <pubDate>Sun, 19 Nov 2023 04:33:22 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9gd7w9l/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9gd7w9l/</guid>
       <description>Abstract This dataset contains geochemical and other information for 40 historical samples of produced water from the North Coles Levee Oil Field. Three of these samples are from commingled tanks containing produced water from multiple wells as noted in the Remarks column. Water that is produced as a byproduct of oil production is called produced water. The numerical water chemistry data were compiled by the U.S. Geological Survey (USGS) from scanned laboratory analysis reports available from the California Geologic Energy Management Division (CalGEM).</description>
     </item>
     
     <item>
       <title>Geophysical, geological, hydrological, and geochemical data for aquifer salinity mapping in the Elk Hills, Buena Vista, and Coles Levee Oil Fields, Kern County, California</title>
-      <link>http://example.org/10.5066/p9kwnefw/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kwnefw/</link>
       <pubDate>Sun, 19 Nov 2023 04:30:17 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9kwnefw/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kwnefw/</guid>
       <description>Abstract The U.S. Geological Survey (USGS) in cooperation with the California State Water Resources Control Board (State Water Board) compiled and analyzed data for mapping groundwater salinity, characterizing aquifer systems, and documenting the effects of oil field water injection in the Elk Hills Elk Hills, Buena Vista, and Coles Levee Oil Fields, San Joaquin Valley, California. Data provided in this data release include borehole geophysical data, geochemical analyses of water samples, hydrologic data, geological formation depths, and information on observed well log resistivity anomalies - interpreted to be from injection for disposal of produced water from oil wells or from natural causes.</description>
     </item>
     
     <item>
       <title>Inorganic chemistry data for groundwater wells near selected oil fields in the southwestern San Joaquin Valley, central California</title>
-      <link>http://example.org/10.5066/p9xk9aq1/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9xk9aq1/</link>
       <pubDate>Sun, 19 Nov 2023 04:28:17 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9xk9aq1/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9xk9aq1/</guid>
       <description>Abstract This digital dataset contains geochemical and other information for 1,209 samples of groundwater from 343 wells located within 3-miles of the Buena Vista, Elk Hills, Midway-Sunset, and North and South Coles Levee oil fields in the southwestern San Joaquin Valley of central California. Data were compiled by the U.S. Geological Survey (USGS) from preexisting datasets and transferred manually into two separate data files described as follows: 1) a summary data file identifying each well, it&amp;rsquo;s location, basic well construction, the number of chemistry samples and period of record, and data sources; and 2) a data file of geochemistry analyses for selected water-quality indicators, major and minor ions, nutrients, and trace elements, plus parameter code and (or) method, reporting level, reporting level type, and supplemental notes.</description>
     </item>
     
     <item>
       <title>Tracking Data for Bar-tailed Godwits (Limosa lapponica)</title>
-      <link>http://example.org/10.5066/p9a9byqw/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9a9byqw/</link>
       <pubDate>Sat, 18 Nov 2023 01:31:12 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9a9byqw/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9a9byqw/</guid>
       <description>Abstract This metadata document describes the data contained in the &amp;ldquo;rawData&amp;rdquo; folder of this data package. This data package contains all data collected by the Argos System from 63 satellite transmitters attached to Bar-tailed Godwits on their breeding range in arctic and western Alaska, 2005-2010. Five data files are included in the &amp;ldquo;rawData&amp;rdquo; folder of this data package. Two data files (with identical content) contain the raw Argos DIAG (Diagnostic) data, one in the legacy verbose ASCII format and one in a tabular Comma Separate Value (CSV) format.</description>
     </item>
     
     <item>
       <title>Daily Climate and Soil Moisture Data for the Southern Colorado Plateau Network Parks, 1980 &amp;amp;ndash; 2018 (ver. 1.1, November, 2023)</title>
-      <link>http://example.org/10.5066/p9wqtbp0/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9wqtbp0/</link>
       <pubDate>Fri, 17 Nov 2023 16:16:24 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9wqtbp0/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9wqtbp0/</guid>
       <description>Abstract These data are daily climate, water balance, and soil moisture data for 270 plots in the National Park Service (NPS) Southern Colorado Plateau Network (SCPN) Inventory &amp;amp;amp;amp;amp;amp;amp; Monitoring (I&amp;amp;amp;amp;amp;amp;amp;M) network. Climate data was collected from a gridded, daily climate dataset, Daymet (https://daymet.ornl.gov/). Climate, alongside field-collected soils (SoilDepthsByPlot.csv) and vegetation information, were then used to drive a point based, daily, multi soil-layer, ecosystem water-balance model, SOILWAT2 (https://github.com/DrylandEcology/SOILWAT2). SCPN plots were established to capture the range of ecosystem conditions present in this network.</description>
     </item>
     
     <item>
       <title>Serologic Survey of Selected Arthropod Borne Pathogens in Free-ranging Snowshoe Hares (Lepus americanus) Captured in Northern Michigan, USA</title>
-      <link>http://example.org/10.5066/p9bkg8kh/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9bkg8kh/</link>
       <pubDate>Fri, 17 Nov 2023 15:04:14 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9bkg8kh/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9bkg8kh/</guid>
       <description>Abstract We conducted a serosurvey of snowshoe hares (Lepus americanus) for vector-borne pathogens in 2016-2017 that were captured in the Hiawatha National Forest in the eastern Upper Peninsula of Michigan, USA. At capture, in addition to age, sex, body weight of the hare and a blood sample data was collected on the ecological land type (USDA Forest Service. 2006. Hiawatha National Forest 2006 Forest Plan. https://www.fs.usda.gov/detail/hiawatha/landmanagement/planning/?cid=STELPRDB5106336) at the point of capture.</description>
     </item>
     
     <item>
       <title>MODFLOW-2005 model used to simulate the regional groundwater flow system in the updated New Jersey Coastal Plain model, 1980-2013</title>
-      <link>http://example.org/10.5066/p9w6rxfc/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9w6rxfc/</link>
       <pubDate>Fri, 17 Nov 2023 14:56:06 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9w6rxfc/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9w6rxfc/</guid>
       <description>Abstract A third revision of the New Jersey Coastal Plain (NJCP) groundwater flow model, using MODFLOW-2005 (version 1.12.00), was completed to maintain the model?s usefulness for water-resource managment and development. The regional groundwater-flow model was initially developed for the U.S. Geological Survey (USGS) Regional Aquifer System Analysis (RASA) program. Periodic revision of the model is required as the result of changing hydrologic stresses, different and more complex water management needs, and increased knowledge of hydrologic conditions.</description>
     </item>
     
     <item>
       <title>Urban elemental and grain size characteristics of sediments collected in the Jones Falls watershed in Baltimore, Maryland for 2021-2022</title>
-      <link>http://example.org/10.5066/p9v1l3qi/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9v1l3qi/</link>
       <pubDate>Fri, 17 Nov 2023 14:45:17 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9v1l3qi/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9v1l3qi/</guid>
       <description>Abstract This metadata record documents a single comma delimited table that contains information on the elemental composition and particle size distribution of sediments within Jones Falls watershed in Baltimore, Maryland.
 Access Points https://www.sciencebase.gov/catalog/item/651d910ed34e44db0e2d44ce</description>
     </item>
     
     <item>
       <title>Trace element chemistry of sulfides and quartz, in situ sulfur isotope values of sulfides, cathodoluminescence of quartz, fluid inclusion microthermometry and raman, and radiogenic isotope and whole rock geochemistry from the Stibnite-Yellow Pine district, Idaho 2016-2022</title>
-      <link>http://example.org/10.5066/p91acjsc/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p91acjsc/</link>
       <pubDate>Fri, 17 Nov 2023 14:24:50 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p91acjsc/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p91acjsc/</guid>
       <description>Abstract This dataset is a collection of geochemical data on samples from the Stibnite-Yellow Pine district of Idaho. The datasets include: whole rock geochemistry; lead, strontium and neodymium isotope chemistry of sulfides and whole rock samples by isotope dilution-thermal-mass spectrometry (ID-TIMS); in situ sulfur isotope chemistry of sulfides by laser ablation-multi collector-inductively coupled-mass spectrometry (LA-MC-ICP-MS); electron microprobe (EMP) images, cathodoluminescence (CL) images and spectra, along with EMP and laser ablation-inductively coupled-mass spectrometry (LA-ICP-MS) trace element analysis of sulfides and quartz; and fluid inclusion microthermometry and raman.</description>
     </item>
     
     <item>
       <title>Shuttle Radar Topography Mission (SRTM) Void Filled</title>
-      <link>http://example.org/10.5066/f7f76b1x/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7f76b1x/</link>
       <pubDate>Fri, 17 Nov 2023 08:55:20 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7f76b1x/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7f76b1x/</guid>
       <description>Abstract The Shuttle Radar Topography Mission (SRTM) was flown aboard the space shuttle Endeavour February 11-22, 2000. The National Aeronautics and Space Administration (NASA) and the National Geospatial-Intelligence Agency (NGA) participated in an international project to acquire radar data which were used to create the first near-global set of land elevations.
 Access Points https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-void?qt-science_center_objects=0#qt-science_center_objects</description>
     </item>
     
     <item>
       <title>Great Lakes Research Vessel Catch (RVCAT) Database</title>
-      <link>http://example.org/10.5066/p9xvolr1/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9xvolr1/</link>
       <pubDate>Fri, 17 Nov 2023 08:55:09 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9xvolr1/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9xvolr1/</guid>
       <description>Abstract The Great Lakes Research Vessel Catch (RVCAT) database is managed at the Great Lakes Science Center (GLSC). RVCAT has been used as the primary data collection tool aboard the GLSC?s research vessel operations across the Great Lakes. Content: The data set has been collected on various vessel operations on all the Great Lakes and select connecting waterways between the years 1930-2021. Data collection begins in early spring and ends in late fall.</description>
     </item>
     
     <item>
       <title>Hydrodynamic model output and image simulation code for evaluating image-based river velocimetry from a case study on the Sacramento River near Glenn, California</title>
-      <link>http://example.org/10.5066/p9c19z0s/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9c19z0s/</link>
       <pubDate>Thu, 16 Nov 2023 22:16:57 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9c19z0s/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9c19z0s/</guid>
       <description>Abstract This data release includes the data and code used for the manuscript titled &amp;ldquo;A framework to facilitate development and testing of image-based river velocimetry algorithms&amp;rdquo;, submitted to the journal Earth Surface Processes and Landforms. Three *.csv files and five *.m files with MATLAB source code are included below. Each *.csv file contains output from a hydrodynamic model of a reach of the Sacramento River near Glenn, California, with a separate file for each of three different discharges (i.</description>
     </item>
     
     <item>
       <title>Stable isotope data for sea turtles and prey items in St. Joseph Bay, FL (2011-2021) and comprehensive summary of sea turtle diet papers</title>
-      <link>http://example.org/10.5066/p9ch622o/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ch622o/</link>
       <pubDate>Thu, 16 Nov 2023 20:46:00 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9ch622o/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ch622o/</guid>
       <description>Abstract This stable isotope dataset includes the carbon and nitrogen values for loggerhead, Kemp&amp;rsquo;s ridley, green sea turtles and their prey items in St. Joseph Bay, FL sampled between 2011 and 2021. 2. This dataset was created from a collection of sea turtle diet papers to produce a comprehensive summary of sea turtle diet based on scientific publications for loggerhead, Kemp&amp;rsquo;s ridley and green turtles. Access Points https://www.sciencebase.gov/catalog/item/639c8afad34e0de3a1f21ef3</description>
     </item>
     
     <item>
       <title>ShakeMap Atlas V4 and AtlasCat</title>
-      <link>http://example.org/10.5066/p98atogz/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p98atogz/</link>
       <pubDate>Thu, 16 Nov 2023 20:29:48 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p98atogz/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p98atogz/</guid>
       <description>Abstract The Atlas of ShakeMaps (~14,100 earthquakes, 1900-2020) provides a consistent and quantitative description of the distribution of shaking intensity for calibrating earthquake loss estimation methodologies, like those used in the USGS Prompt Assessment of Global Earthquakes for Response (PAGER)�system. Version 4 of the Atlas includes a vastly expanded compilation of ShakeMaps for consequential and widely felt earthquakes using updated ShakeMap (Version 4)�software. For each event, we have attempted to gather available macroseismic, recorded ground motions and finite fault inputs.</description>
     </item>
     
     <item>
       <title>Compilation of Geospatial Data (GIS) for the Mineral Industries and Related Infrastructure of the People&#39;s Republic of China</title>
-      <link>http://example.org/10.5066/p9hk2k8i/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9hk2k8i/</link>
       <pubDate>Thu, 16 Nov 2023 18:44:30 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9hk2k8i/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9hk2k8i/</guid>
       <description>Abstract The U.S. Geological Survey (USGS) has compiled a geodatabase containing mineral-related geospatial data for the People&amp;rsquo;s Republic of China. The data can be used in analyses of the extractive fuel and nonfuel mineral industries and related economic and physical infrastructure integral for the successful operation of the mineral industries within the area of study as well as the movement of mineral products across domestic and global markets. This geodatabase reflects the USGS ongoing commitment to its mission of understanding the nature and distribution of global mineral commodity supply chains by updating and publishing the georeferenced locations of mineral commodity production and processing facilities, mineral exploration and development sites, and mineral commodity exporting ports for the countries in the area of study.</description>
     </item>
     
     <item>
       <title>Land Change Monitoring, Assessment, and Projection (LCMAP) Collection 1.3 Annual Land Cover and Land Cover Change Validation Tables (1985&amp;amp;amp;ndash;2021) for the Conterminous United States</title>
-      <link>http://example.org/10.5066/p9aqyze0/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9aqyze0/</link>
       <pubDate>Thu, 16 Nov 2023 18:36:37 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9aqyze0/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9aqyze0/</guid>
       <description>Abstract A validation assessment of Land Cover Monitoring, Assessment, and Projection Collection 1.3 annual land cover products (1985?2021) for the Conterminous United States was conducted with an independently collected reference dataset. Reference data land cover attributes were assigned by trained interpreters for each year of the time series (1984?2021) to a reference sample of 26,971 Landsat resolution (30m x 30m) pixels. These pixels were selected from a sample frame of all pixels in the ARD grid system which fell within the map area (Dwyer et al.</description>
     </item>
     
     <item>
       <title>Index of vulnerability for elevated nitrates in groundwater in the Puget Sound Basin, Washington, 2000&amp;amp;amp;ndash;2019</title>
-      <link>http://example.org/10.5066/p9towgym/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9towgym/</link>
       <pubDate>Thu, 16 Nov 2023 18:22:19 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9towgym/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9towgym/</guid>
       <description>Abstract This data release consists of the initial well input data for the logistic regression model, the conceptual well data for logistic mapping, the logistic mapping output data, the logistic mapping output vulnerability and vulnerability difference rasters, and supporting geographic information system (GIS) files for the study titled &amp;ldquo;Index of Vulnerability for Elevated Nitrates in Groundwater in the Puget Sound, Washington.&amp;rdquo;
 Access Points https://www.sciencebase.gov/catalog/item/620fe06ed34e6c7e83baae63</description>
     </item>
     
     <item>
       <title>Grass Carp (Ctenopharyngodon idella) egg capture data from Great Lakes tributaries, 2021-2022 (ver. 1.1, November 2023)</title>
-      <link>http://example.org/10.5066/p98f9nsz/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p98f9nsz/</link>
       <pubDate>Thu, 16 Nov 2023 16:57:25 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p98f9nsz/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p98f9nsz/</guid>
       <description>Abstract The data includes dates, places, and times of sampling events for eggs of invasive Grass Carp (Ctenopharyngodon idella) in tributaries to the Great Lakes in 2021 and 2022. Reference data on locations and dates sampled, gears used, and effort are included. Developmental stages for a subset of undamaged, fertilized eggs are provided. Tables include common fields to allow for integration into a relational database to aid data extraction and associating data among tables.</description>
     </item>
     
     <item>
       <title>High-resolution Geophysical and Imagery Data Collected in November 2022 Offshore of Boca Chica Key, FL</title>
-      <link>http://example.org/10.5066/p9kncmfy/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kncmfy/</link>
       <pubDate>Thu, 16 Nov 2023 16:43:30 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9kncmfy/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kncmfy/</guid>
       <description>Abstract Scientists from the U.S. Geological Survey St. Petersburg Coastal and Marine Science Center in St. Petersburg, Florida (USGS - SPCSMC), conducted a geophysical and imagery survey around Boca Chica Key, Florida, during November 2022. During this study, multibeam bathymetry and acoustic backscatter data were collected aboard the research vessel (R/V) Sallenger using a Reson T50P Dual Head system. Underwater digital images and global positioning system (GPS) data were collected November 7-12, 2022, within a 1.</description>
     </item>
     
     <item>
       <title>Fluorescence sensor measurements in sediment suspensions to evaluate turbidity corrections</title>
-      <link>http://example.org/10.5066/p9ob430e/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ob430e/</link>
       <pubDate>Thu, 16 Nov 2023 16:33:46 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9ob430e/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9ob430e/</guid>
       <description>Abstract The use of field-deployable fluorescence sensors to better understand dissolved organic matter concentrations and composition has grown immensely in recent years. Applications of these sensors to critical monitoring efforts have also grown to encompass post-fire monitoring, wastewater tracking, and use as a proxy for various contaminants. Despite the growth, it is well known that these sensors are subject to various interferences and require corrections for temperature, turbidity, and concentration effects.</description>
     </item>
     
     <item>
       <title>Archive of Chirp Subbottom Profile Data Collected in 2022 From Boca Chica Key, Florida</title>
-      <link>http://example.org/10.5066/p95m6vht/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p95m6vht/</link>
       <pubDate>Thu, 16 Nov 2023 15:48:48 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p95m6vht/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p95m6vht/</guid>
       <description>Abstract As part of the Coastal Sediment Availability and Flux and Defense Advanced Research Protection Agency (DARPA) Reefense projects, scientists from the U.S. Geological Survey (USGS) St. Petersburg Coastal and Marine Science Center (SPCMSC) conducted a nearshore geophysical survey to map the shoreface and inner shelf, as well as characterizing stratigraphy near Boca Chica Key, Florida (FL) in November 2022. The purpose of this study was to conduct a geologic assessment (including bathymetric mapping) of the nearshore ledge off Boca Chica Key, FL, in support of efforts to construct an artificial coral reef offshore of Naval Air Station Key West.</description>
     </item>
     
     <item>
       <title>Amplified Fragment Length Polymorphism (AFLP) data obtained for 34 long-tailed vole (Microtus longicaudus) individuals at 91 loci</title>
-      <link>http://example.org/10.5066/p9yd9m3p/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9yd9m3p/</link>
       <pubDate>Thu, 16 Nov 2023 15:18:59 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9yd9m3p/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9yd9m3p/</guid>
       <description>Abstract Prior to removal of pest species from an area, resource managers must determine if re-immigration from another population is possible. Voles inhabiting Saddle Rock on the southern Oregon coast are suspected to be partially responsible for declines in the Leach&amp;rsquo;s storm petrel colony on the island. The island is very close to the mainland, and it is potentially accessible during below-average low tides. USGS scientists Mark Miller and Susan Haig and colleagues used genetic techniques to assess island vole population connectivity.</description>
     </item>
     
     <item>
       <title>Oceanographic conditions at Richardson reef reveal new suitable habitat for cold-water corals</title>
-      <link>http://example.org/10.5066/p9pdh0or/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9pdh0or/</link>
       <pubDate>Thu, 16 Nov 2023 15:00:34 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9pdh0or/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9pdh0or/</guid>
       <description>Abstract Cold-water corals create complex structures, but our incomplete knowledge of their niche space limits our ability to understand their distribution and therefore the impact of the ecosystem services they provide in the ocean. The Richardson reef complex consists of over 150 km of linear reef tracts within an area of 75 km2 between 700-900 m depth. This reef experiences rapid shifts in temperature, and currents approaching 1 meter per second.</description>
     </item>
     
     <item>
       <title>Water quality and gas fluxes of Interior Alaska (2014-2018)</title>
-      <link>http://example.org/10.5066/p9c6bdbq/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9c6bdbq/</link>
       <pubDate>Thu, 16 Nov 2023 08:55:36 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9c6bdbq/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9c6bdbq/</guid>
       <description>Abstract This product consists of multiple tabular datasets and associated metadata of water quality information related to rivers, streams, and lakes in the Yukon River watershed between 2014 and 2018. This data release is apart of the National Aeronautics and Space Administration (NASA) funded Arctic-Boreal Vulnerability Experiment (ABoVE) and is an assessment of water quality and greenhouse gas fluxes within the interior of Alaska. Sampling frequency varied across locations, with some sites sampled twice a year or more.</description>
     </item>
     
     <item>
       <title>Water-Quality Data from the Yukon River Basin in Alaska and Canada</title>
-      <link>http://example.org/10.5066/f77d2s7b/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f77d2s7b/</link>
       <pubDate>Thu, 16 Nov 2023 08:55:27 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f77d2s7b/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f77d2s7b/</guid>
       <description>Abstract The water-quality data available here has been collected as part of a collaborative monitoring project between the US Geological Survey, Yukon River Inter-Tribal Watershed Council, and Yukon River Basin communities known as the Indigenous Observation Network. Since 2006 the USGS National Research Program (NRP) and Yukon River Inter-Tribal Watershed Council (YRITWC) have been partnering to collect water-quality samples from the Yukon River and tributaries with the assistance of trained community members living in the Yukon River Basin.</description>
     </item>
     
     <item>
       <title>Radiocarbon Data for Tree Ring Samples from Girdwood, Alaska</title>
-      <link>http://example.org/10.5066/p9f4d7dp/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9f4d7dp/</link>
       <pubDate>Thu, 16 Nov 2023 00:42:05 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9f4d7dp/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9f4d7dp/</guid>
       <description>Abstract This dataset consists of sample details and radiocarbon age data of tree-ring samples collected near Girdwood, Alaska, and analyzed at the National Ocean Sciences Accelerator Mass Spectrometry Facility.
 Access Points https://alaska.usgs.gov/products/data.php?dataid=607</description>
     </item>
     
     <item>
       <title>Molecular Detection and Characterization of Highly Pathogenic H5N1 Avian Influenza Viruses in Wild Birds Inhabiting Western Alaska Provides Evidence for Three Independent Viral Introductions</title>
-      <link>http://example.org/10.5066/p9lph8zq/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9lph8zq/</link>
       <pubDate>Wed, 15 Nov 2023 22:48:25 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9lph8zq/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9lph8zq/</guid>
       <description>Abstract This data set describes three independent viral introductions of Highly pathogenic H5N1 avian influenza viruses into Alaska.
 Access Points https://alaska.usgs.gov/products/data.php?dataid=606</description>
     </item>
     
     <item>
       <title>Sea Otter Spraint Data from Kachemak Bay, Katmai National Park and Preserve, Kenai Fjords National Park and Prince William Sound</title>
-      <link>http://example.org/10.5066/p9edm6nl/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9edm6nl/</link>
       <pubDate>Wed, 15 Nov 2023 20:27:25 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9edm6nl/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9edm6nl/</guid>
       <description>Abstract These data are part of the Gulf Watch Alaska (GWA) long-term monitoring program. This dataset consist of observations of sea otter (Enhydra lutris) fecal samples (spraint). Observers examined fresh spraint piles to identify major prey classes in the samples and to determine sea otter diets in the Gulf of Alaska region.
 Access Points https://alaska.usgs.gov/products/data.php?dataid=500</description>
     </item>
     
     <item>
       <title>Black Oystercatcher Nest and Diet Data from Kachemak Bay, Katmai National Park and Preserve, Kenai Fjords National Park, and Prince William Sound</title>
-      <link>http://example.org/10.5066/f7wh2n5q/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7wh2n5q/</link>
       <pubDate>Wed, 15 Nov 2023 20:12:34 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7wh2n5q/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7wh2n5q/</guid>
       <description>Abstract These data are part of the Gulf Watch Alaska (GWA) long-term monitoring program, nearshore monitoring component. The dataset is comprised of six comma separated values (.csv) file exported from a relational database. The data consist of: 1) transect summary, 2) nest details, 3) egg float and stage data, 4) chicks diets, 5) chick diet taxonomy, and 6) Gulf Watch Alaska contributors.
 Access Points https://alaska.usgs.gov/products/data.php?dataid=127</description>
     </item>
     
     <item>
       <title>Biological and chemical data from laboratory toxicity exposures of wildland fire retardants to Rainbow Trout</title>
-      <link>http://example.org/10.5066/p9rvm9al/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9rvm9al/</link>
       <pubDate>Wed, 15 Nov 2023 19:52:45 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9rvm9al/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9rvm9al/</guid>
       <description>Abstract We measured Survival endpoints for juvenile rainbow trout (Oncorhynchus mykiss) in response to exposure to wildland fire retardants. Exposures were less than 24 hours. We documented time to mortality hourly through 12 hours of exposure and again at 24 hours. This data set includes data for three current use fire retardants from the US Forest Service Qualified Products List (Phos-Chek 259-Fx, Phos-Chek MVP-Fx, and Phos-Chek LC-95A-R). Also included are water quality data measured in each treatment at the beginning of each assay and quality assurance/ quality control data which validates the accuracy of those water quality measurements.</description>
     </item>
     
     <item>
       <title>Water-quality profiles within the Caloosahatchee River and twelve fiberglass tanks, during experimental nutrient addition treatments, 2021</title>
-      <link>http://example.org/10.5066/p9jx9na1/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9jx9na1/</link>
       <pubDate>Wed, 15 Nov 2023 19:33:34 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9jx9na1/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9jx9na1/</guid>
       <description>Abstract This U.S. Geological Survey (USGS) Data Release provides water-quality data collected during 1-week and 2-week nutrient studies beginning on February 22, May 17, and July 26 located in the Caloosahatchee River at the S-79 water-control structure. For each study period, 12 fiberglass tanks were suspended in the river using three floating cradles with each cradle holding four tanks. Each tank was open to the atmosphere and closed to the river.</description>
     </item>
     
     <item>
       <title>The chemistry of eolian quartz dust and the origin of chert</title>
-      <link>http://example.org/10.5066/p9sa2m1l/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9sa2m1l/</link>
       <pubDate>Wed, 15 Nov 2023 18:17:55 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9sa2m1l/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9sa2m1l/</guid>
       <description>Abstract Temporal and spatial sources of silica for chert remain poorly constrained. Modern sources to the worlds oceans include silica in rivers &amp;gt; aeolian (dust) deposition &amp;gt; sea floor vents and submarine weathering. However, changes in aridity and dust flux during the Phanerozoic may explain variations in the ocean silica cycle and times and places of chert formation. The chemistry of fine quartz dust (FQD) provides a chemical mechanism for the transformation of FQD to polymorphs of silica in chert; FQD is readily dissolved, then reprecipitated as Opal-A by either biotic or abiotic processes.</description>
     </item>
     
     <item>
       <title>Low biomass microbiology samples collected from a hydraulically fractured well producing from the Niobrara Shale in Colorado</title>
-      <link>http://example.org/10.5066/p9d9zogu/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9d9zogu/</link>
       <pubDate>Wed, 15 Nov 2023 18:13:54 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9d9zogu/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9d9zogu/</guid>
       <description>Abstract Low biomass waters provide a unique challenge in the field of microbial ecology. It is difficult to determine, when biomass concentrations are extremely low, whether or not the sequencing data received are of good quality and representative of the waters sampled. Fifty-nine samples including 8 blanks were collected from a low biomass hydraulically fractured well producing from the Niobrara Shale in Colorado. At least 4 samples were collected by filtering the exact volume for each listed here: 1000 mL, 900 mL, 800 mL, 700 mL, 600 mL, 500 mL, 400 mL, 300 mL, 200 mL, 100 mL, 0 mL (blanks).</description>
     </item>
     
     <item>
       <title>Geochemistry of Utica Shale Play and other Appalachian produced waters</title>
-      <link>http://example.org/10.5066/p9an5gj0/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9an5gj0/</link>
       <pubDate>Wed, 15 Nov 2023 18:11:16 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9an5gj0/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9an5gj0/</guid>
       <description>Abstract Citation Note: These data were collected as part of a research study published in Environmental Science and Technology. Please reference the following paper when citing these data. Blondes, M.S., Shelton, J.L., Engle, M.A., Trembly, J.P., Doolan, C.A., Jubb, A.M., Chenault, J.M., Rowan, E.L., Haefner, R.J., and Mailot, B.E., 2020, Utica Shale Play Oil and Gas Brines: Geochemistry and Factors Influencing Wastewater Management: Environmental Science &amp;amp; Technology, https://dx.doi.org/10.1021/acs.est.0c02461. The Utica and Marcellus Shale Plays in the Appalachian Basin are the 4th and 1st largest natural gas producing plays in the United States.</description>
     </item>
     
     <item>
       <title>Mineral abundances within bulk and size-fractionated mine waste from the Tar Creek Superfund Site, Tri-State Mining District, Oklahoma, U.S.A.</title>
-      <link>http://example.org/10.5066/p9zm36fg/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9zm36fg/</link>
       <pubDate>Wed, 15 Nov 2023 18:08:18 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9zm36fg/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9zm36fg/</guid>
       <description>Abstract Mineral abundances within bulk and size-fractionated mine waste from sampled historical waste piles from the Tar Creek Superfund Site, Oklahoma, U.S.A., were determined by Mineral Liberation Analysis (MLA) and X-Ray Diffraction (XRD). Data and methods reported are part of a research study published below in the &amp;lsquo;Related External Resources&amp;rsquo; section.
 Access Points https://www.sciencebase.gov/catalog/item/628e9ebcd34ef70cdba400d5</description>
     </item>
     
     <item>
       <title>Coking coal of the United States: Modern and historical locations of coking coal mining locations and chemical, rheological, petrographic, and other data from modern samples</title>
-      <link>http://example.org/10.5066/p9kfqokm/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kfqokm/</link>
       <pubDate>Wed, 15 Nov 2023 18:06:31 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9kfqokm/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9kfqokm/</guid>
       <description>Abstract For the open-file report we collected new coking coal samples from Alabama, Kentucky, Oklahoma and Arkansas and analyzed them for proximate and ultimate analyses; calorific value; sulfur forms; major-, minor-, and trace-element abundances; free swelling indices; Gieseler plasticity; ASTM dilatation; coal petrography, and several other tests [air-dry loss (ADL), residual moisture (RM), equilibrium moisture (EQM), and true specific gravity (TSG)]. Coal Stability Factor (CSF) and Coal Strength after Reaction with CO2 (CSR) were predicted using chemical, rheological, and petrographic data (pCSF and pCSR, respectively).</description>
     </item>
     
     <item>
       <title>Microbiology of the greater Bravo Dome region</title>
-      <link>http://example.org/10.5066/f76m361r/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f76m361r/</link>
       <pubDate>Wed, 15 Nov 2023 18:02:03 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f76m361r/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f76m361r/</guid>
       <description>Abstract Bravo Dome is a commercial natural CO2 field that supplies the gas to depleted oil fields for enhanced oil recovery. In order to understand the distribution of CO2 across the greater Bravo Dome region, including southeastern Colorado and northwestern New Mexico, and to assess the impacts of high CO2 concentrations on microbes in the subsurface, 7 samples were collected from sites associated with high natural CO2 concentrations. Four water samples were collected, two from wells producing within Bravo Dome, one from an oil and gas field north of Bravo Dome associated with high CO2 concentrations, the Oakdale field, and one sample from a shallow groundwater well on the Rafter K ranch that effervesces CO2.</description>
     </item>
     
     <item>
       <title>United States Gulf Coast Basin Curated Wells and Logs Database (ver. 2.0, November 2023)</title>
-      <link>http://example.org/10.5066/p95bnwt3/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p95bnwt3/</link>
       <pubDate>Wed, 15 Nov 2023 18:00:57 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p95bnwt3/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p95bnwt3/</guid>
       <description>Abstract The United States Gulf Coast Basin Curated Wells and Logs Database (CWLDB) is an online repository with stratigraphic information for petroleum wells in the United States portion of the onshore Gulf of Mexico Basin that provides several of the following attributes: a) deep penetrations (generally, total depth of 10,000 feet or more), b) high quality and diverse geophysical well log suites, c) lithostratigraphic logs, d) biostratigraphic units (biozones) and reports, and/or e) core or cuttings samples.</description>
     </item>
     
     <item>
       <title>ATR Data from Interaction of kerogen with brine-saturated supercritical carbon dioxide (CO2) and its implications to geologic carbon sequestration and enhanced oil/gas recovery (2018)</title>
-      <link>http://example.org/10.5066/p96iuh2/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p96iuh2/</link>
       <pubDate>Wed, 15 Nov 2023 17:58:17 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p96iuh2/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p96iuh2/</guid>
       <description>Abstract The dataset covers Attenuated Total Reflectance (ATR) measurements taken from altered kerogen in shales from the Woodford formation. The ATR measurements were taken after the samples were run through supercritical CO2 alteration experiments in a brine solution.
 Access Points https://www.sciencebase.gov/catalog/item/5d234766e4b0941bde64f1ac?community=Energy+Resources+Program</description>
     </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Robin D Calfee on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/robin-d-calfee/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/robin-d-calfee/</link>
     <description>Recent content in Robin D Calfee on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Nov 2023 08:55:29 +0000</lastBuildDate><atom:link href="http://example.org/author/robin-d-calfee/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Nov 2023 08:55:29 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/robin-d-calfee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Telemetry evaluation of invasive carp herding in Jonathan Creek Embayment, Kentucky Lake, Kentucky</title>
-      <link>http://example.org/10.5066/p9vqecfp/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9vqecfp/</link>
       <pubDate>Thu, 23 Nov 2023 08:55:29 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9vqecfp/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9vqecfp/</guid>
       <description>Abstract Data tables represents a telemetry study assessing the efficacy of sound and electricity used to herd Silver Carp (Hypophthalmichthys molitrix). The study occurred in Jonathan Creek Embayment of Kentucky Lake, Kentucky using 10 telemetered Silver Carp and 46 passive acoustic receivers. Two herding boats traveled at 2.22 meters per second along bank-to-bank transects through the study area (longitudinal progression rate = 0.37 meters per second) emitting sound and electricity (?</description>
     </item>
     

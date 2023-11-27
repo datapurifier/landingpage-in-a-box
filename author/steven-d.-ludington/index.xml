@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Steven D. Ludington on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/steven-d.-ludington/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/steven-d.-ludington/</link>
     <description>Recent content in Steven D. Ludington on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Nov 2023 08:55:18 +0000</lastBuildDate><atom:link href="http://example.org/author/steven-d.-ludington/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Nov 2023 08:55:18 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/steven-d.-ludington/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Geologic age and lithology of Afghanistan (glgafg.shp)</title>
-      <link>http://example.org/10.5066/p9o13l2c/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9o13l2c/</link>
       <pubDate>Sat, 25 Nov 2023 08:55:18 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9o13l2c/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9o13l2c/</guid>
       <description>Abstract This shapefile contains polygons that describe the geologic age and lithologies of outcrops in Afghanistan.
 Access Points https://www.sciencebase.gov/catalog/item/60d3a6a2d34e12a1b009d0cc</description>
     </item>

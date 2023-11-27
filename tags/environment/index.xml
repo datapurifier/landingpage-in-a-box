@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Environment on Landingpage-in-a-Box</title>
-    <link>http://example.org/tags/environment/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/tags/environment/</link>
     <description>Recent content in Environment on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Nov 2023 04:55:17 +0000</lastBuildDate><atom:link href="http://example.org/tags/environment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Nov 2023 04:55:17 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/environment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hourly Vehicle Traffic Data Associated with Industrial Activity on the North Slope of Alaska During Summers 2019-2020</title>
-      <link>http://example.org/10.5066/p9hxw3n5/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9hxw3n5/</link>
       <pubDate>Sun, 26 Nov 2023 04:55:17 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9hxw3n5/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9hxw3n5/</guid>
       <description>Abstract This dataset contains hourly vehicle traffic counts in the Kuparuk and Milne Point oil fields on the North Slope of Alaska during summers 2019 and 2020. The oil field roads were generally closed to the public during the study period, so traffic was primarily associated with industrial activities. Data were collected using TRAFx vehicle traffic counters (TRAFx Research Ltd, Canmore, Alberta, Canada) that were placed at random locations throughout the Kuparuk and Milne Point road systems representing varying traffic conditions.</description>
     </item>
     

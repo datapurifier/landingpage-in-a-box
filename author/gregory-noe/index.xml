@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Gregory Noe on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/gregory-noe/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/gregory-noe/</link>
     <description>Recent content in Gregory Noe on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 04:56:21 +0000</lastBuildDate><atom:link href="http://example.org/author/gregory-noe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 04:56:21 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/gregory-noe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sediment model inputs and outputs for the Smith Creek watershed near New Market, Virginia for 2012-2016</title>
-      <link>http://example.org/10.5066/p9avghmb/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9avghmb/</link>
       <pubDate>Sun, 19 Nov 2023 04:56:21 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9avghmb/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9avghmb/</guid>
       <description>Abstract This data release includes data created, collected, and/or otherwise modified in the process of quantifying a sediment budget for the Smith Creek Watershed near New Market, Virginia, USA. Five raster files are included, namely a modeled index of hydrological connectivity, a raster model of modeled floodplain depositional masses and extent, a rasters of modeled gross and delivered upland erosion, and a hydrologically conditioned Digital Elevation Model (DEM). Two vector shapefiles are also included.</description>
     </item>
     

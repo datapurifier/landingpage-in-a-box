@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Roger N Clark on Landingpage-in-a-Box</title>
-    <link>http://example.org/author/roger-n-clark/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/roger-n-clark/</link>
     <description>Recent content in Roger N Clark on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Nov 2023 08:55:39 +0000</lastBuildDate><atom:link href="http://example.org/author/roger-n-clark/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Nov 2023 08:55:39 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/roger-n-clark/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>USGS Spectral Library Version 7 Data</title>
-      <link>http://example.org/10.5066/f7rr1wdj/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7rr1wdj/</link>
       <pubDate>Thu, 23 Nov 2023 08:55:39 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7rr1wdj/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7rr1wdj/</guid>
       <description>Abstract This data release provides the U.S. Geological Survey (USGS) Spectral Library Version 7 and all related documents. The library contains spectra measured with laboratory, field, and airborne spectrometers. The instruments used cover wavelengths from the ultraviolet to the far infrared (0.2 to 200 microns). Laboratory samples of specific minerals, plants, chemical compounds, and man-made materials were measured. In many cases, samples were purified, so that unique spectral features of a material can be related to its chemical structure.</description>
     </item>
     

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>software on Landingpage-in-a-Box</title>
-    <link>http://example.org/tags/software/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/tags/software/</link>
     <description>Recent content in software on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 04:30:09 +0000</lastBuildDate><atom:link href="http://example.org/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 04:30:09 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Groundwater Toolbox: A graphical and mapping interface for analysis of hydrologic data</title>
-      <link>http://example.org/10.5066/f7r78c9g/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7r78c9g/</link>
       <pubDate>Sun, 19 Nov 2023 04:30:09 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/f7r78c9g/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/f7r78c9g/</guid>
       <description>Abstract The Groundwater Toolbox is a graphical and mapping interface for analysis of hydrologic data. The software is a customized interface built on the non-proprietary, open-source MapWindow geographic information system software in a Microsoft Windows computing environment. The Groundwater Toolbox allows for the retrieval of hydrologic time-series data (streamflow, groundwater levels, and precipitation) from the USGS National Water Information System; preprocessed meteorological data from the National Oceanic and Atmospheric Administration National Climatic Data Center also are available with the Groundwater Toolbox.</description>
     </item>
     
     <item>
       <title>REDPy - Repeating Earthquake Detector in Python (Version 1.0.1)</title>
-      <link>http://example.org/10.5066/p9236een/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9236een/</link>
       <pubDate>Fri, 17 Nov 2023 19:00:39 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9236een/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9236een/</guid>
       <description>Abstract REDPy (Repeating Earthquake Detector in Python) is a tool for automated detection and analysis of repeating earthquakes in continuous data. It works without any previous assumptions of what repeating seismicity looks like (that is, does not require a template event). Repeating earthquakes are clustered into families based on waveform similarity via cross-correlation across multiple stations. All data, including waveforms, are stored in a HDF5 database using PyTables.
 Access Points https://code.</description>
     </item>

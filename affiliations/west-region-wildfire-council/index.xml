@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>West Region Wildfire Council on Landingpage-in-a-Box</title>
-    <link>http://example.org/affiliations/west-region-wildfire-council/</link>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/affiliations/west-region-wildfire-council/</link>
     <description>Recent content in West Region Wildfire Council on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 04:56:29 +0000</lastBuildDate><atom:link href="http://example.org/affiliations/west-region-wildfire-council/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 04:56:29 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/affiliations/west-region-wildfire-council/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Household survey data about participation in wildfire risk mitigation cost-share in western Colorado 2013-2017</title>
-      <link>http://example.org/10.5066/p9uc6wk9/</link>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9uc6wk9/</link>
       <pubDate>Sun, 19 Nov 2023 04:56:29 +0000</pubDate>
       
-      <guid>http://example.org/10.5066/p9uc6wk9/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9uc6wk9/</guid>
       <description>Abstract Household survey data about participation in wildfire risk mitigation cost-share programs and related questions, including stated barriers to conducting wildfire risk mitigation, basic demographics, and willingness to pay toward that cost-share program. Data (n=1,689) were collected in 95 communities exposed to wildfire risk in six counties in western Colorado, 2013-2017, with an overall survey response rate of 41.9%. The household surveys providing data were organized and implemented by two regional wildfire risk mitigation organizations, West Region Wildfire Council and Wildfire Adapted Partnership (formerly Firewise of Southwest Colorado).</description>
     </item>
     
