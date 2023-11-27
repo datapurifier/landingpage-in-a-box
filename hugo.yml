@@ -1,5 +1,5 @@
 ---
-baseURL: http://example.org/
+baseURL: https://datapurifier.github.io/landingpage-in-a-box/
 languageCode: en-us
 title: "Landingpage-in-a-Box"
 theme: PaperMod
@@ -16,17 +16,17 @@ params:
     subtitle: "A lightweight approach to a metadata-driven dataset landing page web site"
     buttons:
     - name: Search
-      url: "/search"
+      url: "search"
     - name: "Tags"
-      url: "/tags"
+      url: "tags"
     - name: "Categories"
-      url: "/categories"
+      url: "categories"
     - name: "Authors"
-      url: "/author"
+      url: "author"
     - name: "Affiliations"
-      url: "/affiliations"
+      url: "affiliations"
     - name: "Publishers"
-      url: "/publishers"
+      url: "publishers"
 ShowRssButtonInSectionTermList: true
 outputs:
   home:
