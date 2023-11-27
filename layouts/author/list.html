@@ -4,11 +4,19 @@
 {{- partial "index_profile.html" . }}
 {{- else }} {{/* if not profileMode */}}
 
+{{- $orcidData := getJSON "/data/orcid_mapping.json" }}
+{{- $orcidValue := index $orcidData.authors .Title }}
+
 {{- if not .IsHome | and .Title }}
 <header class="page-header">
   {{- partial "breadcrumbs.html" . }}
   <h1>
-    {{ .Title }}
+    {{ .Title }} 
+    {{- if $orcidValue }}
+    <a href="https://orcid.org/{{ $orcidValue }}" target="_blank" rel="noopener noreferrer">
+      <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD icon" height="16" width="16">
+    </a>
+    {{- end }}
     {{- if and (or (eq .Kind `term`) (eq .Kind `section`)) (.Param "ShowRssButtonInSectionTermList") }}
     {{- with .OutputFormats.Get "rss" }}
     <a href="{{ .RelPermalink }}" title="RSS" aria-label="RSS">
