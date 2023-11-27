@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>University of Toledo on Landingpage-in-a-Box</title>
+    <link>http://example.org/affiliations/university-of-toledo/</link>
+    <description>Recent content in University of Toledo on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Nov 2023 16:57:25 +0000</lastBuildDate><atom:link href="http://example.org/affiliations/university-of-toledo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grass Carp (Ctenopharyngodon idella) egg capture data from Great Lakes tributaries, 2021-2022 (ver. 1.1, November 2023)</title>
+      <link>http://example.org/10.5066/p98f9nsz/</link>
+      <pubDate>Thu, 16 Nov 2023 16:57:25 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p98f9nsz/</guid>
+      <description>Abstract The data includes dates, places, and times of sampling events for eggs of invasive Grass Carp (Ctenopharyngodon idella) in tributaries to the Great Lakes in 2021 and 2022. Reference data on locations and dates sampled, gears used, and effort are included. Developmental stages for a subset of undamaged, fertilized eggs are provided. Tables include common fields to allow for integration into a relational database to aid data extraction and associating data among tables.</description>
+    </item>
+    
+  </channel>
+</rss>

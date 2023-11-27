@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Soil Sciences on Landingpage-in-a-Box</title>
+    <link>http://example.org/tags/soil-sciences/</link>
+    <description>Recent content in Soil Sciences on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Nov 2023 23:03:30 +0000</lastBuildDate><atom:link href="http://example.org/tags/soil-sciences/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Groundwater, surface water, and soil data collected near and at the Ammonium Perchlorate Rocket Motor Destruction (ARMD) facility at the Letterkenny Army Depot, Chambersburg, Pennsylvania</title>
+      <link>http://example.org/10.5066/p92yiatz/</link>
+      <pubDate>Mon, 20 Nov 2023 23:03:30 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p92yiatz/</guid>
+      <description>Abstract Sampling was conducted by the U.S. Geological Survey (USGS) at four wells, one surface water site, and five soil sampling locations near and at the Ammonium Perchlorate Rocket Motor Destruction (ARMD) facility at the Letterkenny Army Depot. Analytical results for groundwater samples collected in 2021 are provided in ?ARMD_wells_data_2021.xlsx?. Analytical results for surface-water samples collected in 2021 are provided in ?ARMD_sw_data_2021.xlsx?. Analytical results for soil samples collected in 2021 are provided in ?</description>
+    </item>
+    
+    <item>
+      <title>Sediment model inputs and outputs for the Smith Creek watershed near New Market, Virginia for 2012-2016</title>
+      <link>http://example.org/10.5066/p9avghmb/</link>
+      <pubDate>Sun, 19 Nov 2023 04:56:21 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9avghmb/</guid>
+      <description>Abstract This data release includes data created, collected, and/or otherwise modified in the process of quantifying a sediment budget for the Smith Creek Watershed near New Market, Virginia, USA. Five raster files are included, namely a modeled index of hydrological connectivity, a raster model of modeled floodplain depositional masses and extent, a rasters of modeled gross and delivered upland erosion, and a hydrologically conditioned Digital Elevation Model (DEM). Two vector shapefiles are also included.</description>
+    </item>
+    
+    <item>
+      <title>Farmington Lake Sediment Descriptions, Total Sediment Chemistry, and Batch Experiment Chemistry</title>
+      <link>http://example.org/10.5066/p9kr7nsl/</link>
+      <pubDate>Sun, 19 Nov 2023 04:34:23 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9kr7nsl/</guid>
+      <description>Abstract These datasets provide information about the physical properties, total sediment chemistry, and batch experiment chemistry (to evaluate element mobility) of sediment cores from the Farmington Lake reservoir in Farmington, NM. The sediment cores were collected in November 2019.
+Access Points https://www.sciencebase.gov/catalog/item/5e41d3e5e4b0edb47be63c63</description>
+    </item>
+    
+    <item>
+      <title>Daily Climate and Soil Moisture Data for the Southern Colorado Plateau Network Parks, 1980 &amp;amp;ndash; 2018 (ver. 1.1, November, 2023)</title>
+      <link>http://example.org/10.5066/p9wqtbp0/</link>
+      <pubDate>Fri, 17 Nov 2023 16:16:24 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9wqtbp0/</guid>
+      <description>Abstract These data are daily climate, water balance, and soil moisture data for 270 plots in the National Park Service (NPS) Southern Colorado Plateau Network (SCPN) Inventory &amp;amp;amp;amp;amp;amp;amp; Monitoring (I&amp;amp;amp;amp;amp;amp;amp;M) network. Climate data was collected from a gridded, daily climate dataset, Daymet (https://daymet.ornl.gov/). Climate, alongside field-collected soils (SoilDepthsByPlot.csv) and vegetation information, were then used to drive a point based, daily, multi soil-layer, ecosystem water-balance model, SOILWAT2 (https://github.com/DrylandEcology/SOILWAT2). SCPN plots were established to capture the range of ecosystem conditions present in this network.</description>
+    </item>
+    
+    <item>
+      <title>Urban elemental and grain size characteristics of sediments collected in the Jones Falls watershed in Baltimore, Maryland for 2021-2022</title>
+      <link>http://example.org/10.5066/p9v1l3qi/</link>
+      <pubDate>Fri, 17 Nov 2023 14:45:17 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9v1l3qi/</guid>
+      <description>Abstract This metadata record documents a single comma delimited table that contains information on the elemental composition and particle size distribution of sediments within Jones Falls watershed in Baltimore, Maryland.
+Access Points https://www.sciencebase.gov/catalog/item/651d910ed34e44db0e2d44ce</description>
+    </item>
+    
+    <item>
+      <title>The chemistry of eolian quartz dust and the origin of chert</title>
+      <link>http://example.org/10.5066/p9sa2m1l/</link>
+      <pubDate>Wed, 15 Nov 2023 18:17:55 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9sa2m1l/</guid>
+      <description>Abstract Temporal and spatial sources of silica for chert remain poorly constrained. Modern sources to the worlds oceans include silica in rivers &amp;gt; aeolian (dust) deposition &amp;gt; sea floor vents and submarine weathering. However, changes in aridity and dust flux during the Phanerozoic may explain variations in the ocean silica cycle and times and places of chert formation. The chemistry of fine quartz dust (FQD) provides a chemical mechanism for the transformation of FQD to polymorphs of silica in chert; FQD is readily dissolved, then reprecipitated as Opal-A by either biotic or abiotic processes.</description>
+    </item>
+    
+  </channel>
+</rss>

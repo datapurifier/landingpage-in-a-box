@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>David L George on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/david-l-george/</link>
+    <description>Recent content in David L George on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 16:20:45 +0000</lastBuildDate><atom:link href="http://example.org/author/david-l-george/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>digger: A python package for D-Claw model inputs</title>
+      <link>http://example.org/10.5066/p9en7c2k/</link>
+      <pubDate>Tue, 21 Nov 2023 16:20:45 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9en7c2k/</guid>
+      <description>Abstract Digger is a python package that provides a number of pre- and post-processing tools for working with the D-Claw model.
+Access Points https://code.usgs.gov/ghsc/lhp/digger/-/tree/1.0.0</description>
+    </item>
+    
+  </channel>
+</rss>

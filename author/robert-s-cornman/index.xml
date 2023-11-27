@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Robert S Cornman on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/robert-s-cornman/</link>
+    <description>Recent content in Robert S Cornman on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Nov 2023 04:55:25 +0000</lastBuildDate><atom:link href="http://example.org/author/robert-s-cornman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Occurrences of Apis mellifera filamentous virus (AmFV) sequences in public accessions of Apis mellifera and Varroa destructor</title>
+      <link>http://example.org/10.5066/p9xt6gbe/</link>
+      <pubDate>Sun, 26 Nov 2023 04:55:25 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9xt6gbe/</guid>
+      <description>Abstract Honey bees (Apis mellifera), a critical agricultural pollinator in many areas, have a high rate of infection with a large DNA virus, Apis mellifera filamentous virus (AmFV), yet little is known about its ecology or impact on honey bee colonies, other than its ubiquity and apparent low virulence. This study scanned over 5,000 public data sets to detect AmFV sequences in honey bees as well as a parasitic mite of honey bees, Varroa destructor, that is a potential vector of AmFV.</description>
+    </item>
+    
+  </channel>
+</rss>

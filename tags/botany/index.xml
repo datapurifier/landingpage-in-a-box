@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Botany on Landingpage-in-a-Box</title>
+    <link>http://example.org/tags/botany/</link>
+    <description>Recent content in Botany on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Nov 2023 11:03:45 +0000</lastBuildDate><atom:link href="http://example.org/tags/botany/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>United States Register of Introduced and Invasive Species (US-RIIS) (ver. 2.0, November 2022)</title>
+      <link>http://example.org/10.5066/p9kfftod/</link>
+      <pubDate>Mon, 27 Nov 2023 11:03:45 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9kfftod/</guid>
+      <description>Abstract Introduced (non-native) species that become established may eventually become invasive, so tracking all introduced species provides a baseline for effective modeling of species trends and interactions, geospatially and temporally. The United States Register of Introduced and Invasive Species (US-RIIS) (ver. 2.0, November 2022, https://doi.org/10.5066/P9KFFTOD), as of 2022-10-23, is comprised of three lists, for the localities of Alaska (AK, with 545 records), Hawaii (HI, with 5,628 records), and the conterminous (or lower 48) United States (L48, with 8,527 records).</description>
+    </item>
+    
+    <item>
+      <title>Post-fire species point intercept data from four megafires in the Great Basin</title>
+      <link>http://example.org/10.5066/p97b8ti7/</link>
+      <pubDate>Tue, 21 Nov 2023 15:32:30 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p97b8ti7/</guid>
+      <description>Abstract Data set is a combined collection of post-fire species point intercept cover monitoring data across the Murphy 2007 fire, Rush 2012 fire, Holloway 2012 fire, and Soda 2015 fire. Data was collected between 2008 and 2022 by the Bureau of Land Management, US Geological Survey, and Idaho Fish and Wildfire for various purposes. The species data was leveraged to assess post-fire community structure and trajectories.
+Access Points https://www.sciencebase.gov/catalog/item/65412f64d34ee4b6e05bcd8f</description>
+    </item>
+    
+    <item>
+      <title>United States Register of Introduced and Invasive Species (US-RIIS)</title>
+      <link>http://example.org/10.5066/p95xl09q/</link>
+      <pubDate>Mon, 20 Nov 2023 10:24:57 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p95xl09q/</guid>
+      <description>Abstract Introduced (non-native) species that becomes established may eventually become invasive, so tracking introduced species provides a baseline for effective modeling of species trends and interactions, geospatially and temporally. The United States Register of Introduced and Invasive Species (US-RIIS) is comprised of three lists, one each for Alaska (AK, with 532 records), Hawaii (HI, with 6,075 records), and the conterminous United States (L48, with 8,657 records). Each list includes introduced (non-native), established (reproducing) taxa that: are, or may become, invasive (harmful) in the locality; are not known to be harmful there; and/or have been used for biological control in the locality.</description>
+    </item>
+    
+  </channel>
+</rss>

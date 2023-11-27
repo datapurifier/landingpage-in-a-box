@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>marine geology on Landingpage-in-a-Box</title>
+    <link>http://example.org/tags/marine-geology/</link>
+    <description>Recent content in marine geology on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 14:52:09 +0000</lastBuildDate><atom:link href="http://example.org/tags/marine-geology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laboratory Observations of Artificial Sand and Oil Agglomerates Video and Velocity Data</title>
+      <link>http://example.org/10.5066/f76d5r69/</link>
+      <pubDate>Tue, 21 Nov 2023 14:52:09 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/f76d5r69/</guid>
+      <description>Abstract The U.S. Geological Survey conducted experiments during March of 2014 to expand the available data on sand and oil agglomerate motion; test shear stress based incipient motion parameterizations in a controlled, laboratory setting; and directly observe sand and oil agglomerate exhumation and burial processes. Experiments were carried out at the Naval Research Laboratory, Stennis Space Center, Stennis, Mississippi using a small-oscillatory flow tunnel. HD Video data was collected by two Canon 7D DSLR cameras.</description>
+    </item>
+    
+    <item>
+      <title>Multichannel sparker seismic reflection data of USGS field activity 2018-658-FA collected between Cape Blanco and Cape Mendocino from 2018-10-04 to 2018-10-18</title>
+      <link>http://example.org/10.5066/p9r3qm97/</link>
+      <pubDate>Tue, 21 Nov 2023 13:53:21 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9r3qm97/</guid>
+      <description>Abstract This data release contains processed high-resolution multichannel sparker seismic-reflection (MCS) data that were collected aboard Humboldt State University&amp;rsquo;s R/V Coral Sea in October of 2018 on U.S. Geological Survey cruise 2018-658-FA on the shelf and slope between Cape Blanco, Oregon, and Cape Mendocino, California. MCS data were collected to characterize quaternary deformation and sediment dynamics along the southern Cascadia margin.
+Access Points https://www.sciencebase.gov/catalog/item/5e2a40a5e4b0a79317cf81b0</description>
+    </item>
+    
+    <item>
+      <title>Archive of Chirp Subbottom Profile Data Collected in 2022 From Boca Chica Key, Florida</title>
+      <link>http://example.org/10.5066/p95m6vht/</link>
+      <pubDate>Thu, 16 Nov 2023 15:48:48 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p95m6vht/</guid>
+      <description>Abstract As part of the Coastal Sediment Availability and Flux and Defense Advanced Research Protection Agency (DARPA) Reefense projects, scientists from the U.S. Geological Survey (USGS) St. Petersburg Coastal and Marine Science Center (SPCMSC) conducted a nearshore geophysical survey to map the shoreface and inner shelf, as well as characterizing stratigraphy near Boca Chica Key, Florida (FL) in November 2022. The purpose of this study was to conduct a geologic assessment (including bathymetric mapping) of the nearshore ledge off Boca Chica Key, FL, in support of efforts to construct an artificial coral reef offshore of Naval Air Station Key West.</description>
+    </item>
+    
+  </channel>
+</rss>

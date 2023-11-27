@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Volcano on Landingpage-in-a-Box</title>
+    <link>http://example.org/tags/volcano/</link>
+    <description>Recent content in Volcano on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Nov 2023 19:00:39 +0000</lastBuildDate><atom:link href="http://example.org/tags/volcano/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>REDPy - Repeating Earthquake Detector in Python (Version 1.0.1)</title>
+      <link>http://example.org/10.5066/p9236een/</link>
+      <pubDate>Fri, 17 Nov 2023 19:00:39 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9236een/</guid>
+      <description>Abstract REDPy (Repeating Earthquake Detector in Python) is a tool for automated detection and analysis of repeating earthquakes in continuous data. It works without any previous assumptions of what repeating seismicity looks like (that is, does not require a template event). Repeating earthquakes are clustered into families based on waveform similarity via cross-correlation across multiple stations. All data, including waveforms, are stored in a HDF5 database using PyTables.
+Access Points https://code.</description>
+    </item>
+    
+  </channel>
+</rss>

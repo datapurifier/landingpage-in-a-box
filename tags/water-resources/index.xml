@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Water Resources on Landingpage-in-a-Box</title>
+    <link>http://example.org/tags/water-resources/</link>
+    <description>Recent content in Water Resources on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 15:27:47 +0000</lastBuildDate><atom:link href="http://example.org/tags/water-resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) Green Bay, U.S.: Dikes</title>
+      <link>http://example.org/10.5066/p9rrv9aj/</link>
+      <pubDate>Tue, 21 Nov 2023 15:27:47 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9rrv9aj/</guid>
+      <description>Abstract This dataset is part of the U.S. Geological Survey (USGS) Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) initiative. These data represent the location of dikes within the Green Bay Restoration Assessment (GBRA) study area. An ArcGIS model (Python script) identified dikes as having a difference in elevation above a certain threshold. If the elevation difference was below a certain threshold, the area was not considered a dike. However, if the difference in elevation between two points was significantly high, then the area was marked as a dike.</description>
+    </item>
+    
+    <item>
+      <title>Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) Green Bay, U.S.: Degree Flowlines</title>
+      <link>http://example.org/10.5066/p9qajrbw/</link>
+      <pubDate>Tue, 21 Nov 2023 15:23:56 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9qajrbw/</guid>
+      <description>Abstract This dataset is part of the U.S. Geological Survey (USGS) Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) initiative. These data represent the flowline network in the Green Bay Restoration Assessment (GBRA). It is attributed with the number of disconnections (e.g., road crossings) between the reach and Lake Ontario. The more road crossings on a flowline the more disconnected that area is from the lake and the less suitable it will be for restoration.</description>
+    </item>
+    
+    <item>
+      <title>Model Code, Outputs, and Supporting Data for Approaches to Process-Guided Deep Learning for Groundwater-Influenced Stream Temperature Predictions</title>
+      <link>http://example.org/10.5066/p9ko49ot/</link>
+      <pubDate>Tue, 21 Nov 2023 15:17:37 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9ko49ot/</guid>
+      <description>Abstract This model archive provides all data, code, and modeling results used in Barclay and others (2023) to assess the ability of process-guided deep learning stream temperature models to accurately incorporate groundwater-discharge processes. We assessed the performance of an existing process-guided deep learning stream temperature model of the Delaware River Basin (USA) and explored four approaches for improving groundwater process representation: 1) a custom loss function that leverages the unique patterns of air and water temperature coupling resulting from different temperature drivers, 2) inclusion of additional groundwater-relevant catchment attributes, 3) incorporation of additional process model outputs, and 4) a composite model.</description>
+    </item>
+    
+    <item>
+      <title>Groundwater, surface water, and soil data collected near and at the Ammonium Perchlorate Rocket Motor Destruction (ARMD) facility at the Letterkenny Army Depot, Chambersburg, Pennsylvania</title>
+      <link>http://example.org/10.5066/p92yiatz/</link>
+      <pubDate>Mon, 20 Nov 2023 23:03:30 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p92yiatz/</guid>
+      <description>Abstract Sampling was conducted by the U.S. Geological Survey (USGS) at four wells, one surface water site, and five soil sampling locations near and at the Ammonium Perchlorate Rocket Motor Destruction (ARMD) facility at the Letterkenny Army Depot. Analytical results for groundwater samples collected in 2021 are provided in ?ARMD_wells_data_2021.xlsx?. Analytical results for surface-water samples collected in 2021 are provided in ?ARMD_sw_data_2021.xlsx?. Analytical results for soil samples collected in 2021 are provided in ?</description>
+    </item>
+    
+    <item>
+      <title>Historical Produced Water Chemistry Data Compiled for the North Coles Levee Oilfield, Kern County, California</title>
+      <link>http://example.org/10.5066/p9gd7w9l/</link>
+      <pubDate>Sun, 19 Nov 2023 04:33:22 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9gd7w9l/</guid>
+      <description>Abstract This dataset contains geochemical and other information for 40 historical samples of produced water from the North Coles Levee Oil Field. Three of these samples are from commingled tanks containing produced water from multiple wells as noted in the Remarks column. Water that is produced as a byproduct of oil production is called produced water. The numerical water chemistry data were compiled by the U.S. Geological Survey (USGS) from scanned laboratory analysis reports available from the California Geologic Energy Management Division (CalGEM).</description>
+    </item>
+    
+    <item>
+      <title>Geophysical, geological, hydrological, and geochemical data for aquifer salinity mapping in the Elk Hills, Buena Vista, and Coles Levee Oil Fields, Kern County, California</title>
+      <link>http://example.org/10.5066/p9kwnefw/</link>
+      <pubDate>Sun, 19 Nov 2023 04:30:17 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9kwnefw/</guid>
+      <description>Abstract The U.S. Geological Survey (USGS) in cooperation with the California State Water Resources Control Board (State Water Board) compiled and analyzed data for mapping groundwater salinity, characterizing aquifer systems, and documenting the effects of oil field water injection in the Elk Hills Elk Hills, Buena Vista, and Coles Levee Oil Fields, San Joaquin Valley, California. Data provided in this data release include borehole geophysical data, geochemical analyses of water samples, hydrologic data, geological formation depths, and information on observed well log resistivity anomalies - interpreted to be from injection for disposal of produced water from oil wells or from natural causes.</description>
+    </item>
+    
+    <item>
+      <title>Daily Climate and Soil Moisture Data for the Southern Colorado Plateau Network Parks, 1980 &amp;amp;ndash; 2018 (ver. 1.1, November, 2023)</title>
+      <link>http://example.org/10.5066/p9wqtbp0/</link>
+      <pubDate>Fri, 17 Nov 2023 16:16:24 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9wqtbp0/</guid>
+      <description>Abstract These data are daily climate, water balance, and soil moisture data for 270 plots in the National Park Service (NPS) Southern Colorado Plateau Network (SCPN) Inventory &amp;amp;amp;amp;amp;amp;amp; Monitoring (I&amp;amp;amp;amp;amp;amp;amp;M) network. Climate data was collected from a gridded, daily climate dataset, Daymet (https://daymet.ornl.gov/). Climate, alongside field-collected soils (SoilDepthsByPlot.csv) and vegetation information, were then used to drive a point based, daily, multi soil-layer, ecosystem water-balance model, SOILWAT2 (https://github.com/DrylandEcology/SOILWAT2). SCPN plots were established to capture the range of ecosystem conditions present in this network.</description>
+    </item>
+    
+    <item>
+      <title>Hydrodynamic model output and image simulation code for evaluating image-based river velocimetry from a case study on the Sacramento River near Glenn, California</title>
+      <link>http://example.org/10.5066/p9c19z0s/</link>
+      <pubDate>Thu, 16 Nov 2023 22:16:57 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9c19z0s/</guid>
+      <description>Abstract This data release includes the data and code used for the manuscript titled &amp;ldquo;A framework to facilitate development and testing of image-based river velocimetry algorithms&amp;rdquo;, submitted to the journal Earth Surface Processes and Landforms. Three *.csv files and five *.m files with MATLAB source code are included below. Each *.csv file contains output from a hydrodynamic model of a reach of the Sacramento River near Glenn, California, with a separate file for each of three different discharges (i.</description>
+    </item>
+    
+    <item>
+      <title>Water quality and gas fluxes of Interior Alaska (2014-2018)</title>
+      <link>http://example.org/10.5066/p9c6bdbq/</link>
+      <pubDate>Thu, 16 Nov 2023 08:55:36 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9c6bdbq/</guid>
+      <description>Abstract This product consists of multiple tabular datasets and associated metadata of water quality information related to rivers, streams, and lakes in the Yukon River watershed between 2014 and 2018. This data release is apart of the National Aeronautics and Space Administration (NASA) funded Arctic-Boreal Vulnerability Experiment (ABoVE) and is an assessment of water quality and greenhouse gas fluxes within the interior of Alaska. Sampling frequency varied across locations, with some sites sampled twice a year or more.</description>
+    </item>
+    
+  </channel>
+</rss>

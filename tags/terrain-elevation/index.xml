@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Terrain Elevation on Landingpage-in-a-Box</title>
+    <link>http://example.org/tags/terrain-elevation/</link>
+    <description>Recent content in Terrain Elevation on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Nov 2023 08:55:43 +0000</lastBuildDate><atom:link href="http://example.org/tags/terrain-elevation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Global Multi-resolution Terrain Elevation Data 2010 (GMTED2010)</title>
+      <link>http://example.org/10.5066/f7j38r2n/</link>
+      <pubDate>Sun, 19 Nov 2023 08:55:43 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/f7j38r2n/</guid>
+      <description>Abstract The U.S. Geological Survey (USGS) and the National Geospatial-Intelligence Agency (NGA) have collaborated on the development of a notably enhanced global elevation model named the Global Multi-resolution Terrain Elevation Data 2010 (GMTED2010) that replaces GTOPO30 as the elevation dataset of choice for global and continental scale applications. GMTED2010 provides a new level of detail in global topographic data. The GMTED2010 product suite contains seven new raster elevation products for each of the 30-, 15-, and 7.</description>
+    </item>
+    
+  </channel>
+</rss>

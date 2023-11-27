@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lusha Tronstad on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/lusha-tronstad/</link>
+    <description>Recent content in Lusha Tronstad on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 15:39:10 +0000</lastBuildDate><atom:link href="http://example.org/author/lusha-tronstad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development, testing and use of four species-specific qPCR assays for freshwater mussel eDNA detection in the Niobrara River</title>
+      <link>http://example.org/10.5066/p96qmw8w/</link>
+      <pubDate>Tue, 21 Nov 2023 15:39:10 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p96qmw8w/</guid>
+      <description>Abstract This data consists of information on the specificity and sensitivity of 4 species specific qPCR assays for the detection of eDNA from 4 species of freshwater mussels, specifically Lampsilis cardium, Lampsilis siliquoidea, Pyganodon grandis, and Anodontoides ferussacianus. The data also contain the results of eDNA sampling in Niobrara River at Niobrara National Scenic River and Agate Fossil Beds National Monument for detection of these 4 species.
+Access Points https://www.sciencebase.gov/catalog/item/655b8b1dd34ee4b6e05cbcd5</description>
+    </item>
+    
+  </channel>
+</rss>

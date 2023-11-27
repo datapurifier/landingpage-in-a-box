@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>modeling on Landingpage-in-a-Box</title>
+    <link>http://example.org/tags/modeling/</link>
+    <description>Recent content in modeling on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Nov 2023 04:33:46 +0000</lastBuildDate><atom:link href="http://example.org/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MODFLOW-2005: USGS three-dimensional finite-difference groundwater model</title>
+      <link>http://example.org/10.5066/f7rf5s7g/</link>
+      <pubDate>Sun, 19 Nov 2023 04:33:46 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/f7rf5s7g/</guid>
+      <description>Abstract MODFLOW is a three-dimensional (3D) finite-difference groundwater model that was first published in 1984. It has a modular structure that allows it to be easily modified to adapt the code for a particular application. Many new capabilities have been added to the original model. MODFLOW 6 is presently the core MODFLOW version distributed by the USGS, but MODFLOW-2005 (the previous core version) is still actively maintained and supported. MODFLOW-2005 (Harbaugh, 2005) simulates steady and nonsteady flow in an irregularly shaped flow system in which aquifer layers can be confined, unconfined, or a combination of confined and unconfined.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tong Zhai on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/tong-zhai/</link>
+    <description>Recent content in Tong Zhai on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Nov 2023 04:30:09 +0000</lastBuildDate><atom:link href="http://example.org/author/tong-zhai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Groundwater Toolbox: A graphical and mapping interface for analysis of hydrologic data</title>
+      <link>http://example.org/10.5066/f7r78c9g/</link>
+      <pubDate>Sun, 19 Nov 2023 04:30:09 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/f7r78c9g/</guid>
+      <description>Abstract The Groundwater Toolbox is a graphical and mapping interface for analysis of hydrologic data. The software is a customized interface built on the non-proprietary, open-source MapWindow geographic information system software in a Microsoft Windows computing environment. The Groundwater Toolbox allows for the retrieval of hydrologic time-series data (streamflow, groundwater levels, and precipitation) from the USGS National Water Information System; preprocessed meteorological data from the National Oceanic and Atmospheric Administration National Climatic Data Center also are available with the Groundwater Toolbox.</description>
+    </item>
+    
+  </channel>
+</rss>

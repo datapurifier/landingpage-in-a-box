@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Robert W Black on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/robert-w-black/</link>
+    <description>Recent content in Robert W Black on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Nov 2023 18:22:19 +0000</lastBuildDate><atom:link href="http://example.org/author/robert-w-black/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Index of vulnerability for elevated nitrates in groundwater in the Puget Sound Basin, Washington, 2000&amp;amp;amp;ndash;2019</title>
+      <link>http://example.org/10.5066/p9towgym/</link>
+      <pubDate>Thu, 16 Nov 2023 18:22:19 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9towgym/</guid>
+      <description>Abstract This data release consists of the initial well input data for the logistic regression model, the conceptual well data for logistic mapping, the logistic mapping output data, the logistic mapping output vulnerability and vulnerability difference rasters, and supporting geographic information system (GIS) files for the study titled &amp;ldquo;Index of Vulnerability for Elevated Nitrates in Groundwater in the Puget Sound, Washington.&amp;rdquo;
+Access Points https://www.sciencebase.gov/catalog/item/620fe06ed34e6c7e83baae63</description>
+    </item>
+    
+  </channel>
+</rss>

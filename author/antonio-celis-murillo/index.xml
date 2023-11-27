@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Antonio Celis-Murillo on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/antonio-celis-murillo/</link>
+    <description>Recent content in Antonio Celis-Murillo on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Nov 2023 21:15:11 +0000</lastBuildDate><atom:link href="http://example.org/author/antonio-celis-murillo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>North American Bird Banding Program Dataset 1960-2023 retrieved 2023-07-12</title>
+      <link>http://example.org/10.5066/p97lqnhy/</link>
+      <pubDate>Wed, 22 Nov 2023 21:15:11 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p97lqnhy/</guid>
+      <description>Abstract The North American Bird Banding Program is administered through the U.S. Geological Survey (USGS) Bird Banding Laboratory (BBL), Eastern Ecological Science Center at the Patuxent Research Refuge (EESC) and the Bird Banding Office (BBO), Environment and Climate Change Canada (ECCC). The respective banding offices have similar functions and policies and use the same bands, reporting forms and data formats. This long-term dataset (1960-2023) consists of over 83 million bird banding, encounter and recapture records of over 1,000 species covered under the Migratory Bird Treaty Act (MBTA).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Geophysics on Landingpage-in-a-Box</title>
+    <link>http://example.org/tags/geophysics/</link>
+    <description>Recent content in Geophysics on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Nov 2023 22:02:21 +0000</lastBuildDate><atom:link href="http://example.org/tags/geophysics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drilling, construction, geophysical data, and lithologic log for borehole USGS 145</title>
+      <link>http://example.org/10.5066/p9qsjv1l/</link>
+      <pubDate>Wed, 22 Nov 2023 22:02:21 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9qsjv1l/</guid>
+      <description>Abstract During 2017 and 2018, the U.S. Geological Survey (USGS) Idaho National Laboratory Project Office, in cooperation with the U.S. Department of Energy (DOE), drilled and constructed borehole USGS 145 (USGS site 433358113042701) for hydrogeologic data collection and stratigraphic framework analyses. The well is located along the western boundary of the Idaho National Laboratory (INL) just south of highway 20. USGS 145 was continuously cored from approximately 3 to 1,368 feet below land surface (BLS), and had water level of 704.</description>
+    </item>
+    
+    <item>
+      <title>Multichannel sparker seismic reflection data of USGS field activity 2018-658-FA collected between Cape Blanco and Cape Mendocino from 2018-10-04 to 2018-10-18</title>
+      <link>http://example.org/10.5066/p9r3qm97/</link>
+      <pubDate>Tue, 21 Nov 2023 13:53:21 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9r3qm97/</guid>
+      <description>Abstract This data release contains processed high-resolution multichannel sparker seismic-reflection (MCS) data that were collected aboard Humboldt State University&amp;rsquo;s R/V Coral Sea in October of 2018 on U.S. Geological Survey cruise 2018-658-FA on the shelf and slope between Cape Blanco, Oregon, and Cape Mendocino, California. MCS data were collected to characterize quaternary deformation and sediment dynamics along the southern Cascadia margin.
+Access Points https://www.sciencebase.gov/catalog/item/5e2a40a5e4b0a79317cf81b0</description>
+    </item>
+    
+    <item>
+      <title>Snake River Plain Play Fairway Analysis Phase 1 Favorability Model (DE EE0006733)</title>
+      <link>http://example.org/10.5066/p95eulti/</link>
+      <pubDate>Tue, 21 Nov 2023 08:55:29 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p95eulti/</guid>
+      <description>Abstract This data release contains all digital geographic data used and produced by the Snake River Plain Play Fairway Analysis (DE EE0006733) for Phase 1 (ArcGIS shapefiles and raster files) as well as the model processing script, tables, and documentation used to generate data outputs. Brief descriptions of data layers are in the metadata of GIS files, greater detail is available in the Larger Work, the Snake River Plain Play Fairway Analysis Phase 1 report.</description>
+    </item>
+    
+    <item>
+      <title>Snake River Plain Play Fairway Analysis Phase 2 Favorability Model (DE EE0006733)</title>
+      <link>http://example.org/10.5066/p9y8mezy/</link>
+      <pubDate>Tue, 21 Nov 2023 08:55:29 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9y8mezy/</guid>
+      <description>Abstract This data release contains all digital geographic data used and produced by the Snake River Plain Play Fairway Analysis (DE EE0006733) for Phase 2 (ArcGIS shapefiles and raster files) as well as the model processing script, tables, and documentation used to generate data outputs. Phase 2 examines two subset areas of the Phase 1 study area, Mountain Home and Camas Prairie. Brief descriptions of data layers are in the metadata of GIS files, greater detail is available in the Larger Work, the Snake River Plain Play Fairway Analysis Phase 2 report.</description>
+    </item>
+    
+    <item>
+      <title>Geophysical, geological, hydrological, and geochemical data for aquifer salinity mapping in the Elk Hills, Buena Vista, and Coles Levee Oil Fields, Kern County, California</title>
+      <link>http://example.org/10.5066/p9kwnefw/</link>
+      <pubDate>Sun, 19 Nov 2023 04:30:17 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9kwnefw/</guid>
+      <description>Abstract The U.S. Geological Survey (USGS) in cooperation with the California State Water Resources Control Board (State Water Board) compiled and analyzed data for mapping groundwater salinity, characterizing aquifer systems, and documenting the effects of oil field water injection in the Elk Hills Elk Hills, Buena Vista, and Coles Levee Oil Fields, San Joaquin Valley, California. Data provided in this data release include borehole geophysical data, geochemical analyses of water samples, hydrologic data, geological formation depths, and information on observed well log resistivity anomalies - interpreted to be from injection for disposal of produced water from oil wells or from natural causes.</description>
+    </item>
+    
+    <item>
+      <title>ShakeMap Atlas V4 and AtlasCat</title>
+      <link>http://example.org/10.5066/p98atogz/</link>
+      <pubDate>Thu, 16 Nov 2023 20:29:48 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p98atogz/</guid>
+      <description>Abstract The Atlas of ShakeMaps (~14,100 earthquakes, 1900-2020) provides a consistent and quantitative description of the distribution of shaking intensity for calibrating earthquake loss estimation methodologies, like those used in the USGS Prompt Assessment of Global Earthquakes for Response (PAGER)�system. Version 4 of the Atlas includes a vastly expanded compilation of ShakeMaps for consequential and widely felt earthquakes using updated ShakeMap (Version 4)�software. For each event, we have attempted to gather available macroseismic, recorded ground motions and finite fault inputs.</description>
+    </item>
+    
+    <item>
+      <title>United States Gulf Coast Basin Curated Wells and Logs Database (ver. 2.0, November 2023)</title>
+      <link>http://example.org/10.5066/p95bnwt3/</link>
+      <pubDate>Wed, 15 Nov 2023 18:00:57 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p95bnwt3/</guid>
+      <description>Abstract The United States Gulf Coast Basin Curated Wells and Logs Database (CWLDB) is an online repository with stratigraphic information for petroleum wells in the United States portion of the onshore Gulf of Mexico Basin that provides several of the following attributes: a) deep penetrations (generally, total depth of 10,000 feet or more), b) high quality and diverse geophysical well log suites, c) lithostratigraphic logs, d) biostratigraphic units (biozones) and reports, and/or e) core or cuttings samples.</description>
+    </item>
+    
+  </channel>
+</rss>

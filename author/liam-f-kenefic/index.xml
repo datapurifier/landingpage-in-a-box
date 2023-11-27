@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Liam F Kenefic on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/liam-f-kenefic/</link>
+    <description>Recent content in Liam F Kenefic on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Nov 2023 14:56:06 +0000</lastBuildDate><atom:link href="http://example.org/author/liam-f-kenefic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MODFLOW-2005 model used to simulate the regional groundwater flow system in the updated New Jersey Coastal Plain model, 1980-2013</title>
+      <link>http://example.org/10.5066/p9w6rxfc/</link>
+      <pubDate>Fri, 17 Nov 2023 14:56:06 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9w6rxfc/</guid>
+      <description>Abstract A third revision of the New Jersey Coastal Plain (NJCP) groundwater flow model, using MODFLOW-2005 (version 1.12.00), was completed to maintain the model?s usefulness for water-resource managment and development. The regional groundwater-flow model was initially developed for the U.S. Geological Survey (USGS) Regional Aquifer System Analysis (RASA) program. Periodic revision of the model is required as the result of changing hydrologic stresses, different and more complex water management needs, and increased knowledge of hydrologic conditions.</description>
+    </item>
+    
+  </channel>
+</rss>

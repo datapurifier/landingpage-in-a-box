@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bathymetry on Landingpage-in-a-Box</title>
+    <link>http://example.org/tags/bathymetry/</link>
+    <description>Recent content in Bathymetry on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 14:45:48 +0000</lastBuildDate><atom:link href="http://example.org/tags/bathymetry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seafloor Elevation Change Analysis Tool</title>
+      <link>http://example.org/10.5066/p9d5uuz0/</link>
+      <pubDate>Tue, 21 Nov 2023 14:45:48 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9d5uuz0/</guid>
+      <description>Abstract The Seafloor Elevation Change Analysis Tool (SECAT) is a Python script intended to be run as a script tool by ArcMap or ArcGIS Pro that automates their intricate methodology.
+Access Points https://code.usgs.gov/spcmsc/volume-and-elevation-calculation-software</description>
+    </item>
+    
+    <item>
+      <title>High-resolution Geophysical and Imagery Data Collected in November 2022 Offshore of Boca Chica Key, FL</title>
+      <link>http://example.org/10.5066/p9kncmfy/</link>
+      <pubDate>Thu, 16 Nov 2023 16:43:30 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9kncmfy/</guid>
+      <description>Abstract Scientists from the U.S. Geological Survey St. Petersburg Coastal and Marine Science Center in St. Petersburg, Florida (USGS - SPCSMC), conducted a geophysical and imagery survey around Boca Chica Key, Florida, during November 2022. During this study, multibeam bathymetry and acoustic backscatter data were collected aboard the research vessel (R/V) Sallenger using a Reson T50P Dual Head system. Underwater digital images and global positioning system (GPS) data were collected November 7-12, 2022, within a 1.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kristina L Paxton on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/kristina-l-paxton/</link>
+    <description>Recent content in Kristina L Paxton on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Nov 2023 08:55:18 +0000</lastBuildDate><atom:link href="http://example.org/author/kristina-l-paxton/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hawaii Island forest bird movement data from 2014 to 2019</title>
+      <link>http://example.org/10.5066/p9mgxhlz/</link>
+      <pubDate>Sat, 25 Nov 2023 08:55:18 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9mgxhlz/</guid>
+      <description>Abstract This data release includes data and metadata containing estimated and predicted locations of radio telemetered Hawaiian forest birds. Radio telemetry data was collected using an automated radio telemetry network from 2014 to 2019 from birds in two study sites, one a continuous forest and the other a fragmented forest. Four bird species that varied in age and sex were studied: the nectarivorous ?i?iwi (Drepanis coccinea) and ?apapane (Himatione sanguinea), the frugivorous ?</description>
+    </item>
+    
+  </channel>
+</rss>

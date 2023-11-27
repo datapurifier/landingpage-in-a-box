@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Brian V Twining on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/brian-v-twining/</link>
+    <description>Recent content in Brian V Twining on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Nov 2023 22:02:21 +0000</lastBuildDate><atom:link href="http://example.org/author/brian-v-twining/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drilling, construction, geophysical data, and lithologic log for borehole USGS 145</title>
+      <link>http://example.org/10.5066/p9qsjv1l/</link>
+      <pubDate>Wed, 22 Nov 2023 22:02:21 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9qsjv1l/</guid>
+      <description>Abstract During 2017 and 2018, the U.S. Geological Survey (USGS) Idaho National Laboratory Project Office, in cooperation with the U.S. Department of Energy (DOE), drilled and constructed borehole USGS 145 (USGS site 433358113042701) for hydrogeologic data collection and stratigraphic framework analyses. The well is located along the western boundary of the Idaho National Laboratory (INL) just south of highway 20. USGS 145 was continuously cored from approximately 3 to 1,368 feet below land surface (BLS), and had water level of 704.</description>
+    </item>
+    
+  </channel>
+</rss>

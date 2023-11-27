@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jason A Ferrante on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/jason-a-ferrante/</link>
+    <description>Recent content in Jason A Ferrante on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Nov 2023 19:37:21 +0000</lastBuildDate><atom:link href="http://example.org/author/jason-a-ferrante/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data from the development and evaluation of a CRISPR/Cas12a-based biosensor for the detection of DNA from Pseudogymnoascus destructans using samples collected from various species of bats across the United States, from 2018 to 2023</title>
+      <link>http://example.org/10.5066/p9gytruz/</link>
+      <pubDate>Wed, 22 Nov 2023 19:37:21 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9gytruz/</guid>
+      <description>Abstract Reported here are the fluorescence data points recorded from CRISPR/Cas12a biosensor assays to detect the presence or absence of DNA from Pseudogymnoascus destructans (Pd), the causative fungal agent of white-nose syndrome in bats, from artificial controls, dermal swab, and guano samples. Ct values from qPCR experiments are also provided in a table. Furthermore, we also provide the GenBank accession numbers used to develop the aforementioned CRISPR/Cas12a biosensor assay for Pd DNA detection.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Janice M Gillespie on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/janice-m-gillespie/</link>
+    <description>Recent content in Janice M Gillespie on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Nov 2023 04:33:22 +0000</lastBuildDate><atom:link href="http://example.org/author/janice-m-gillespie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Historical Produced Water Chemistry Data Compiled for the North Coles Levee Oilfield, Kern County, California</title>
+      <link>http://example.org/10.5066/p9gd7w9l/</link>
+      <pubDate>Sun, 19 Nov 2023 04:33:22 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9gd7w9l/</guid>
+      <description>Abstract This dataset contains geochemical and other information for 40 historical samples of produced water from the North Coles Levee Oil Field. Three of these samples are from commingled tanks containing produced water from multiple wells as noted in the Remarks column. Water that is produced as a byproduct of oil production is called produced water. The numerical water chemistry data were compiled by the U.S. Geological Survey (USGS) from scanned laboratory analysis reports available from the California Geologic Energy Management Division (CalGEM).</description>
+    </item>
+    
+    <item>
+      <title>Geophysical, geological, hydrological, and geochemical data for aquifer salinity mapping in the Elk Hills, Buena Vista, and Coles Levee Oil Fields, Kern County, California</title>
+      <link>http://example.org/10.5066/p9kwnefw/</link>
+      <pubDate>Sun, 19 Nov 2023 04:30:17 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9kwnefw/</guid>
+      <description>Abstract The U.S. Geological Survey (USGS) in cooperation with the California State Water Resources Control Board (State Water Board) compiled and analyzed data for mapping groundwater salinity, characterizing aquifer systems, and documenting the effects of oil field water injection in the Elk Hills Elk Hills, Buena Vista, and Coles Levee Oil Fields, San Joaquin Valley, California. Data provided in this data release include borehole geophysical data, geochemical analyses of water samples, hydrologic data, geological formation depths, and information on observed well log resistivity anomalies - interpreted to be from injection for disposal of produced water from oil wells or from natural causes.</description>
+    </item>
+    
+  </channel>
+</rss>

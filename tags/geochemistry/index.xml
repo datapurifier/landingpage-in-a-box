@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Geochemistry on Landingpage-in-a-Box</title>
+    <link>http://example.org/tags/geochemistry/</link>
+    <description>Recent content in Geochemistry on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 20:54:28 +0000</lastBuildDate><atom:link href="http://example.org/tags/geochemistry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sampling information and water-quality data collected during viable avian influenza virus sampling in Iowa wetlands, 2022</title>
+      <link>http://example.org/10.5066/p9y9ezi9/</link>
+      <pubDate>Tue, 21 Nov 2023 20:54:28 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9y9ezi9/</guid>
+      <description>Abstract Data sets containing: (1) sampling information and equipment, (2) precipitation and air temperature data from Iowa counties containing wetlands sampled, (3) water quality measurements from Iowa wetlands sampled, (4) quality assurance quality control sample result information, and (4) similarities between the highly pathogenic H5N1 virus water sequence and other highly pathogenic avian influenza H5N1 viruses sequenced from poultry and wild birds in Iowa.
+Access Points https://www.sciencebase.gov/catalog/item/6446cc2fd34ee8d4adec6c45</description>
+    </item>
+    
+    <item>
+      <title>Snake River Plain Play Fairway Analysis Phase 1 Favorability Model (DE EE0006733)</title>
+      <link>http://example.org/10.5066/p95eulti/</link>
+      <pubDate>Tue, 21 Nov 2023 08:55:29 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p95eulti/</guid>
+      <description>Abstract This data release contains all digital geographic data used and produced by the Snake River Plain Play Fairway Analysis (DE EE0006733) for Phase 1 (ArcGIS shapefiles and raster files) as well as the model processing script, tables, and documentation used to generate data outputs. Brief descriptions of data layers are in the metadata of GIS files, greater detail is available in the Larger Work, the Snake River Plain Play Fairway Analysis Phase 1 report.</description>
+    </item>
+    
+    <item>
+      <title>Snake River Plain Play Fairway Analysis Phase 2 Favorability Model (DE EE0006733)</title>
+      <link>http://example.org/10.5066/p9y8mezy/</link>
+      <pubDate>Tue, 21 Nov 2023 08:55:29 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9y8mezy/</guid>
+      <description>Abstract This data release contains all digital geographic data used and produced by the Snake River Plain Play Fairway Analysis (DE EE0006733) for Phase 2 (ArcGIS shapefiles and raster files) as well as the model processing script, tables, and documentation used to generate data outputs. Phase 2 examines two subset areas of the Phase 1 study area, Mountain Home and Camas Prairie. Brief descriptions of data layers are in the metadata of GIS files, greater detail is available in the Larger Work, the Snake River Plain Play Fairway Analysis Phase 2 report.</description>
+    </item>
+    
+    <item>
+      <title>Farmington Lake Sediment Descriptions, Total Sediment Chemistry, and Batch Experiment Chemistry</title>
+      <link>http://example.org/10.5066/p9kr7nsl/</link>
+      <pubDate>Sun, 19 Nov 2023 04:34:23 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9kr7nsl/</guid>
+      <description>Abstract These datasets provide information about the physical properties, total sediment chemistry, and batch experiment chemistry (to evaluate element mobility) of sediment cores from the Farmington Lake reservoir in Farmington, NM. The sediment cores were collected in November 2019.
+Access Points https://www.sciencebase.gov/catalog/item/5e41d3e5e4b0edb47be63c63</description>
+    </item>
+    
+    <item>
+      <title>Historical Produced Water Chemistry Data Compiled for the North Coles Levee Oilfield, Kern County, California</title>
+      <link>http://example.org/10.5066/p9gd7w9l/</link>
+      <pubDate>Sun, 19 Nov 2023 04:33:22 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9gd7w9l/</guid>
+      <description>Abstract This dataset contains geochemical and other information for 40 historical samples of produced water from the North Coles Levee Oil Field. Three of these samples are from commingled tanks containing produced water from multiple wells as noted in the Remarks column. Water that is produced as a byproduct of oil production is called produced water. The numerical water chemistry data were compiled by the U.S. Geological Survey (USGS) from scanned laboratory analysis reports available from the California Geologic Energy Management Division (CalGEM).</description>
+    </item>
+    
+    <item>
+      <title>Geophysical, geological, hydrological, and geochemical data for aquifer salinity mapping in the Elk Hills, Buena Vista, and Coles Levee Oil Fields, Kern County, California</title>
+      <link>http://example.org/10.5066/p9kwnefw/</link>
+      <pubDate>Sun, 19 Nov 2023 04:30:17 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9kwnefw/</guid>
+      <description>Abstract The U.S. Geological Survey (USGS) in cooperation with the California State Water Resources Control Board (State Water Board) compiled and analyzed data for mapping groundwater salinity, characterizing aquifer systems, and documenting the effects of oil field water injection in the Elk Hills Elk Hills, Buena Vista, and Coles Levee Oil Fields, San Joaquin Valley, California. Data provided in this data release include borehole geophysical data, geochemical analyses of water samples, hydrologic data, geological formation depths, and information on observed well log resistivity anomalies - interpreted to be from injection for disposal of produced water from oil wells or from natural causes.</description>
+    </item>
+    
+    <item>
+      <title>Inorganic chemistry data for groundwater wells near selected oil fields in the southwestern San Joaquin Valley, central California</title>
+      <link>http://example.org/10.5066/p9xk9aq1/</link>
+      <pubDate>Sun, 19 Nov 2023 04:28:17 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9xk9aq1/</guid>
+      <description>Abstract This digital dataset contains geochemical and other information for 1,209 samples of groundwater from 343 wells located within 3-miles of the Buena Vista, Elk Hills, Midway-Sunset, and North and South Coles Levee oil fields in the southwestern San Joaquin Valley of central California. Data were compiled by the U.S. Geological Survey (USGS) from preexisting datasets and transferred manually into two separate data files described as follows: 1) a summary data file identifying each well, it&amp;rsquo;s location, basic well construction, the number of chemistry samples and period of record, and data sources; and 2) a data file of geochemistry analyses for selected water-quality indicators, major and minor ions, nutrients, and trace elements, plus parameter code and (or) method, reporting level, reporting level type, and supplemental notes.</description>
+    </item>
+    
+    <item>
+      <title>Urban elemental and grain size characteristics of sediments collected in the Jones Falls watershed in Baltimore, Maryland for 2021-2022</title>
+      <link>http://example.org/10.5066/p9v1l3qi/</link>
+      <pubDate>Fri, 17 Nov 2023 14:45:17 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9v1l3qi/</guid>
+      <description>Abstract This metadata record documents a single comma delimited table that contains information on the elemental composition and particle size distribution of sediments within Jones Falls watershed in Baltimore, Maryland.
+Access Points https://www.sciencebase.gov/catalog/item/651d910ed34e44db0e2d44ce</description>
+    </item>
+    
+    <item>
+      <title>Trace element chemistry of sulfides and quartz, in situ sulfur isotope values of sulfides, cathodoluminescence of quartz, fluid inclusion microthermometry and raman, and radiogenic isotope and whole rock geochemistry from the Stibnite-Yellow Pine district, Idaho 2016-2022</title>
+      <link>http://example.org/10.5066/p91acjsc/</link>
+      <pubDate>Fri, 17 Nov 2023 14:24:50 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p91acjsc/</guid>
+      <description>Abstract This dataset is a collection of geochemical data on samples from the Stibnite-Yellow Pine district of Idaho. The datasets include: whole rock geochemistry; lead, strontium and neodymium isotope chemistry of sulfides and whole rock samples by isotope dilution-thermal-mass spectrometry (ID-TIMS); in situ sulfur isotope chemistry of sulfides by laser ablation-multi collector-inductively coupled-mass spectrometry (LA-MC-ICP-MS); electron microprobe (EMP) images, cathodoluminescence (CL) images and spectra, along with EMP and laser ablation-inductively coupled-mass spectrometry (LA-ICP-MS) trace element analysis of sulfides and quartz; and fluid inclusion microthermometry and raman.</description>
+    </item>
+    
+    <item>
+      <title>The chemistry of eolian quartz dust and the origin of chert</title>
+      <link>http://example.org/10.5066/p9sa2m1l/</link>
+      <pubDate>Wed, 15 Nov 2023 18:17:55 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9sa2m1l/</guid>
+      <description>Abstract Temporal and spatial sources of silica for chert remain poorly constrained. Modern sources to the worlds oceans include silica in rivers &amp;gt; aeolian (dust) deposition &amp;gt; sea floor vents and submarine weathering. However, changes in aridity and dust flux during the Phanerozoic may explain variations in the ocean silica cycle and times and places of chert formation. The chemistry of fine quartz dust (FQD) provides a chemical mechanism for the transformation of FQD to polymorphs of silica in chert; FQD is readily dissolved, then reprecipitated as Opal-A by either biotic or abiotic processes.</description>
+    </item>
+    
+    <item>
+      <title>Geochemistry of Utica Shale Play and other Appalachian produced waters</title>
+      <link>http://example.org/10.5066/p9an5gj0/</link>
+      <pubDate>Wed, 15 Nov 2023 18:11:16 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9an5gj0/</guid>
+      <description>Abstract Citation Note: These data were collected as part of a research study published in Environmental Science and Technology. Please reference the following paper when citing these data. Blondes, M.S., Shelton, J.L., Engle, M.A., Trembly, J.P., Doolan, C.A., Jubb, A.M., Chenault, J.M., Rowan, E.L., Haefner, R.J., and Mailot, B.E., 2020, Utica Shale Play Oil and Gas Brines: Geochemistry and Factors Influencing Wastewater Management: Environmental Science &amp;amp; Technology, https://dx.doi.org/10.1021/acs.est.0c02461. The Utica and Marcellus Shale Plays in the Appalachian Basin are the 4th and 1st largest natural gas producing plays in the United States.</description>
+    </item>
+    
+  </channel>
+</rss>

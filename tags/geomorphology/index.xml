@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>geomorphology on Landingpage-in-a-Box</title>
+    <link>http://example.org/tags/geomorphology/</link>
+    <description>Recent content in geomorphology on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 21:36:17 +0000</lastBuildDate><atom:link href="http://example.org/tags/geomorphology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estuarine vegetated wetland change scenarios for estuaries in the conterminous United States, 1996–2019</title>
+      <link>http://example.org/10.5066/p9u43qeo/</link>
+      <pubDate>Tue, 21 Nov 2023 21:36:17 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9u43qeo/</guid>
+      <description>Abstract This data release contains land cover-derived statistics regarding estuarine vegetated wetland area change within estuary drainage areas along the conterminous U.S. This dataset includes net change in estuarine vegetated wetland area based on National Oceanic and Atmospheric Administration&amp;rsquo;s (NOAA) Coastal Change Assessment Program (C-CAP) 1996 and 2016 land cover data. Net change was assessed between estuarine vegetated wetlands (i.e., estuarine marshes, mangroves, non-mangrove estuarine woody wetlands, and salt pannes, depending on vegetation coverage and type) and the following other landcover classes: 1) water; 2) unconsolidated shore; 3) freshwater woody wetlands; 4) freshwater marsh; 5) upland; and 6) agriculture.</description>
+    </item>
+    
+    <item>
+      <title>Data supporting the 2017 geomorphic survey of North Fork Eagle Creek, New Mexico</title>
+      <link>http://example.org/10.5066/f7pr7tx3/</link>
+      <pubDate>Mon, 20 Nov 2023 20:06:12 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/f7pr7tx3/</guid>
+      <description>Abstract This U.S. Geological Survey (USGS) data release contains the results from the 2017 geomorphic survey of North Fork Eagle Creek, New Mexico. The 2017 geomorphic survey was conducted by the USGS, in cooperation with the Village of Ruidoso, New Mexico, and is the first in a planned series of five annual geomorphic surveys of the stream reach located between the North Fork Eagle Creek near Alto, New Mexico, streamflow-gaging station (USGS site 08387550) and the Eagle Creek below South Fork near Alto, New Mexico, streamflow-gaging station (USGS site 08387600).</description>
+    </item>
+    
+    <item>
+      <title>Sediment model inputs and outputs for the Smith Creek watershed near New Market, Virginia for 2012-2016</title>
+      <link>http://example.org/10.5066/p9avghmb/</link>
+      <pubDate>Sun, 19 Nov 2023 04:56:21 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9avghmb/</guid>
+      <description>Abstract This data release includes data created, collected, and/or otherwise modified in the process of quantifying a sediment budget for the Smith Creek Watershed near New Market, Virginia, USA. Five raster files are included, namely a modeled index of hydrological connectivity, a raster model of modeled floodplain depositional masses and extent, a rasters of modeled gross and delivered upland erosion, and a hydrologically conditioned Digital Elevation Model (DEM). Two vector shapefiles are also included.</description>
+    </item>
+    
+    <item>
+      <title>Data Release for Luminescence: Construction and modification of debris-flow alluvial fans as captured in the geomorphic and sedimentary record: examples from the western Sangre de Cristo Mountains, south-central Colorado</title>
+      <link>http://example.org/10.5066/p96162bf/</link>
+      <pubDate>Sun, 19 Nov 2023 04:56:13 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p96162bf/</guid>
+      <description>Abstract The following report summarizes the dating results from the San Luis Valley-Pioneer Fan 2017-2019 dating project. Within this report, we detail the methodology used by the USGS Luminescence Geochronology Laboratory to obtain ages including sample preparation methods, luminescence measurement, equivalent dose determination, and dating-related calculations. We recommend that this report be included as the supplementary material for any publication(s) that use the ages within this report.
+Access Points https://www.sciencebase.gov/catalog/item/630e7febd34e36012ef9f6bb</description>
+    </item>
+    
+    <item>
+      <title>Urban elemental and grain size characteristics of sediments collected in the Jones Falls watershed in Baltimore, Maryland for 2021-2022</title>
+      <link>http://example.org/10.5066/p9v1l3qi/</link>
+      <pubDate>Fri, 17 Nov 2023 14:45:17 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9v1l3qi/</guid>
+      <description>Abstract This metadata record documents a single comma delimited table that contains information on the elemental composition and particle size distribution of sediments within Jones Falls watershed in Baltimore, Maryland.
+Access Points https://www.sciencebase.gov/catalog/item/651d910ed34e44db0e2d44ce</description>
+    </item>
+    
+    <item>
+      <title>Hydrodynamic model output and image simulation code for evaluating image-based river velocimetry from a case study on the Sacramento River near Glenn, California</title>
+      <link>http://example.org/10.5066/p9c19z0s/</link>
+      <pubDate>Thu, 16 Nov 2023 22:16:57 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9c19z0s/</guid>
+      <description>Abstract This data release includes the data and code used for the manuscript titled &amp;ldquo;A framework to facilitate development and testing of image-based river velocimetry algorithms&amp;rdquo;, submitted to the journal Earth Surface Processes and Landforms. Three *.csv files and five *.m files with MATLAB source code are included below. Each *.csv file contains output from a hydrodynamic model of a reach of the Sacramento River near Glenn, California, with a separate file for each of three different discharges (i.</description>
+    </item>
+    
+  </channel>
+</rss>

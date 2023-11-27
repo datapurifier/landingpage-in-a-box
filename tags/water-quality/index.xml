@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Water Quality on Landingpage-in-a-Box</title>
+    <link>http://example.org/tags/water-quality/</link>
+    <description>Recent content in Water Quality on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Nov 2023 22:02:21 +0000</lastBuildDate><atom:link href="http://example.org/tags/water-quality/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drilling, construction, geophysical data, and lithologic log for borehole USGS 145</title>
+      <link>http://example.org/10.5066/p9qsjv1l/</link>
+      <pubDate>Wed, 22 Nov 2023 22:02:21 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9qsjv1l/</guid>
+      <description>Abstract During 2017 and 2018, the U.S. Geological Survey (USGS) Idaho National Laboratory Project Office, in cooperation with the U.S. Department of Energy (DOE), drilled and constructed borehole USGS 145 (USGS site 433358113042701) for hydrogeologic data collection and stratigraphic framework analyses. The well is located along the western boundary of the Idaho National Laboratory (INL) just south of highway 20. USGS 145 was continuously cored from approximately 3 to 1,368 feet below land surface (BLS), and had water level of 704.</description>
+    </item>
+    
+    <item>
+      <title>Sampling information and water-quality data collected during viable avian influenza virus sampling in Iowa wetlands, 2022</title>
+      <link>http://example.org/10.5066/p9y9ezi9/</link>
+      <pubDate>Tue, 21 Nov 2023 20:54:28 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9y9ezi9/</guid>
+      <description>Abstract Data sets containing: (1) sampling information and equipment, (2) precipitation and air temperature data from Iowa counties containing wetlands sampled, (3) water quality measurements from Iowa wetlands sampled, (4) quality assurance quality control sample result information, and (4) similarities between the highly pathogenic H5N1 virus water sequence and other highly pathogenic avian influenza H5N1 viruses sequenced from poultry and wild birds in Iowa.
+Access Points https://www.sciencebase.gov/catalog/item/6446cc2fd34ee8d4adec6c45</description>
+    </item>
+    
+    <item>
+      <title>Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) Green Bay, U.S.: Composite Model Layers</title>
+      <link>http://example.org/10.5066/p98l86i3/</link>
+      <pubDate>Tue, 21 Nov 2023 15:21:28 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p98l86i3/</guid>
+      <description>Abstract This dataset contains all the layers associated with U.S. Geological Survey (USGS) Great Lakes Coastal Wetland Restoration Assessment (GLCWRA) initiative for the Green Bay Restoration Assessment (GBRA) which aims to identify and rank coastal areas with the greatest potential for wetland habitat restoration. Each layer has a unique contribution to the identification of restorable wetlands. The 7 parameters (Parameter 0: Mask, Parameter 1: Hydroperiod, Parameter 2: Wetland Soils, Parameter 3: Flowlines, Parameter 4: Conservation and Recreation Lands, Parameter 5: Impervious Surfaces, and Parameter 6: Land Use) and Index Composite directly correlate to areas that are recommended for restoration.</description>
+    </item>
+    
+    <item>
+      <title>Model Code, Outputs, and Supporting Data for Approaches to Process-Guided Deep Learning for Groundwater-Influenced Stream Temperature Predictions</title>
+      <link>http://example.org/10.5066/p9ko49ot/</link>
+      <pubDate>Tue, 21 Nov 2023 15:17:37 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9ko49ot/</guid>
+      <description>Abstract This model archive provides all data, code, and modeling results used in Barclay and others (2023) to assess the ability of process-guided deep learning stream temperature models to accurately incorporate groundwater-discharge processes. We assessed the performance of an existing process-guided deep learning stream temperature model of the Delaware River Basin (USA) and explored four approaches for improving groundwater process representation: 1) a custom loss function that leverages the unique patterns of air and water temperature coupling resulting from different temperature drivers, 2) inclusion of additional groundwater-relevant catchment attributes, 3) incorporation of additional process model outputs, and 4) a composite model.</description>
+    </item>
+    
+    <item>
+      <title>Groundwater, surface water, and soil data collected near and at the Ammonium Perchlorate Rocket Motor Destruction (ARMD) facility at the Letterkenny Army Depot, Chambersburg, Pennsylvania</title>
+      <link>http://example.org/10.5066/p92yiatz/</link>
+      <pubDate>Mon, 20 Nov 2023 23:03:30 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p92yiatz/</guid>
+      <description>Abstract Sampling was conducted by the U.S. Geological Survey (USGS) at four wells, one surface water site, and five soil sampling locations near and at the Ammonium Perchlorate Rocket Motor Destruction (ARMD) facility at the Letterkenny Army Depot. Analytical results for groundwater samples collected in 2021 are provided in ?ARMD_wells_data_2021.xlsx?. Analytical results for surface-water samples collected in 2021 are provided in ?ARMD_sw_data_2021.xlsx?. Analytical results for soil samples collected in 2021 are provided in ?</description>
+    </item>
+    
+    <item>
+      <title>Sediment model inputs and outputs for the Smith Creek watershed near New Market, Virginia for 2012-2016</title>
+      <link>http://example.org/10.5066/p9avghmb/</link>
+      <pubDate>Sun, 19 Nov 2023 04:56:21 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9avghmb/</guid>
+      <description>Abstract This data release includes data created, collected, and/or otherwise modified in the process of quantifying a sediment budget for the Smith Creek Watershed near New Market, Virginia, USA. Five raster files are included, namely a modeled index of hydrological connectivity, a raster model of modeled floodplain depositional masses and extent, a rasters of modeled gross and delivered upland erosion, and a hydrologically conditioned Digital Elevation Model (DEM). Two vector shapefiles are also included.</description>
+    </item>
+    
+    <item>
+      <title>Farmington Lake Sediment Descriptions, Total Sediment Chemistry, and Batch Experiment Chemistry</title>
+      <link>http://example.org/10.5066/p9kr7nsl/</link>
+      <pubDate>Sun, 19 Nov 2023 04:34:23 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9kr7nsl/</guid>
+      <description>Abstract These datasets provide information about the physical properties, total sediment chemistry, and batch experiment chemistry (to evaluate element mobility) of sediment cores from the Farmington Lake reservoir in Farmington, NM. The sediment cores were collected in November 2019.
+Access Points https://www.sciencebase.gov/catalog/item/5e41d3e5e4b0edb47be63c63</description>
+    </item>
+    
+    <item>
+      <title>Historical Produced Water Chemistry Data Compiled for the North Coles Levee Oilfield, Kern County, California</title>
+      <link>http://example.org/10.5066/p9gd7w9l/</link>
+      <pubDate>Sun, 19 Nov 2023 04:33:22 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9gd7w9l/</guid>
+      <description>Abstract This dataset contains geochemical and other information for 40 historical samples of produced water from the North Coles Levee Oil Field. Three of these samples are from commingled tanks containing produced water from multiple wells as noted in the Remarks column. Water that is produced as a byproduct of oil production is called produced water. The numerical water chemistry data were compiled by the U.S. Geological Survey (USGS) from scanned laboratory analysis reports available from the California Geologic Energy Management Division (CalGEM).</description>
+    </item>
+    
+    <item>
+      <title>Geophysical, geological, hydrological, and geochemical data for aquifer salinity mapping in the Elk Hills, Buena Vista, and Coles Levee Oil Fields, Kern County, California</title>
+      <link>http://example.org/10.5066/p9kwnefw/</link>
+      <pubDate>Sun, 19 Nov 2023 04:30:17 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9kwnefw/</guid>
+      <description>Abstract The U.S. Geological Survey (USGS) in cooperation with the California State Water Resources Control Board (State Water Board) compiled and analyzed data for mapping groundwater salinity, characterizing aquifer systems, and documenting the effects of oil field water injection in the Elk Hills Elk Hills, Buena Vista, and Coles Levee Oil Fields, San Joaquin Valley, California. Data provided in this data release include borehole geophysical data, geochemical analyses of water samples, hydrologic data, geological formation depths, and information on observed well log resistivity anomalies - interpreted to be from injection for disposal of produced water from oil wells or from natural causes.</description>
+    </item>
+    
+    <item>
+      <title>Inorganic chemistry data for groundwater wells near selected oil fields in the southwestern San Joaquin Valley, central California</title>
+      <link>http://example.org/10.5066/p9xk9aq1/</link>
+      <pubDate>Sun, 19 Nov 2023 04:28:17 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9xk9aq1/</guid>
+      <description>Abstract This digital dataset contains geochemical and other information for 1,209 samples of groundwater from 343 wells located within 3-miles of the Buena Vista, Elk Hills, Midway-Sunset, and North and South Coles Levee oil fields in the southwestern San Joaquin Valley of central California. Data were compiled by the U.S. Geological Survey (USGS) from preexisting datasets and transferred manually into two separate data files described as follows: 1) a summary data file identifying each well, it&amp;rsquo;s location, basic well construction, the number of chemistry samples and period of record, and data sources; and 2) a data file of geochemistry analyses for selected water-quality indicators, major and minor ions, nutrients, and trace elements, plus parameter code and (or) method, reporting level, reporting level type, and supplemental notes.</description>
+    </item>
+    
+    <item>
+      <title>Urban elemental and grain size characteristics of sediments collected in the Jones Falls watershed in Baltimore, Maryland for 2021-2022</title>
+      <link>http://example.org/10.5066/p9v1l3qi/</link>
+      <pubDate>Fri, 17 Nov 2023 14:45:17 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9v1l3qi/</guid>
+      <description>Abstract This metadata record documents a single comma delimited table that contains information on the elemental composition and particle size distribution of sediments within Jones Falls watershed in Baltimore, Maryland.
+Access Points https://www.sciencebase.gov/catalog/item/651d910ed34e44db0e2d44ce</description>
+    </item>
+    
+    <item>
+      <title>Index of vulnerability for elevated nitrates in groundwater in the Puget Sound Basin, Washington, 2000&amp;amp;amp;ndash;2019</title>
+      <link>http://example.org/10.5066/p9towgym/</link>
+      <pubDate>Thu, 16 Nov 2023 18:22:19 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9towgym/</guid>
+      <description>Abstract This data release consists of the initial well input data for the logistic regression model, the conceptual well data for logistic mapping, the logistic mapping output data, the logistic mapping output vulnerability and vulnerability difference rasters, and supporting geographic information system (GIS) files for the study titled &amp;ldquo;Index of Vulnerability for Elevated Nitrates in Groundwater in the Puget Sound, Washington.&amp;rdquo;
+Access Points https://www.sciencebase.gov/catalog/item/620fe06ed34e6c7e83baae63</description>
+    </item>
+    
+    <item>
+      <title>Fluorescence sensor measurements in sediment suspensions to evaluate turbidity corrections</title>
+      <link>http://example.org/10.5066/p9ob430e/</link>
+      <pubDate>Thu, 16 Nov 2023 16:33:46 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9ob430e/</guid>
+      <description>Abstract The use of field-deployable fluorescence sensors to better understand dissolved organic matter concentrations and composition has grown immensely in recent years. Applications of these sensors to critical monitoring efforts have also grown to encompass post-fire monitoring, wastewater tracking, and use as a proxy for various contaminants. Despite the growth, it is well known that these sensors are subject to various interferences and require corrections for temperature, turbidity, and concentration effects.</description>
+    </item>
+    
+    <item>
+      <title>Water quality and gas fluxes of Interior Alaska (2014-2018)</title>
+      <link>http://example.org/10.5066/p9c6bdbq/</link>
+      <pubDate>Thu, 16 Nov 2023 08:55:36 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9c6bdbq/</guid>
+      <description>Abstract This product consists of multiple tabular datasets and associated metadata of water quality information related to rivers, streams, and lakes in the Yukon River watershed between 2014 and 2018. This data release is apart of the National Aeronautics and Space Administration (NASA) funded Arctic-Boreal Vulnerability Experiment (ABoVE) and is an assessment of water quality and greenhouse gas fluxes within the interior of Alaska. Sampling frequency varied across locations, with some sites sampled twice a year or more.</description>
+    </item>
+    
+    <item>
+      <title>Water-quality profiles within the Caloosahatchee River and twelve fiberglass tanks, during experimental nutrient addition treatments, 2021</title>
+      <link>http://example.org/10.5066/p9jx9na1/</link>
+      <pubDate>Wed, 15 Nov 2023 19:33:34 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9jx9na1/</guid>
+      <description>Abstract This U.S. Geological Survey (USGS) Data Release provides water-quality data collected during 1-week and 2-week nutrient studies beginning on February 22, May 17, and July 26 located in the Caloosahatchee River at the S-79 water-control structure. For each study period, 12 fiberglass tanks were suspended in the river using three floating cradles with each cradle holding four tanks. Each tank was open to the atmosphere and closed to the river.</description>
+    </item>
+    
+  </channel>
+</rss>

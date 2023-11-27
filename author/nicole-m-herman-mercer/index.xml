@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nicole M Herman-Mercer on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/nicole-m-herman-mercer/</link>
+    <description>Recent content in Nicole M Herman-Mercer on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Nov 2023 08:55:27 +0000</lastBuildDate><atom:link href="http://example.org/author/nicole-m-herman-mercer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Water-Quality Data from the Yukon River Basin in Alaska and Canada</title>
+      <link>http://example.org/10.5066/f77d2s7b/</link>
+      <pubDate>Thu, 16 Nov 2023 08:55:27 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/f77d2s7b/</guid>
+      <description>Abstract The water-quality data available here has been collected as part of a collaborative monitoring project between the US Geological Survey, Yukon River Inter-Tribal Watershed Council, and Yukon River Basin communities known as the Indigenous Observation Network. Since 2006 the USGS National Research Program (NRP) and Yukon River Inter-Tribal Watershed Council (YRITWC) have been partnering to collect water-quality samples from the Yukon River and tributaries with the assistance of trained community members living in the Yukon River Basin.</description>
+    </item>
+    
+  </channel>
+</rss>

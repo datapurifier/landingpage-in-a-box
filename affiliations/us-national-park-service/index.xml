@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>US National Park Service on Landingpage-in-a-Box</title>
+    <link>http://example.org/affiliations/us-national-park-service/</link>
+    <description>Recent content in US National Park Service on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Nov 2023 04:55:01 +0000</lastBuildDate><atom:link href="http://example.org/affiliations/us-national-park-service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blacklegged tick nymph densities, tickborne pathogen prevalence, and white-tailed deer densities in eight national parks in the eastern United States from 2014-2022</title>
+      <link>http://example.org/10.5066/p9lsi8k9/</link>
+      <pubDate>Sun, 26 Nov 2023 04:55:01 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9lsi8k9/</guid>
+      <description>Abstract The data presented here are blacklegged tick nymph densities, white-tailed deer densities, and Borrelia burgdorferi (causative agent of Lyme disease) prevalences for eight national parks in the eastern United States from 2014-2022.
+Access Points https://www.sciencebase.gov/catalog/item/637cfb9bd34ed907bf73c08c</description>
+    </item>
+    
+  </channel>
+</rss>

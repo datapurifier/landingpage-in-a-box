@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Amanda WJ Demopoulos on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/amanda-wj-demopoulos/</link>
+    <description>Recent content in Amanda WJ Demopoulos on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Nov 2023 15:00:34 +0000</lastBuildDate><atom:link href="http://example.org/author/amanda-wj-demopoulos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oceanographic conditions at Richardson reef reveal new suitable habitat for cold-water corals</title>
+      <link>http://example.org/10.5066/p9pdh0or/</link>
+      <pubDate>Thu, 16 Nov 2023 15:00:34 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9pdh0or/</guid>
+      <description>Abstract Cold-water corals create complex structures, but our incomplete knowledge of their niche space limits our ability to understand their distribution and therefore the impact of the ecosystem services they provide in the ocean. The Richardson reef complex consists of over 150 km of linear reef tracts within an area of 75 km2 between 700-900 m depth. This reef experiences rapid shifts in temperature, and currents approaching 1 meter per second.</description>
+    </item>
+    
+  </channel>
+</rss>

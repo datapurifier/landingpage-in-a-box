@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Carl J Legleiter on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/carl-j-legleiter/</link>
+    <description>Recent content in Carl J Legleiter on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Nov 2023 22:16:57 +0000</lastBuildDate><atom:link href="http://example.org/author/carl-j-legleiter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hydrodynamic model output and image simulation code for evaluating image-based river velocimetry from a case study on the Sacramento River near Glenn, California</title>
+      <link>http://example.org/10.5066/p9c19z0s/</link>
+      <pubDate>Thu, 16 Nov 2023 22:16:57 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9c19z0s/</guid>
+      <description>Abstract This data release includes the data and code used for the manuscript titled &amp;ldquo;A framework to facilitate development and testing of image-based river velocimetry algorithms&amp;rdquo;, submitted to the journal Earth Surface Processes and Landforms. Three *.csv files and five *.m files with MATLAB source code are included below. Each *.csv file contains output from a hydrodynamic model of a reach of the Sacramento River near Glenn, California, with a separate file for each of three different discharges (i.</description>
+    </item>
+    
+  </channel>
+</rss>

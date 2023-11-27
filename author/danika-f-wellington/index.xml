@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Danika F Wellington on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/danika-f-wellington/</link>
+    <description>Recent content in Danika F Wellington on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Nov 2023 18:36:37 +0000</lastBuildDate><atom:link href="http://example.org/author/danika-f-wellington/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Land Change Monitoring, Assessment, and Projection (LCMAP) Collection 1.3 Annual Land Cover and Land Cover Change Validation Tables (1985&amp;amp;amp;ndash;2021) for the Conterminous United States</title>
+      <link>http://example.org/10.5066/p9aqyze0/</link>
+      <pubDate>Thu, 16 Nov 2023 18:36:37 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9aqyze0/</guid>
+      <description>Abstract A validation assessment of Land Cover Monitoring, Assessment, and Projection Collection 1.3 annual land cover products (1985?2021) for the Conterminous United States was conducted with an independently collected reference dataset. Reference data land cover attributes were assigned by trained interpreters for each year of the time series (1984?2021) to a reference sample of 26,971 Landsat resolution (30m x 30m) pixels. These pixels were selected from a sample frame of all pixels in the ARD grid system which fell within the map area (Dwyer et al.</description>
+    </item>
+    
+  </channel>
+</rss>

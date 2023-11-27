@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Matthew Bowser on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/matthew-bowser/</link>
+    <description>Recent content in Matthew Bowser on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Nov 2023 11:03:45 +0000</lastBuildDate><atom:link href="http://example.org/author/matthew-bowser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>United States Register of Introduced and Invasive Species (US-RIIS) (ver. 2.0, November 2022)</title>
+      <link>http://example.org/10.5066/p9kfftod/</link>
+      <pubDate>Mon, 27 Nov 2023 11:03:45 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9kfftod/</guid>
+      <description>Abstract Introduced (non-native) species that become established may eventually become invasive, so tracking all introduced species provides a baseline for effective modeling of species trends and interactions, geospatially and temporally. The United States Register of Introduced and Invasive Species (US-RIIS) (ver. 2.0, November 2022, https://doi.org/10.5066/P9KFFTOD), as of 2022-10-23, is comprised of three lists, for the localities of Alaska (AK, with 545 records), Hawaii (HI, with 5,628 records), and the conterminous (or lower 48) United States (L48, with 8,527 records).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kristin Marano on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/kristin-marano/</link>
+    <description>Recent content in Kristin Marano on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Nov 2023 20:29:48 +0000</lastBuildDate><atom:link href="http://example.org/author/kristin-marano/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ShakeMap Atlas V4 and AtlasCat</title>
+      <link>http://example.org/10.5066/p98atogz/</link>
+      <pubDate>Thu, 16 Nov 2023 20:29:48 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p98atogz/</guid>
+      <description>Abstract The Atlas of ShakeMaps (~14,100 earthquakes, 1900-2020) provides a consistent and quantitative description of the distribution of shaking intensity for calibrating earthquake loss estimation methodologies, like those used in the USGS Prompt Assessment of Global Earthquakes for Response (PAGER)�system. Version 4 of the Atlas includes a vastly expanded compilation of ShakeMaps for consequential and widely felt earthquakes using updated ShakeMap (Version 4)�software. For each event, we have attempted to gather available macroseismic, recorded ground motions and finite fault inputs.</description>
+    </item>
+    
+  </channel>
+</rss>

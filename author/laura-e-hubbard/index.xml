@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Laura E Hubbard on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/laura-e-hubbard/</link>
+    <description>Recent content in Laura E Hubbard on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 20:54:28 +0000</lastBuildDate><atom:link href="http://example.org/author/laura-e-hubbard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sampling information and water-quality data collected during viable avian influenza virus sampling in Iowa wetlands, 2022</title>
+      <link>http://example.org/10.5066/p9y9ezi9/</link>
+      <pubDate>Tue, 21 Nov 2023 20:54:28 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9y9ezi9/</guid>
+      <description>Abstract Data sets containing: (1) sampling information and equipment, (2) precipitation and air temperature data from Iowa counties containing wetlands sampled, (3) water quality measurements from Iowa wetlands sampled, (4) quality assurance quality control sample result information, and (4) similarities between the highly pathogenic H5N1 virus water sequence and other highly pathogenic avian influenza H5N1 viruses sequenced from poultry and wild birds in Iowa.
+Access Points https://www.sciencebase.gov/catalog/item/6446cc2fd34ee8d4adec6c45</description>
+    </item>
+    
+  </channel>
+</rss>

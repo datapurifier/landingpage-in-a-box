@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Harrison J Gray on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/harrison-j-gray/</link>
+    <description>Recent content in Harrison J Gray on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Nov 2023 04:56:13 +0000</lastBuildDate><atom:link href="http://example.org/author/harrison-j-gray/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Release for Luminescence: Construction and modification of debris-flow alluvial fans as captured in the geomorphic and sedimentary record: examples from the western Sangre de Cristo Mountains, south-central Colorado</title>
+      <link>http://example.org/10.5066/p96162bf/</link>
+      <pubDate>Sun, 19 Nov 2023 04:56:13 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p96162bf/</guid>
+      <description>Abstract The following report summarizes the dating results from the San Luis Valley-Pioneer Fan 2017-2019 dating project. Within this report, we detail the methodology used by the USGS Luminescence Geochronology Laboratory to obtain ages including sample preparation methods, luminescence measurement, equivalent dose determination, and dating-related calculations. We recommend that this report be included as the supplementary material for any publication(s) that use the ages within this report.
+Access Points https://www.sciencebase.gov/catalog/item/630e7febd34e36012ef9f6bb</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Andrew Liebhold on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/andrew-liebhold/</link>
+    <description>Recent content in Andrew Liebhold on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Nov 2023 10:24:57 +0000</lastBuildDate><atom:link href="http://example.org/author/andrew-liebhold/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>United States Register of Introduced and Invasive Species (US-RIIS)</title>
+      <link>http://example.org/10.5066/p95xl09q/</link>
+      <pubDate>Mon, 20 Nov 2023 10:24:57 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p95xl09q/</guid>
+      <description>Abstract Introduced (non-native) species that becomes established may eventually become invasive, so tracking introduced species provides a baseline for effective modeling of species trends and interactions, geospatially and temporally. The United States Register of Introduced and Invasive Species (US-RIIS) is comprised of three lists, one each for Alaska (AK, with 532 records), Hawaii (HI, with 6,075 records), and the conterminous United States (L48, with 8,657 records). Each list includes introduced (non-native), established (reproducing) taxa that: are, or may become, invasive (harmful) in the locality; are not known to be harmful there; and/or have been used for biological control in the locality.</description>
+    </item>
+    
+  </channel>
+</rss>

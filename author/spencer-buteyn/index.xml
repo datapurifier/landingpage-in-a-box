@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Spencer Buteyn on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/spencer-buteyn/</link>
+    <description>Recent content in Spencer Buteyn on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Nov 2023 18:44:30 +0000</lastBuildDate><atom:link href="http://example.org/author/spencer-buteyn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compilation of Geospatial Data (GIS) for the Mineral Industries and Related Infrastructure of the People&#39;s Republic of China</title>
+      <link>http://example.org/10.5066/p9hk2k8i/</link>
+      <pubDate>Thu, 16 Nov 2023 18:44:30 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9hk2k8i/</guid>
+      <description>Abstract The U.S. Geological Survey (USGS) has compiled a geodatabase containing mineral-related geospatial data for the People&amp;rsquo;s Republic of China. The data can be used in analyses of the extractive fuel and nonfuel mineral industries and related economic and physical infrastructure integral for the successful operation of the mineral industries within the area of study as well as the movement of mineral products across domestic and global markets. This geodatabase reflects the USGS ongoing commitment to its mission of understanding the nature and distribution of global mineral commodity supply chains by updating and publishing the georeferenced locations of mineral commodity production and processing facilities, mineral exploration and development sites, and mineral commodity exporting ports for the countries in the area of study.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aaron M Jubb on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/aaron-m-jubb/</link>
+    <description>Recent content in Aaron M Jubb on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Nov 2023 18:11:16 +0000</lastBuildDate><atom:link href="http://example.org/author/aaron-m-jubb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geochemistry of Utica Shale Play and other Appalachian produced waters</title>
+      <link>http://example.org/10.5066/p9an5gj0/</link>
+      <pubDate>Wed, 15 Nov 2023 18:11:16 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9an5gj0/</guid>
+      <description>Abstract Citation Note: These data were collected as part of a research study published in Environmental Science and Technology. Please reference the following paper when citing these data. Blondes, M.S., Shelton, J.L., Engle, M.A., Trembly, J.P., Doolan, C.A., Jubb, A.M., Chenault, J.M., Rowan, E.L., Haefner, R.J., and Mailot, B.E., 2020, Utica Shale Play Oil and Gas Brines: Geochemistry and Factors Influencing Wastewater Management: Environmental Science &amp;amp; Technology, https://dx.doi.org/10.1021/acs.est.0c02461. The Utica and Marcellus Shale Plays in the Appalachian Basin are the 4th and 1st largest natural gas producing plays in the United States.</description>
+    </item>
+    
+  </channel>
+</rss>

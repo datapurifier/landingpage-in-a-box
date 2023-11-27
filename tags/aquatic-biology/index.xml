@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aquatic biology on Landingpage-in-a-Box</title>
+    <link>http://example.org/tags/aquatic-biology/</link>
+    <description>Recent content in Aquatic biology on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Nov 2023 11:03:45 +0000</lastBuildDate><atom:link href="http://example.org/tags/aquatic-biology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>United States Register of Introduced and Invasive Species (US-RIIS) (ver. 2.0, November 2022)</title>
+      <link>http://example.org/10.5066/p9kfftod/</link>
+      <pubDate>Mon, 27 Nov 2023 11:03:45 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9kfftod/</guid>
+      <description>Abstract Introduced (non-native) species that become established may eventually become invasive, so tracking all introduced species provides a baseline for effective modeling of species trends and interactions, geospatially and temporally. The United States Register of Introduced and Invasive Species (US-RIIS) (ver. 2.0, November 2022, https://doi.org/10.5066/P9KFFTOD), as of 2022-10-23, is comprised of three lists, for the localities of Alaska (AK, with 545 records), Hawaii (HI, with 5,628 records), and the conterminous (or lower 48) United States (L48, with 8,527 records).</description>
+    </item>
+    
+    <item>
+      <title>Brook trout abundance in streams across southern Appalachia from 1958-2021</title>
+      <link>http://example.org/10.5066/p9dqid6g/</link>
+      <pubDate>Sun, 26 Nov 2023 04:55:09 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9dqid6g/</guid>
+      <description>Abstract This Data Release compiles records of brook trout abundance from 745 unique sites across the southern Appalachian mountains from 1958-2021. Records were compiled from 10 institutions, primarily state natural resource agencies. Data were collected from wadeable stream environments with standard backpack electrofishing methods, and observed abundances of adult and juvenile brook trout are reported for each electrofishing pass within sample sites.
+Access Points https://www.sciencebase.gov/catalog/item/6439af5dd34ee8d4ade231f8</description>
+    </item>
+    
+    <item>
+      <title>United States Register of Introduced and Invasive Species (US-RIIS)</title>
+      <link>http://example.org/10.5066/p95xl09q/</link>
+      <pubDate>Mon, 20 Nov 2023 10:24:57 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p95xl09q/</guid>
+      <description>Abstract Introduced (non-native) species that becomes established may eventually become invasive, so tracking introduced species provides a baseline for effective modeling of species trends and interactions, geospatially and temporally. The United States Register of Introduced and Invasive Species (US-RIIS) is comprised of three lists, one each for Alaska (AK, with 532 records), Hawaii (HI, with 6,075 records), and the conterminous United States (L48, with 8,657 records). Each list includes introduced (non-native), established (reproducing) taxa that: are, or may become, invasive (harmful) in the locality; are not known to be harmful there; and/or have been used for biological control in the locality.</description>
+    </item>
+    
+    <item>
+      <title>Great Lakes Research Vessel Catch (RVCAT) Database</title>
+      <link>http://example.org/10.5066/p9xvolr1/</link>
+      <pubDate>Fri, 17 Nov 2023 08:55:09 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9xvolr1/</guid>
+      <description>Abstract The Great Lakes Research Vessel Catch (RVCAT) database is managed at the Great Lakes Science Center (GLSC). RVCAT has been used as the primary data collection tool aboard the GLSC?s research vessel operations across the Great Lakes. Content: The data set has been collected on various vessel operations on all the Great Lakes and select connecting waterways between the years 1930-2021. Data collection begins in early spring and ends in late fall.</description>
+    </item>
+    
+    <item>
+      <title>Stable isotope data for sea turtles and prey items in St. Joseph Bay, FL (2011-2021) and comprehensive summary of sea turtle diet papers</title>
+      <link>http://example.org/10.5066/p9ch622o/</link>
+      <pubDate>Thu, 16 Nov 2023 20:46:00 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9ch622o/</guid>
+      <description>Abstract This stable isotope dataset includes the carbon and nitrogen values for loggerhead, Kemp&amp;rsquo;s ridley, green sea turtles and their prey items in St. Joseph Bay, FL sampled between 2011 and 2021. 2. This dataset was created from a collection of sea turtle diet papers to produce a comprehensive summary of sea turtle diet based on scientific publications for loggerhead, Kemp&amp;rsquo;s ridley and green turtles. Access Points https://www.sciencebase.gov/catalog/item/639c8afad34e0de3a1f21ef3</description>
+    </item>
+    
+    <item>
+      <title>Grass Carp (Ctenopharyngodon idella) egg capture data from Great Lakes tributaries, 2021-2022 (ver. 1.1, November 2023)</title>
+      <link>http://example.org/10.5066/p98f9nsz/</link>
+      <pubDate>Thu, 16 Nov 2023 16:57:25 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p98f9nsz/</guid>
+      <description>Abstract The data includes dates, places, and times of sampling events for eggs of invasive Grass Carp (Ctenopharyngodon idella) in tributaries to the Great Lakes in 2021 and 2022. Reference data on locations and dates sampled, gears used, and effort are included. Developmental stages for a subset of undamaged, fertilized eggs are provided. Tables include common fields to allow for integration into a relational database to aid data extraction and associating data among tables.</description>
+    </item>
+    
+    <item>
+      <title>Oceanographic conditions at Richardson reef reveal new suitable habitat for cold-water corals</title>
+      <link>http://example.org/10.5066/p9pdh0or/</link>
+      <pubDate>Thu, 16 Nov 2023 15:00:34 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9pdh0or/</guid>
+      <description>Abstract Cold-water corals create complex structures, but our incomplete knowledge of their niche space limits our ability to understand their distribution and therefore the impact of the ecosystem services they provide in the ocean. The Richardson reef complex consists of over 150 km of linear reef tracts within an area of 75 km2 between 700-900 m depth. This reef experiences rapid shifts in temperature, and currents approaching 1 meter per second.</description>
+    </item>
+    
+    <item>
+      <title>Sea Otter Spraint Data from Kachemak Bay, Katmai National Park and Preserve, Kenai Fjords National Park and Prince William Sound</title>
+      <link>http://example.org/10.5066/p9edm6nl/</link>
+      <pubDate>Wed, 15 Nov 2023 20:27:25 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9edm6nl/</guid>
+      <description>Abstract These data are part of the Gulf Watch Alaska (GWA) long-term monitoring program. This dataset consist of observations of sea otter (Enhydra lutris) fecal samples (spraint). Observers examined fresh spraint piles to identify major prey classes in the samples and to determine sea otter diets in the Gulf of Alaska region.
+Access Points https://alaska.usgs.gov/products/data.php?dataid=500</description>
+    </item>
+    
+    <item>
+      <title>Black Oystercatcher Nest and Diet Data from Kachemak Bay, Katmai National Park and Preserve, Kenai Fjords National Park, and Prince William Sound</title>
+      <link>http://example.org/10.5066/f7wh2n5q/</link>
+      <pubDate>Wed, 15 Nov 2023 20:12:34 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/f7wh2n5q/</guid>
+      <description>Abstract These data are part of the Gulf Watch Alaska (GWA) long-term monitoring program, nearshore monitoring component. The dataset is comprised of six comma separated values (.csv) file exported from a relational database. The data consist of: 1) transect summary, 2) nest details, 3) egg float and stage data, 4) chicks diets, 5) chick diet taxonomy, and 6) Gulf Watch Alaska contributors.
+Access Points https://alaska.usgs.gov/products/data.php?dataid=127</description>
+    </item>
+    
+  </channel>
+</rss>

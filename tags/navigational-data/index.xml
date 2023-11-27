@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>navigational data on Landingpage-in-a-Box</title>
+    <link>http://example.org/tags/navigational-data/</link>
+    <description>Recent content in navigational data on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Nov 2023 15:48:48 +0000</lastBuildDate><atom:link href="http://example.org/tags/navigational-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archive of Chirp Subbottom Profile Data Collected in 2022 From Boca Chica Key, Florida</title>
+      <link>http://example.org/10.5066/p95m6vht/</link>
+      <pubDate>Thu, 16 Nov 2023 15:48:48 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p95m6vht/</guid>
+      <description>Abstract As part of the Coastal Sediment Availability and Flux and Defense Advanced Research Protection Agency (DARPA) Reefense projects, scientists from the U.S. Geological Survey (USGS) St. Petersburg Coastal and Marine Science Center (SPCMSC) conducted a nearshore geophysical survey to map the shoreface and inner shelf, as well as characterizing stratigraphy near Boca Chica Key, Florida (FL) in November 2022. The purpose of this study was to conduct a geologic assessment (including bathymetric mapping) of the nearshore ledge off Boca Chica Key, FL, in support of efforts to construct an artificial coral reef offshore of Naval Air Station Key West.</description>
+    </item>
+    
+  </channel>
+</rss>

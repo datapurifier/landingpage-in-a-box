@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bruce S. Hemingway on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/bruce-s.-hemingway/</link>
+    <description>Recent content in Bruce S. Hemingway on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Nov 2023 18:17:55 +0000</lastBuildDate><atom:link href="http://example.org/author/bruce-s.-hemingway/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The chemistry of eolian quartz dust and the origin of chert</title>
+      <link>http://example.org/10.5066/p9sa2m1l/</link>
+      <pubDate>Wed, 15 Nov 2023 18:17:55 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9sa2m1l/</guid>
+      <description>Abstract Temporal and spatial sources of silica for chert remain poorly constrained. Modern sources to the worlds oceans include silica in rivers &amp;gt; aeolian (dust) deposition &amp;gt; sea floor vents and submarine weathering. However, changes in aridity and dust flux during the Phanerozoic may explain variations in the ocean silica cycle and times and places of chert formation. The chemistry of fine quartz dust (FQD) provides a chemical mechanism for the transformation of FQD to polymorphs of silica in chert; FQD is readily dissolved, then reprecipitated as Opal-A by either biotic or abiotic processes.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Katherine J Knierim on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/katherine-j-knierim/</link>
+    <description>Recent content in Katherine J Knierim on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 15:13:37 +0000</lastBuildDate><atom:link href="http://example.org/author/katherine-j-knierim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine-learning model predictions and rasters of groundwater salinity in the Mississippi Alluvial Plain</title>
+      <link>http://example.org/10.5066/p9wse8js/</link>
+      <pubDate>Tue, 21 Nov 2023 15:13:37 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9wse8js/</guid>
+      <description>Abstract Groundwater from the Mississippi River Valley alluvial aquifer (MRVA), coincident with the Mississippi Alluvial Plain (MAP), is a vital resource for agriculture and drinking-water supplies in the central United States. Water availability can be limited in some areas of the aquifer by high concentrations of salinity, measured as specific conductance. Boosted regression trees (BRT), a type of ensemble-tree machine-learning method, were used to predict specific conductance concentration at multiple depths throughout the MRVA and underlying aquifers.</description>
+    </item>
+    
+  </channel>
+</rss>

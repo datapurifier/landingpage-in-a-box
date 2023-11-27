@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jeb E Brown on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/jeb-e-brown/</link>
+    <description>Recent content in Jeb E Brown on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Nov 2023 04:34:23 +0000</lastBuildDate><atom:link href="http://example.org/author/jeb-e-brown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Farmington Lake Sediment Descriptions, Total Sediment Chemistry, and Batch Experiment Chemistry</title>
+      <link>http://example.org/10.5066/p9kr7nsl/</link>
+      <pubDate>Sun, 19 Nov 2023 04:34:23 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9kr7nsl/</guid>
+      <description>Abstract These datasets provide information about the physical properties, total sediment chemistry, and batch experiment chemistry (to evaluate element mobility) of sediment cores from the Farmington Lake reservoir in Farmington, NM. The sediment cores were collected in November 2019.
+Access Points https://www.sciencebase.gov/catalog/item/5e41d3e5e4b0edb47be63c63</description>
+    </item>
+    
+  </channel>
+</rss>

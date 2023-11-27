@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Elevation on Landingpage-in-a-Box</title>
+    <link>http://example.org/tags/elevation/</link>
+    <description>Recent content in Elevation on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2023 14:45:48 +0000</lastBuildDate><atom:link href="http://example.org/tags/elevation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projected Seafloor Elevation Change and Relative Sea Level Rise Surrounding Maui, Hawaii 25, 50, 75, and 100 Years from 1999</title>
+      <link>http://example.org/10.5066/p9diyqv4/</link>
+      <pubDate>Tue, 21 Nov 2023 14:45:48 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9diyqv4/</guid>
+      <description>Abstract The U.S. Geological Survey (USGS) St. Petersburg Coastal and Marine Science Center conducted research to quantify bathymetric changes surrounding Maui, Hawaii. Changes in seafloor elevation were calculated using historical bathymetric point data from the 1960s (see Yates and others, 2017a) and light detection and ranging (lidar)-derived data acquired in 1999 (NOAA, 2013) using methods outlined in Yate and others (2017b). An elevation change analysis between the 1960s and 1999 data was performed to quantify and map historical impacts to seafloor elevation and to determine elevation-change statistics for 12 habitat types found surrounding Maui.</description>
+    </item>
+    
+    <item>
+      <title>Seafloor Elevation Change Analysis Tool</title>
+      <link>http://example.org/10.5066/p9d5uuz0/</link>
+      <pubDate>Tue, 21 Nov 2023 14:45:48 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9d5uuz0/</guid>
+      <description>Abstract The Seafloor Elevation Change Analysis Tool (SECAT) is a Python script intended to be run as a script tool by ArcMap or ArcGIS Pro that automates their intricate methodology.
+Access Points https://code.usgs.gov/spcmsc/volume-and-elevation-calculation-software</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>watershed management on Landingpage-in-a-Box</title>
+    <link>http://example.org/tags/watershed-management/</link>
+    <description>Recent content in watershed management on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Nov 2023 20:06:12 +0000</lastBuildDate><atom:link href="http://example.org/tags/watershed-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data supporting the 2017 geomorphic survey of North Fork Eagle Creek, New Mexico</title>
+      <link>http://example.org/10.5066/f7pr7tx3/</link>
+      <pubDate>Mon, 20 Nov 2023 20:06:12 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/f7pr7tx3/</guid>
+      <description>Abstract This U.S. Geological Survey (USGS) data release contains the results from the 2017 geomorphic survey of North Fork Eagle Creek, New Mexico. The 2017 geomorphic survey was conducted by the USGS, in cooperation with the Village of Ruidoso, New Mexico, and is the first in a planned series of five annual geomorphic surveys of the stream reach located between the North Fork Eagle Creek near Alto, New Mexico, streamflow-gaging station (USGS site 08387550) and the Eagle Creek below South Fork near Alto, New Mexico, streamflow-gaging station (USGS site 08387600).</description>
+    </item>
+    
+  </channel>
+</rss>

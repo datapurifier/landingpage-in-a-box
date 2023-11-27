@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>John J Doherty on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/john-j-doherty/</link>
+    <description>Recent content in John J Doherty on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Nov 2023 21:47:07 +0000</lastBuildDate><atom:link href="http://example.org/author/john-j-doherty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MODFLOW-NWT models and calibration files for the Mississippi Alluvial Plain, USA</title>
+      <link>http://example.org/10.5066/p9ar7y02/</link>
+      <pubDate>Wed, 22 Nov 2023 21:47:07 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9ar7y02/</guid>
+      <description>Abstract The existing three-dimensional groundwater flow model (MODFLOW-2005) of the Mississippi Embayment Regional Aquifer system (MERAS), South-Central United States, was updated with: 1) higher stream density; 2) more spatially refined recharge; 3) better estimates of water use; 4) more recent time period simulated; 5) more realistic storage conceptualization; and 6) more robust handling of dry nodes through use of MODFLOW-NWT. For this study, the MODFLOW-NWT groundwater flow model was used to evaluate four parameter estimation algorithms with lower computational burdens.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Robin Bryant on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/robin-bryant/</link>
+    <description>Recent content in Robin Bryant on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Nov 2023 01:10:23 +0000</lastBuildDate><atom:link href="http://example.org/author/robin-bryant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Database and Maps of Quaternary Deposits in East and Central Siberia</title>
+      <link>http://example.org/10.5066/f7vt1q89/</link>
+      <pubDate>Wed, 22 Nov 2023 01:10:23 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/f7vt1q89/</guid>
+      <description>Abstract This digital database is the product of collaboration between the U.S. Geological Survey, the Alfred Wegener Institute for Polar and Marine Research Potsdam, Foothill College GeoSpatial Technology Certificate Program, and the Geophysical Institute at the University of Alaska. The primary goal for creating this digital database is to enhance current estimates of organic carbon stored in deep permafrost, in particular Late Pleistocene syngenetic ice-rich loess permafrost deposits, called Yedoma. This deposit is vulnerable to thermokarst and erosion due to natural and anthropogenic disturbances.</description>
+    </item>
+    
+  </channel>
+</rss>

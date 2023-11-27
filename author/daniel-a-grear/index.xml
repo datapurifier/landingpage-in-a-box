@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Daniel A Grear on Landingpage-in-a-Box</title>
+    <link>http://example.org/author/daniel-a-grear/</link>
+    <description>Recent content in Daniel A Grear on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Nov 2023 15:04:14 +0000</lastBuildDate><atom:link href="http://example.org/author/daniel-a-grear/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serologic Survey of Selected Arthropod Borne Pathogens in Free-ranging Snowshoe Hares (Lepus americanus) Captured in Northern Michigan, USA</title>
+      <link>http://example.org/10.5066/p9bkg8kh/</link>
+      <pubDate>Fri, 17 Nov 2023 15:04:14 +0000</pubDate>
+      
+      <guid>http://example.org/10.5066/p9bkg8kh/</guid>
+      <description>Abstract We conducted a serosurvey of snowshoe hares (Lepus americanus) for vector-borne pathogens in 2016-2017 that were captured in the Hiawatha National Forest in the eastern Upper Peninsula of Michigan, USA. At capture, in addition to age, sex, body weight of the hare and a blood sample data was collected on the ecological land type (USDA Forest Service. 2006. Hiawatha National Forest 2006 Forest Plan. https://www.fs.usda.gov/detail/hiawatha/landmanagement/planning/?cid=STELPRDB5106336) at the point of capture.</description>
+    </item>
+    
+  </channel>
+</rss>
