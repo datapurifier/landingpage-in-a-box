@@ -19,17 +19,39 @@ params:
       url: author
     - name: Affiliations
       url: affiliations
+    - name: Funders
+      url: funders
     - name: Publishers
       url: publishers
+    - name: Data Managers
+      url: datamanager
+    - name: Researchers
+      url: researcher
+    - name: Data Collectors
+      url: datacollector
+    - name: Hosting Institutions
+      url: hostinginstitution
+    - name: Sponsors
+      url: sponsor
+    - name: Other Contributors
+      url: other
     enabled: true
-    subtitle: A lightweight approach to a metadata-driven dataset landing page web
-      site
+    subtitle: A lightweight approach to a landing page web site built from identifier
+      registry metadata
     title: Landingpage-in-a-Box
+  hideAuthor: true
 taxonomies:
-  affiliations: affiliations
-  author: author
-  category: categories
-  publishers: publishers
   tag: tags
+  category: categories
+  author: author
+  affiliations: affiliations
+  funders: funders
+  publishers: publishers
+  datamanager: datamanager
+  datacollector: datacollector
+  researcher: researcher
+  hostinginstitution: hostinginstitution
+  sponsor: sponsor
+  other: other
 theme: PaperMod
 title: Landingpage-in-a-Box
