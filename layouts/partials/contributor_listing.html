@@ -1,0 +1,16 @@
+<div class="post-meta" style="display: flex; align-items: center;">
+    {{ .name }}
+    {{ if .orcid }}
+        <a href="https://orcid.org/{{ .orcid }}">
+            <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD icon" style="width:16px;height:16px;">
+        </a>
+    {{ end }}
+    {{ if .ror }}
+        <a href="https://ror.org/{{ .ror }}">
+            <img src="../../img/ror-icon-rgb-16.png" alt="ROR icon" style="width:23px;height:16px;">
+        </a>
+    {{ end }}
+    {{ if .affiliation }}
+         ({{ .affiliation }})
+    {{ end}}
+</div>

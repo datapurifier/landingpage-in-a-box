@@ -1,0 +1,22 @@
+{{ with .contact }}
+<div class="post-meta">
+  {{ if .givenName}}
+      First name: {{ .givenName }}<br />
+  {{ end }}
+  {{ if .familyName}}
+      Last name: {{ .familyName }}<br />
+  {{ end }}
+  {{ if .orcid }}
+    ORCID: <a href="https://orcid.org/{{ .orcid }}">{{ .orcid }}</a><br />
+  {{ end}}
+  {{ if .ror }}
+    ROR: <a href="https://ror.org/{{ .orcid }}">{{ .orcid }}</a><br />
+  {{ end}}
+  {{ if .affiliation }}
+    Affiliations: {{ delimit .affiliation ", " }}<br />
+  {{ end }}
+  {{ if .contributorType }}
+    Contributions (local dataset): {{ delimit .contributorType ", " }}<br />
+  {{ end }}
+</div>
+{{ end }}

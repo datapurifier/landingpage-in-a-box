@@ -45,7 +45,18 @@
   </div>
   {{- end }}
 
-
+  {{ if .Params.doi }}
+    {{ $doi_data := .Site.Data.doi }}
+    {{ $record := index $doi_data .Params.doi }}
+    {{ range $contributor_type, $contributor_list := $record.contacts }}
+      {{ if ne $contributor_type "author" }}
+        <h4>Contributors: {{ $contributor_type }}</h2>
+        {{ range $contributor_list }}
+          {{ partial "contributor_listing.html" . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
 
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}

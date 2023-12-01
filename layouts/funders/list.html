@@ -1,10 +1,14 @@
 {{- define "main" }}
 
+{{ $funder_data := .Site.Data.funders }}
+{{ $record := index $funder_data .Title }}
+
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
 {{- partial "index_profile.html" . }}
 {{- else }} {{/* if not profileMode */}}
 
 {{- if not .IsHome | and .Title }}
+
 <header class="page-header">
   {{- partial "breadcrumbs.html" . }}
   <h1>
@@ -22,10 +26,17 @@
     {{- end }}
     {{- end }}
   </h1>
+  
   {{- if .Description }}
   <div class="post-description">
     {{ .Description | markdownify }}
   </div>
+  {{- end }}
+
+  {{- if $record }}
+    {{- if $record.url }}
+      <div class="post-meta"><a href="{{ $record.url }}">{{ $record.url }}</a></div>
+    {{- end }}
   {{- end }}
 </header>
 {{- end }}

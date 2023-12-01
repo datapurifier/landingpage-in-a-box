@@ -1,8 +1,5 @@
 {{- define "main" }}
 
-{{- $entityData := .Site.Data.author }}
-{{- $author := index $entityData .Title}}
-
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
 {{- partial "index_profile.html" . }}
 {{- else }} {{/* if not profileMode */}}
@@ -26,7 +23,11 @@
     {{- end }}
   </h1>
 
-  <div>{{ .Data.Term }}</div>
+  {{- $contact_data := .Site.Data.contacts }}
+  {{- $contact := index $contact_data .Title}}
+  {{ if $contact.givenName }}
+    {{ partial "contact.html" (dict "context" . "contact" $contact) }}
+  {{ end }}
 
   {{- if .Description }}
   <div class="post-description">

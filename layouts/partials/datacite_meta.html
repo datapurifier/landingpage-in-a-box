@@ -1,17 +1,7 @@
 {{ with .record }}
-    {{- if .author }}
-        {{ range .author }}
-            <div style="display: flex; align-items: center;">
-            {{ .name }}
-            {{ if .orcid }}
-                <a href="https://orcid.org/{{ .orcid }}">
-                <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD icon" style="width:16px;height:16px;">
-                </a>
-            {{ end }}
-            {{ if .affiliation }}
-                , {{ .affiliation }}
-            {{ end}}
-            </div>
+    {{- if .contacts.author }}
+        {{ range .contacts.author }}
+            {{ partial "contributor_listing.html" . }}
         {{ end }}
     {{- end }}
     <div class="post-meta">
