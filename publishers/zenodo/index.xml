@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zenodo on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/publishers/zenodo/</link>
+    <description>Recent content in Zenodo on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/publishers/zenodo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COAWST model files</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10160563/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10160563/</guid>
+      <description>Abstract These are the necessary ROMS files to run the COAWST kelp forest module. The vegetation_drag_newMod.txt must replace the file vegetation_drag.F in the vegetation folder in COAWST. Access Points https://zenodo.org/doi/10.5281/zenodo.10160563
+Related Identifiers HasVersion 10.5281/zenodo.10160564 </description>
+    </item>
+    
+    <item>
+      <title>COAWST model files</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10160564/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10160564/</guid>
+      <description>Abstract These are the necessary ROMS files to run the COAWST kelp forest module. The vegetation_drag_newMod.txt must replace the file vegetation_drag.F in the vegetation folder in COAWST. Access Points https://zenodo.org/doi/10.5281/zenodo.10160564
+Related Identifiers IsVersionOf 10.5281/zenodo.10160563 </description>
+    </item>
+    
+    <item>
+      <title>Development of a Smart Manufacturing Technology Earn and Learn Program at a Rural Community College</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10158072/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10158072/</guid>
+      <description>Abstract Manufacturing continues to be a vital component of the Ohio economy. Ohio&amp;rsquo;s manufacturing sector employs over 600,000 skilled individuals, the third-largest manufacturing workforce in the U.S. [1]. With additional manufacturing industries moving into Ohio, including Intel and its supply chain partners, there is a growing need for industry-ready, skilled engineering technicians. In addition, with the increasing use of automated systems and network connectivity of these systems in manufacturing operations, technicians need to be equipped with skills in the area of smart manufacturing.</description>
+    </item>
+    
+    <item>
+      <title>Development of a Smart Manufacturing Technology Earn and Learn Program at a Rural Community College</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10158073/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10158073/</guid>
+      <description>Abstract Manufacturing continues to be a vital component of the Ohio economy. Ohio&amp;rsquo;s manufacturing sector employs over 600,000 skilled individuals, the third-largest manufacturing workforce in the U.S. [1]. With additional manufacturing industries moving into Ohio, including Intel and its supply chain partners, there is a growing need for industry-ready, skilled engineering technicians. In addition, with the increasing use of automated systems and network connectivity of these systems in manufacturing operations, technicians need to be equipped with skills in the area of smart manufacturing.</description>
+    </item>
+    
+    <item>
+      <title>ECO-CHIP: Estimation of Carbon Footprint of Chiplet-based Architectures for Sustainable VLSI: HPCA 2024 Artifact Evaluation</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10099731/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10099731/</guid>
+      <description>Abstract The paper introduces ECO-CHIP, a framework for measuring the carbon footprint (CFP) of a heterogeneous system across its lifespan. This artifact is released on Zenodo and contains two parts. The first is ECO-CHIP submodule from GitHub, and the second is a folder that consists of the experiments performed in this paper using ECO-CHIP. The minimal hardware requirements are any single-core CPU, and the software requirements are Python 3.9 with pip 22.</description>
+    </item>
+    
+    <item>
+      <title>ECO-CHIP: Estimation of Carbon Footprint of Chiplet-based Architectures for Sustainable VLSI: HPCA 2024 Artifact Evaluation</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10099732/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10099732/</guid>
+      <description>Abstract The paper introduces ECO-CHIP, a framework for measuring the carbon footprint (CFP) of a heterogeneous system across its lifespan. This artifact is released on Zenodo and contains two parts. The first is ECO-CHIP submodule from GitHub, and the second is a folder that consists of the experiments performed in this paper using ECO-CHIP. The minimal hardware requirements are any single-core CPU, and the software requirements are Python 3.9 with pip 22.</description>
+    </item>
+    
+    <item>
+      <title>ECO-CHIP: Estimation of Carbon Footprint of Chiplet-based Architectures for Sustainable VLSI: HPCA 2024 Artifact Evaluation</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10223759/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10223759/</guid>
+      <description>Abstract The paper introduces ECO-CHIP, a framework for measuring the carbon footprint (CFP) of a heterogeneous system across its lifespan. This artifact is released on Zenodo and contains two parts. The first is ECO-CHIP submodule from GitHub, and the second is a folder that consists of the experiments performed in this paper using ECO-CHIP. The minimal hardware requirements are any single-core CPU, and the software requirements are Python 3.9 with pip 22.</description>
+    </item>
+    
+    <item>
+      <title>Kinoson data for FCC random and high entropy alloys</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10214333/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10214333/</guid>
+      <description>Abstract This database contains the single KMC-step datasets for the &amp;ldquo;Ordered&amp;rdquo; and &amp;ldquo;Random&amp;rdquo; rate lattice gas systems, as well the &amp;ldquo;Complex&amp;rdquo; high-entropy alloy to accompany our main publication along with our code repository mentioned therein. The datasets are given as HDF5 files, readable with the h5py module in python 3. These files are listed below:
+CrystalData: CrystData.h5 and CrystData_ortho_5_cube.h5 contain all the necessary FCC crystal structure data for primitive 8x8x8 and orthogonal 5x5x5 FCC supercells.</description>
+    </item>
+    
+    <item>
+      <title>Kinoson data for FCC random and high entropy alloys</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10214334/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10214334/</guid>
+      <description>Abstract This database contains the single KMC-step datasets for the &amp;ldquo;Ordered&amp;rdquo; and &amp;ldquo;Random&amp;rdquo; rate lattice gas systems, as well the &amp;ldquo;Complex&amp;rdquo; high-entropy alloy to accompany our main publication along with our code repository mentioned therein. The datasets are given as HDF5 files, readable with the h5py module in python 3. These files are listed below:
+CrystalData: CrystData.h5 and CrystData_ortho_5_cube.h5 contain all the necessary FCC crystal structure data for primitive 8x8x8 and orthogonal 5x5x5 FCC supercells.</description>
+    </item>
+    
+    <item>
+      <title>Mingrelian SNP Genotype Data</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10045554/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10045554/</guid>
+      <description>Abstract This dataset contains data from 645,337 single nucleotide polymorphisms (SNPs) that were genotyped on GenoChip 2+ microarrays. The SNP data were ascertained from the mtDNA, Y-chromosome and autosomes for each individual, depending on their biological sex. In total, 5,205 mtDNA and 10,272 Y-chromosome SNPs were extracted from the array data. These data files have been uploaded as .csv files and also be uploaded as plink-formatted files. Details about the analysis of the SNP data can be found in the associated manuscript: Theodore G Schurr, Ramaz Shengelia, Michel Shamoon-Pour, David Chitanava, Shorena Laliashvili, Irma Laliashvili, Redate Kibret, Yanu Kume-Kangkolo, Irakli Akhvlediani, Lia Bitadze, Iain Mathieson, Aram Yardumian, Genetic Analysis of Mingrelians Reveals Long-Term Continuity of Populations in Western Georgia (Caucasus), Genome Biology and Evolution, 2023; evad198, https://doi.</description>
+    </item>
+    
+    <item>
+      <title>Mingrelian SNP Genotype Data</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10045555/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10045555/</guid>
+      <description>Abstract This dataset contains data from 645,337 single nucleotide polymorphisms (SNPs) that were genotyped on GenoChip 2+ microarrays. The SNP data were ascertained from the mtDNA, Y-chromosome and autosomes for each individual, depending on their biological sex. In total, 5,205 mtDNA and 10,272 Y-chromosome SNPs were extracted from the array data. These data files have been uploaded as .csv files and will also be uploaded as plink-formatted files by 15 November 2023.</description>
+    </item>
+    
+    <item>
+      <title>Mingrelian SNP Genotype Data</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10180280/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10180280/</guid>
+      <description>Abstract This dataset contains data from 645,337 single nucleotide polymorphisms (SNPs) that were genotyped on GenoChip 2+ microarrays. The SNP data were ascertained from the mtDNA, Y-chromosome and autosomes for each individual, depending on their biological sex. In total, 5,205 mtDNA and 10,272 Y-chromosome SNPs were extracted from the array data. These data files have been uploaded as .csv files and also be uploaded as plink-formatted files. Details about the analysis of the SNP data can be found in the associated manuscript: Theodore G Schurr, Ramaz Shengelia, Michel Shamoon-Pour, David Chitanava, Shorena Laliashvili, Irma Laliashvili, Redate Kibret, Yanu Kume-Kangkolo, Irakli Akhvlediani, Lia Bitadze, Iain Mathieson, Aram Yardumian, Genetic Analysis of Mingrelians Reveals Long-Term Continuity of Populations in Western Georgia (Caucasus), Genome Biology and Evolution, 2023; evad198, https://doi.</description>
+    </item>
+    
+    <item>
+      <title>Novel code for the paper &#39;Projecting the future of a threatened marine mammal in relation to climate warming&#39;</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211497/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211497/</guid>
+      <description>Abstract Novel code in the R programming language for population projections of ringed seals (Pusa hispida) in the Chukchi Sea region west of Alaska USA. Access Points https://zenodo.org/doi/10.5281/zenodo.10211497
+Related Identifiers HasVersion 10.5281/zenodo.10211498 </description>
+    </item>
+    
+    <item>
+      <title>Novel code for the paper &#39;Projecting the future of a threatened marine mammal in relation to climate warming&#39;</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211498/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211498/</guid>
+      <description>Abstract Novel code in the R programming language for population projections of ringed seals (Pusa hispida) in the Chukchi Sea region west of Alaska USA. Access Points https://zenodo.org/doi/10.5281/zenodo.10211498
+Related Identifiers IsVersionOf 10.5281/zenodo.10211497 </description>
+    </item>
+    
+    <item>
+      <title>Superadditive Communications with the Green Machine: Online Data Repository</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215207/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215207/</guid>
+      <description>Abstract This online repository contains selected datasets and scripts for data processes in the paper &amp;ldquo;Superadditive Communications with the Green Machine: A Practical Demonstration of Nonlocality without Entanglement&amp;rdquo;. arXiv.2310.05889
+Access Points https://zenodo.org/doi/10.5281/zenodo.10215207
+Related Identifiers HasVersion 10.5281/zenodo.10215208 IsSupplementTo https://arxiv.org/abs/2310.05889 </description>
+    </item>
+    
+    <item>
+      <title>Superadditive Communications with the Green Machine: Online Data Repository</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215208/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215208/</guid>
+      <description>Abstract This online repository contains selected datasets and scripts for data processes in the paper &amp;ldquo;Superadditive Communications with the Green Machine: A Practical Demonstration of Nonlocality without Entanglement&amp;rdquo;. arXiv.2310.05889
+Access Points https://zenodo.org/doi/10.5281/zenodo.10215208
+Related Identifiers IsSupplementTo https://arxiv.org/abs/2310.05889 IsVersionOf 10.5281/zenodo.10215207 </description>
+    </item>
+    
+    <item>
+      <title>Surface Porosity Prediction in Directed-Energy-Deposition (DED) Printed SS316L Parts</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215234/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215234/</guid>
+      <description>Access Points https://zenodo.org/doi/10.5281/zenodo.10215234
+Related Identifiers HasVersion https://doi.org/10.5281/zenodo.10215235 10.5281/zenodo.10215247 </description>
+    </item>
+    
+    <item>
+      <title>Surface Porosity Prediction in Directed-Energy-Deposition (DED) Printed SS316L Parts</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215247/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215247/</guid>
+      <description>Access Points https://zenodo.org/doi/10.5281/zenodo.10215247
+Related Identifiers IsVersionOf 10.5281/zenodo.10215234 </description>
+    </item>
+    
+  </channel>
+</rss>

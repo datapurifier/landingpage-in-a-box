@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pannoni, Samuel on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/pannoni-samuel/</link>
+    <description>Recent content in Pannoni, Samuel on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/pannoni-samuel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data from: Wildlife fecal microbiota exhibit community stability across a semi-controlled longitudinal non-invasive sampling experiment</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.v6wwpzh2b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.v6wwpzh2b/</guid>
+      <description>Abstract Wildlife microbiome studies are being used to assess microbial links with animal health and habitat. The gold standard of sampling microbiomes directly from captured animals is ideal for limiting potential abiotic influences on microbiome composition, yet fails to leverage the many benefits of non-invasive sampling. Application of microbiome-based monitoring for rare, endangered, or elusive species creates a need to non-invasively collect scat samples shed into the environment. Since controlling sample age is not always possible, the potential influence of time-associated abiotic factors was assessed.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hormonal regulation on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/tags/hormonal-regulation/</link>
+    <description>Recent content in Hormonal regulation on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/hormonal-regulation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data from: A dynamical model of growth and maturation in Drosophila</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.q573n5tq2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.q573n5tq2/</guid>
+      <description>Abstract The decision to stop growing and mature into an adult is a critical point in development that determines adult body size, impacting multiple aspects of an adult’s biology. In many animals, growth-cessation is a consequence of hormone release that appears to be tied to attainment of particular body size or condition. Nevertheless, the size-sensing mechanism animals use to initiate hormone synthesis is poorly understood. Here we develop a simple mathematical model of growth cessation in Drosophila melanogaster, which is ostensibly triggered by attainment of a critical weight early in the last instar.</description>
+    </item>
+    
+  </channel>
+</rss>

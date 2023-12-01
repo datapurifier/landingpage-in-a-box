@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>biomass on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/tags/biomass/</link>
+    <description>Recent content in biomass on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/biomass/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Root biomass and chemistry, Megapit (DP1.10066.001)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.48443/xmbe-7b55/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.48443/xmbe-7b55/</guid>
+      <description>Abstract This data product contains the quality-controlled, native sampling resolution data from NEON&amp;rsquo;s belowground plant biomass stock and chemistry measurements from Megapits. Soil samples were collected at 10 cm depth increments to the first 100 cm below the surface, then 20 cm depth increments thereafter, along three vertical profiles from a single temporary soil pit at a location expected to be representative of NEON sensor-based soil plots. This sampling activity is expected to occur once at each NEON terrestrial site.</description>
+    </item>
+    
+  </channel>
+</rss>

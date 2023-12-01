@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nakkina, Tapan Ganatma on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/nakkina-tapan-ganatma/</link>
+    <description>Recent content in Nakkina, Tapan Ganatma on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/nakkina-tapan-ganatma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Surface Porosity Prediction in Directed-Energy-Deposition (DED) Printed SS316L Parts</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215234/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215234/</guid>
+      <description>Access Points https://zenodo.org/doi/10.5281/zenodo.10215234
+Related Identifiers HasVersion https://doi.org/10.5281/zenodo.10215235 10.5281/zenodo.10215247 </description>
+    </item>
+    
+    <item>
+      <title>Surface Porosity Prediction in Directed-Energy-Deposition (DED) Printed SS316L Parts</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215247/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215247/</guid>
+      <description>Access Points https://zenodo.org/doi/10.5281/zenodo.10215247
+Related Identifiers IsVersionOf 10.5281/zenodo.10215234 </description>
+    </item>
+    
+  </channel>
+</rss>

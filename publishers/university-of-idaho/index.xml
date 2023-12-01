@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>University of Idaho on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/publishers/university-of-idaho/</link>
+    <description>Recent content in University of Idaho on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/publishers/university-of-idaho/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Annotation data from: Utilizing a comparative approach to assess genome evolution during diploidization in Artemisia tridentata (Asteraceae), a keystone species of western North America</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.7923/hysd-x388/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.7923/hysd-x388/</guid>
+      <description>Abstract Supporting dataset for genome assembly data found within NCBI BioProjects PRJNA1032953 (UTT2), PRJNA722258 (IDT2) and PRJNA795150 (IDT3-Reference Genome). Fasta assembly data used in the EDTA analysis to generate subsequent output files are available from the NCBI Genome database and raw sequence data are available from the NCBI SRA database. Each input fasta contains the nine pseudo-chromosomes described in Melton et al. 2022. Reads from each sample were mapped to the nine pseudo-chromosomes and used to call a consensus sequence.</description>
+    </item>
+    
+    <item>
+      <title>Sagebrush greenhouse water use efficiency GxE phenotypic data</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.7923/jk5q-6876/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.7923/jk5q-6876/</guid>
+      <description>Abstract Phenotypic data related to water use efficiency (WUE) in sagebrush seedlings; specifically, stomata density and size on both leaf surfaces and the anatomy of vessels (i.e., xylem). Natural abundance stable carbon isotope data was also collected to confirm similar physiological processes between individuals analyzed within the study.
+Access Points https://data.nkn.uidaho.edu/dataset/sagebrush-greenhouse-water-use-efficiency-gxe-phenotypic-data</description>
+    </item>
+    
+  </channel>
+</rss>

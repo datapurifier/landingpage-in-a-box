@@ -5,41 +5,58 @@
     <link>https://datapurifier.github.io/landingpage-in-a-box/categories/</link>
     <description>Recent content in Categories on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 27 Nov 2023 11:03:45 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/categories/book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/categories/book/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Dataset</title>
       <link>https://datapurifier.github.io/landingpage-in-a-box/categories/dataset/</link>
-      <pubDate>Mon, 27 Nov 2023 11:03:45 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://datapurifier.github.io/landingpage-in-a-box/categories/dataset/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Model</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/categories/model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/categories/model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PeerReview</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/categories/peerreview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/categories/peerreview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Software</title>
       <link>https://datapurifier.github.io/landingpage-in-a-box/categories/software/</link>
-      <pubDate>Wed, 22 Nov 2023 20:12:11 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://datapurifier.github.io/landingpage-in-a-box/categories/software/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Service</title>
-      <link>https://datapurifier.github.io/landingpage-in-a-box/categories/service/</link>
-      <pubDate>Wed, 22 Nov 2023 14:36:58 +0000</pubDate>
+      <title>Text</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/categories/text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://datapurifier.github.io/landingpage-in-a-box/categories/service/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Collection</title>
-      <link>https://datapurifier.github.io/landingpage-in-a-box/categories/collection/</link>
-      <pubDate>Tue, 21 Nov 2023 13:54:18 +0000</pubDate>
-      
-      <guid>https://datapurifier.github.io/landingpage-in-a-box/categories/collection/</guid>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/categories/text/</guid>
       <description></description>
     </item>
     

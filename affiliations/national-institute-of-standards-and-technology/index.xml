@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>National Institute of Standards and Technology on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/affiliations/national-institute-of-standards-and-technology/</link>
+    <description>Recent content in National Institute of Standards and Technology on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/affiliations/national-institute-of-standards-and-technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data from: The role of mutation bias in adaptive molecular evolution: insights from convergent changes in protein function</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.2256f38/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.2256f38/</guid>
+      <description>Abstract An underexplored question in evolutionary genetics concerns the extent to which mutational bias in the production of genetic variation influences outcomes and pathways of adaptive molecular evolution. In the genomes of at least some vertebrate taxa, an important form of mutation bias involves changes at CpG dinucleotides: If the DNA nucleotide cytosine (C) is immediately 5’ to guanine (G) on the same coding strand, and if the C is methylated, then C→T and G→A mutations occur at an elevated rate relative to mutations at non-CpG sites.</description>
+    </item>
+    
+  </channel>
+</rss>

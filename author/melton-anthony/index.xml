@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Melton, Anthony on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/melton-anthony/</link>
+    <description>Recent content in Melton, Anthony on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/melton-anthony/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Annotation data from: Utilizing a comparative approach to assess genome evolution during diploidization in Artemisia tridentata (Asteraceae), a keystone species of western North America</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.7923/hysd-x388/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.7923/hysd-x388/</guid>
+      <description>Abstract Supporting dataset for genome assembly data found within NCBI BioProjects PRJNA1032953 (UTT2), PRJNA722258 (IDT2) and PRJNA795150 (IDT3-Reference Genome). Fasta assembly data used in the EDTA analysis to generate subsequent output files are available from the NCBI Genome database and raw sequence data are available from the NCBI SRA database. Each input fasta contains the nine pseudo-chromosomes described in Melton et al. 2022. Reads from each sample were mapped to the nine pseudo-chromosomes and used to call a consensus sequence.</description>
+    </item>
+    
+  </channel>
+</rss>

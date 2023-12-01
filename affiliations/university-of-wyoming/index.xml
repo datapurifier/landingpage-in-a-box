@@ -5,16 +5,23 @@
     <link>https://datapurifier.github.io/landingpage-in-a-box/affiliations/university-of-wyoming/</link>
     <description>Recent content in University of Wyoming on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 21 Nov 2023 15:39:10 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/affiliations/university-of-wyoming/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/affiliations/university-of-wyoming/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Development, testing and use of four species-specific qPCR assays for freshwater mussel eDNA detection in the Niobrara River</title>
-      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p96qmw8w/</link>
-      <pubDate>Tue, 21 Nov 2023 15:39:10 +0000</pubDate>
+      <title>Drought tolerant grassland species are generally more resistant to competition</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.1jwstqk1x/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p96qmw8w/</guid>
-      <description>Abstract This data consists of information on the specificity and sensitivity of 4 species specific qPCR assays for the detection of eDNA from 4 species of freshwater mussels, specifically Lampsilis cardium, Lampsilis siliquoidea, Pyganodon grandis, and Anodontoides ferussacianus. The data also contain the results of eDNA sampling in Niobrara River at Niobrara National Scenic River and Agate Fossil Beds National Monument for detection of these 4 species.
-Access Points https://www.sciencebase.gov/catalog/item/655b8b1dd34ee4b6e05cbcd5</description>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.1jwstqk1x/</guid>
+      <description>Abstract Plant populations are limited by resource availability and exhibit physiological trade-offs in resource acquisition strategies. These trade-offs may constrain the ability of populations to exhibit fast growth rates under water limitation and high cover of neighbors. However, traits that confer drought tolerance may also confer resistance to competition. It remains unclear how fitness responses to these abiotic conditions and biotic interactions combine to structure grassland communities and how this relationship may change along a gradient of water availability.</description>
+    </item>
+    
+    <item>
+      <title>Snow depth, temperature, and residual forage experienced by migrating mule deer during autumn (2011–2020), Wyoming, USA</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.c866t1gdc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.c866t1gdc/</guid>
+      <description>Abstract Growing evidence supports the hypothesis that temperate herbivores surf the green wave of emerging plants during spring migration. Despite the importance of autumn migration, few studies have conceptualized resource tracking of temperate herbivores during this critical season. We adapted the Frost Wave Hypothesis (FWH), which posits that animals pace their autumn migration to reduce exposure to snow but increase acquisition of forage. We tested the FWH in a population of mule deer in Wyoming, USA by tracking the autumn migrations of n = 163 mule deer that moved 15–288 km from summer to winter range.</description>
     </item>
     
   </channel>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>salinity on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/tags/salinity/</link>
+    <description>Recent content in salinity on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/salinity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soil water content and water salinity (DP1.00094.001)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.48443/ghry-qw46/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.48443/ghry-qw46/</guid>
+      <description>Abstract Soil volumetric water content and an index of soil water ion content (salinity) are measured at various depths below the soil surface from approximately 2 cm up to 200 cm at non-permafrost sites (up to 300 cm at Alaskan sites). Soil moisture is an important component of the hydrologic cycle and is the dominant source of water for most plants and soil organisms making it a key indicator of drought.</description>
+    </item>
+    
+  </channel>
+</rss>

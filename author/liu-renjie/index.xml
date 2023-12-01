@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Liu, Renjie on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/liu-renjie/</link>
+    <description>Recent content in Liu, Renjie on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/liu-renjie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data from: programming co-assembled peptide nanofiber morphology via anionic amino acid type: insights from molecular dynamics simulations</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.5mkkwh7bp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.5mkkwh7bp/</guid>
+      <description>Abstract Co-assembling peptides can be crafted into supramolecular biomaterials for use in biotechnological applications, such as cell culture scaffolds, drug delivery, biosensors, and tissue engineering. Peptide co-assembly refers to the spontaneous organization of two different peptides into a supramolecular architecture. Here we use molecular dynamics simulations to quantify the effect of anionic amino acid type on co-assembly dynamics and nanofiber structure in binary CATCH(+/-) peptide systems. CATCH peptide sequences follow a general pattern: CQCFCFCFCQC, where all C’s are either a positively charged or a negatively charged amino acid.</description>
+    </item>
+    
+  </channel>
+</rss>

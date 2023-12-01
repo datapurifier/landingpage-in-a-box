@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ephemeral speciation on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/tags/ephemeral-speciation/</link>
+    <description>Recent content in ephemeral speciation on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/ephemeral-speciation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data from: Genetic signatures of lineage fusion closely resemble population decline</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.1jwstqk11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.1jwstqk11/</guid>
+      <description>Abstract Accurate interpretation of the genetic signatures of past demographic events is crucial for reconstructing evolutionary history. Lineage fusion (complete merging, resulting in a single panmictic population) is a special case of secondary contact that is seldom considered. Here, the circumstances under which lineage fusion can be distinguished from population size constancy, growth, bottleneck, and decline were investigated. Multi-locus haplotype data were simulated under models of lineage fusion with different divergence versus sampling lag times (D:L ratios).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tho Nguyen on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/tho-nguyen/</link>
+    <description>Recent content in Tho Nguyen on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/tho-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In Proceedings of the International Symposium for ASEAN Smart Cities: Experiences and Innovations</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.8031759/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.8031759/</guid>
+      <description>Abstract ISSCEI prioritizes activities that foster practical smart city advances toward improving the quality of life and well-being of ASEAN residents. ISSCEI highlights cases of smart city deployments to identify transferrable successes and pitfalls. And finally, the ISSCEI community shares new ideas and solutions that could underpin future smart city efforts.
+Access Points https://zenodo.org/doi/10.5281/zenodo.8031759
+Related Identifiers HasVersion 10.5281/zenodo.8031760 </description>
+    </item>
+    
+    <item>
+      <title>In Proceedings of the International Symposium for ASEAN Smart Cities: Experiences and Innovations</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.8031760/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.8031760/</guid>
+      <description>Abstract ISSCEI prioritizes activities that foster practical smart city advances toward improving the quality of life and well-being of ASEAN residents. ISSCEI highlights cases of smart city deployments to identify transferrable successes and pitfalls. And finally, the ISSCEI community shares new ideas and solutions that could underpin future smart city efforts.
+Access Points https://zenodo.org/doi/10.5281/zenodo.8031760
+Related Identifiers IsVersionOf 10.5281/zenodo.8031759 </description>
+    </item>
+    
+  </channel>
+</rss>

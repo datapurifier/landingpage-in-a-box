@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>National Aeronautics and Space Administration on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/affiliations/national-aeronautics-and-space-administration/</link>
+    <description>Recent content in National Aeronautics and Space Administration on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/affiliations/national-aeronautics-and-space-administration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Superadditive Communications with the Green Machine: Online Data Repository</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215207/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215207/</guid>
+      <description>Abstract This online repository contains selected datasets and scripts for data processes in the paper &amp;ldquo;Superadditive Communications with the Green Machine: A Practical Demonstration of Nonlocality without Entanglement&amp;rdquo;. arXiv.2310.05889
+Access Points https://zenodo.org/doi/10.5281/zenodo.10215207
+Related Identifiers HasVersion 10.5281/zenodo.10215208 IsSupplementTo https://arxiv.org/abs/2310.05889 </description>
+    </item>
+    
+    <item>
+      <title>Superadditive Communications with the Green Machine: Online Data Repository</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215208/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215208/</guid>
+      <description>Abstract This online repository contains selected datasets and scripts for data processes in the paper &amp;ldquo;Superadditive Communications with the Green Machine: A Practical Demonstration of Nonlocality without Entanglement&amp;rdquo;. arXiv.2310.05889
+Access Points https://zenodo.org/doi/10.5281/zenodo.10215208
+Related Identifiers IsSupplementTo https://arxiv.org/abs/2310.05889 IsVersionOf 10.5281/zenodo.10215207 </description>
+    </item>
+    
+  </channel>
+</rss>

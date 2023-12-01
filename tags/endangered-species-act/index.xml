@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Endangered Species Act on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/tags/endangered-species-act/</link>
+    <description>Recent content in Endangered Species Act on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/endangered-species-act/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Novel code for the paper &#39;Projecting the future of a threatened marine mammal in relation to climate warming&#39;</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211497/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211497/</guid>
+      <description>Abstract Novel code in the R programming language for population projections of ringed seals (Pusa hispida) in the Chukchi Sea region west of Alaska USA. Access Points https://zenodo.org/doi/10.5281/zenodo.10211497
+Related Identifiers HasVersion 10.5281/zenodo.10211498 </description>
+    </item>
+    
+    <item>
+      <title>Novel code for the paper &#39;Projecting the future of a threatened marine mammal in relation to climate warming&#39;</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211498/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211498/</guid>
+      <description>Abstract Novel code in the R programming language for population projections of ringed seals (Pusa hispida) in the Chukchi Sea region west of Alaska USA. Access Points https://zenodo.org/doi/10.5281/zenodo.10211498
+Related Identifiers IsVersionOf 10.5281/zenodo.10211497 </description>
+    </item>
+    
+  </channel>
+</rss>

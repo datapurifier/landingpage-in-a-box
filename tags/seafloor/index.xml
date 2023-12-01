@@ -5,25 +5,14 @@
     <link>https://datapurifier.github.io/landingpage-in-a-box/tags/seafloor/</link>
     <description>Recent content in Seafloor on Landingpage-in-a-Box</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 21 Nov 2023 14:45:48 +0000</lastBuildDate><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/seafloor/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/seafloor/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projected Seafloor Elevation Change and Relative Sea Level Rise Surrounding Maui, Hawaii 25, 50, 75, and 100 Years from 1999</title>
-      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9diyqv4/</link>
-      <pubDate>Tue, 21 Nov 2023 14:45:48 +0000</pubDate>
+      <title>FEHM source code modifications and executables for use with ocean-world gravity</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.7291/d1vq3r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9diyqv4/</guid>
-      <description>Abstract The U.S. Geological Survey (USGS) St. Petersburg Coastal and Marine Science Center conducted research to quantify bathymetric changes surrounding Maui, Hawaii. Changes in seafloor elevation were calculated using historical bathymetric point data from the 1960s (see Yates and others, 2017a) and light detection and ranging (lidar)-derived data acquired in 1999 (NOAA, 2013) using methods outlined in Yate and others (2017b). An elevation change analysis between the 1960s and 1999 data was performed to quantify and map historical impacts to seafloor elevation and to determine elevation-change statistics for 12 habitat types found surrounding Maui.</description>
-    </item>
-    
-    <item>
-      <title>Seafloor Elevation Change Analysis Tool</title>
-      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9d5uuz0/</link>
-      <pubDate>Tue, 21 Nov 2023 14:45:48 +0000</pubDate>
-      
-      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5066/p9d5uuz0/</guid>
-      <description>Abstract The Seafloor Elevation Change Analysis Tool (SECAT) is a Python script intended to be run as a script tool by ArcMap or ArcGIS Pro that automates their intricate methodology.
-Access Points https://code.usgs.gov/spcmsc/volume-and-elevation-calculation-software</description>
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.7291/d1vq3r/</guid>
+      <description>Abstract This is a repository for compiled codes, source code, and input files used in this paper: Fisher, A. T., K. D. Dickerson, D. K. Blackman, N. Randolph-Flagg, C. R. German, and C. Sotin (2024), Sustained hydrothermal circulation under ocean-world gravity, J. Geophys. Res. - Planets, submitted and in review. Plain language summary from paper: Ocean worlds are planets, moons, and other rocky bodies that have a liquid ocean, often under an icy shell or within the rocky interior.</description>
     </item>
     
   </channel>

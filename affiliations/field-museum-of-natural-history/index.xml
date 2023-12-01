@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Field Museum of Natural History on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/affiliations/field-museum-of-natural-history/</link>
+    <description>Recent content in Field Museum of Natural History on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/affiliations/field-museum-of-natural-history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Complete data from the Barro Colorado 50-ha plot: 423617 trees, 35 years</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.15146/5xcp-0d46/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.15146/5xcp-0d46/</guid>
+      <description>Abstract The 50-ha plot at Barro Colorado Island was initially demarcated and fully censused in 1982, and has been fully censused 7 times since, every 5 years from 1985 through 2015 (Hubbell and Foster 1983, Hubbell et al. 1990, Condit et al. 2012, Condit et al. 2017). Every measurement of every stem over 8 censuses is included in this archive. Most users will need only the 8 R Analytical Tables in the format tree, which come here zipped together into a single archive (bci.</description>
+    </item>
+    
+  </channel>
+</rss>

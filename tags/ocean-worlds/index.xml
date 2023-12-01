@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ocean worlds on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/tags/ocean-worlds/</link>
+    <description>Recent content in Ocean worlds on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/ocean-worlds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FEHM source code modifications and executables for use with ocean-world gravity</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.7291/d1vq3r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.7291/d1vq3r/</guid>
+      <description>Abstract This is a repository for compiled codes, source code, and input files used in this paper: Fisher, A. T., K. D. Dickerson, D. K. Blackman, N. Randolph-Flagg, C. R. German, and C. Sotin (2024), Sustained hydrothermal circulation under ocean-world gravity, J. Geophys. Res. - Planets, submitted and in review. Plain language summary from paper: Ocean worlds are planets, moons, and other rocky bodies that have a liquid ocean, often under an icy shell or within the rocky interior.</description>
+    </item>
+    
+  </channel>
+</rss>

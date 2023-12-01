@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Trinkle, Dallas on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/author/trinkle-dallas/</link>
+    <description>Recent content in Trinkle, Dallas on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/author/trinkle-dallas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kinoson data for FCC random and high entropy alloys</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10214333/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10214333/</guid>
+      <description>Abstract This database contains the single KMC-step datasets for the &amp;ldquo;Ordered&amp;rdquo; and &amp;ldquo;Random&amp;rdquo; rate lattice gas systems, as well the &amp;ldquo;Complex&amp;rdquo; high-entropy alloy to accompany our main publication along with our code repository mentioned therein. The datasets are given as HDF5 files, readable with the h5py module in python 3. These files are listed below:
+CrystalData: CrystData.h5 and CrystData_ortho_5_cube.h5 contain all the necessary FCC crystal structure data for primitive 8x8x8 and orthogonal 5x5x5 FCC supercells.</description>
+    </item>
+    
+    <item>
+      <title>Kinoson data for FCC random and high entropy alloys</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10214334/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10214334/</guid>
+      <description>Abstract This database contains the single KMC-step datasets for the &amp;ldquo;Ordered&amp;rdquo; and &amp;ldquo;Random&amp;rdquo; rate lattice gas systems, as well the &amp;ldquo;Complex&amp;rdquo; high-entropy alloy to accompany our main publication along with our code repository mentioned therein. The datasets are given as HDF5 files, readable with the h5py module in python 3. These files are listed below:
+CrystalData: CrystData.h5 and CrystData_ortho_5_cube.h5 contain all the necessary FCC crystal structure data for primitive 8x8x8 and orthogonal 5x5x5 FCC supercells.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LLSVP on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/tags/llsvp/</link>
+    <description>Recent content in LLSVP on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/tags/llsvp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IODP Expedition 397T Color reflectance</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210963/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210963/</guid>
+      <description>Abstract Color reflectance data were measured on section halves using an integration sphere and a UV-VIS spectrophotometer mounted on the Section Half Multisensor Logger (SHMSL). Spectral counts are recorded in the range of 380 to 700 nm, covering the visible spectrum, and binned in ~2 nm bins. Spectral data are reduced from spectra and recorded in tristimulus XYZ values, CieLAB Lab* values, and other units.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210963
+Related Identifiers HasVersion 10.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Color reflectance</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210964/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210964/</guid>
+      <description>Abstract Color reflectance data were measured on section halves using an integration sphere and a UV-VIS spectrophotometer mounted on the Section Half Multisensor Logger (SHMSL). Spectral counts are recorded in the range of 380 to 700 nm, covering the visible spectrum, and binned in ~2 nm bins. Spectral data are reduced from spectra and recorded in tristimulus XYZ values, CieLAB Lab* values, and other units.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210964
+Related Identifiers IsDocumentedBy https://doi.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Hole drilling summary</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210681/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210681/</guid>
+      <description>Abstract Report includes detailed drilling data: BHA length, bit parameters, and primary depth measurements.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210681
+Related Identifiers HasVersion 10.5281/zenodo.10210682 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Hole drilling summary</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210682/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210682/</guid>
+      <description>Abstract Report includes detailed drilling data: BHA length, bit parameters, and primary depth measurements.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210682
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210681 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T ICP-AES elemental analysis (solids)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210687/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210687/</guid>
+      <description>Abstract Elemental contents in hard rock and sediment samples was measured by inductively coupled plasma - atomic emission spectrocopy (ICP-AES). Data are presented by element-wavelength pair (e.g., more than one calcium line may be reported). Elemental lines for which data do not exist for a particular expedition will not appear.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210687
+Related Identifiers HasVersion 10.5281/zenodo.10210688 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T ICP-AES elemental analysis (solids)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210688/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210688/</guid>
+      <description>Abstract Elemental contents in hard rock and sediment samples was measured by inductively coupled plasma - atomic emission spectrocopy (ICP-AES). Data are presented by element-wavelength pair (e.g., more than one calcium line may be reported). Elemental lines for which data do not exist for a particular expedition will not appear.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210688
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210687 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Laser height profile (section half)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210956/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210956/</guid>
+      <description>Abstract Height profile data were measured on the Section Half Multisensor Logger (SHMSL) by a rangefinding laser and recorded in uncorrected height units in millimeters in CSV files.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210956
+Related Identifiers HasVersion 10.5281/zenodo.10210957 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Laser height profile (section half)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210957/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210957/</guid>
+      <description>Abstract Height profile data were measured on the Section Half Multisensor Logger (SHMSL) by a rangefinding laser and recorded in uncorrected height units in millimeters in CSV files.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210957
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210956 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Magnetic remanence (spinner)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210974/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210974/</guid>
+      <description>Abstract Magnetic remanence was measured on discrete samples by an Agico JR-6A spinner magnetometer, first as natural remanent magnetization (NRM) and then after demagnetization or remagnetization steps were performed on the samples (e.g., alternating field [AF] demagnetization, thermal demagnetization [TD], or isothermal remanent magnetization [IRM]).
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210974
+Related Identifiers HasVersion 10.5281/zenodo.10210975 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Magnetic remanence (spinner)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210975/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210975/</guid>
+      <description>Abstract Magnetic remanence was measured on discrete samples by an Agico JR-6A spinner magnetometer, first as natural remanent magnetization (NRM) and then after demagnetization or remagnetization steps were performed on the samples (e.g., alternating field [AF] demagnetization, thermal demagnetization [TD], or isothermal remanent magnetization [IRM]).
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210975
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210974 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Magnetic remanence (SRM-longcore)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210977/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210977/</guid>
+      <description>Abstract Magnetic remanence was measured on section halves (and rarely on whole-round sections) using a 2G Enterprises 760R cryogenic magnetometer, first as natural remanent magnetization (NRM) and then after demagnetization steps were performed on the samples by alternating field (AF) demagnetizer coils mounted in-line within the instrument.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210977
+Related Identifiers HasVersion 10.5281/zenodo.10210978 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Magnetic remanence (SRM-longcore)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210978/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210978/</guid>
+      <description>Abstract Magnetic remanence was measured on section halves (and rarely on whole-round sections) using a 2G Enterprises 760R cryogenic magnetometer, first as natural remanent magnetization (NRM) and then after demagnetization steps were performed on the samples by alternating field (AF) demagnetizer coils mounted in-line within the instrument.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210978
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210977 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Magnetic susceptibility (point or contact system)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210948/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210948/</guid>
+      <description>Abstract Magnetic susceptibility was measured on section halves on the Section Half Multisensor Logger (SHMSL) using a Bartington MS2 meter and either a MS2E or MS2K probe. Because all JRSO cores meet minimum size requirements for these two probes, MSPOINT data are corrected for volume and recorded in SI susceptibility units (x10-5).
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210948
+Related Identifiers HasVersion 10.5281/zenodo.10210949 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Magnetic susceptibility (point or contact system)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210949/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210949/</guid>
+      <description>Abstract Magnetic susceptibility was measured on section halves on the Section Half Multisensor Logger (SHMSL) using a Bartington MS2 meter and either a MS2E or MS2K probe. Because all JRSO cores meet minimum size requirements for these two probes, MSPOINT data are corrected for volume and recorded in SI susceptibility units (x10-5).
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210949
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210948 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Magnetic susceptibility (whole round)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210946/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210946/</guid>
+      <description>Abstract Magnetic susceptibility was measured on whole-round sections (and rarely section halves) on the Whole-Round Multisensor Logger (WRMSL) and/or Special Task Multisensor Logger (STMSL) using a Bartington MS2 meter and a 90 mm or 80 mm MS2C loop. As volume of the sample is not controlled for this experiment, susceptibility units are recorded in instrument units and are not volume-corrected.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210946
+Related Identifiers HasVersion 10.5281/zenodo.10210947 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Magnetic susceptibility (whole round)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210947/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210947/</guid>
+      <description>Abstract Magnetic susceptibility was measured on whole-round sections (and rarely section halves) on the Whole-Round Multisensor Logger (WRMSL) and/or Special Task Multisensor Logger (STMSL) using a Bartington MS2 meter and a 90 mm or 80 mm MS2C loop. As volume of the sample is not controlled for this experiment, susceptibility units are recorded in instrument units and are not volume-corrected.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210947
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210946 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Moisture and Density</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210936/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210936/</guid>
+      <description>Abstract Moisture and density (MAD) data were acquired on ~10 mL sediment or rock samples by measuring three out of four material parameters: wet (saturated) mass, wet volume, dry mass, and/or dry volume after 24 h drying in a convection oven at 105 degrees C. From the moisture and volume measurements, the following phase relationships are calculated: wet and dry water content, wet bulk density, dry bulk density, grain density, porosity, and void ratio.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Moisture and Density</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210937/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210937/</guid>
+      <description>Abstract Moisture and density (MAD) data were acquired on ~10 mL sediment or rock samples by measuring three out of four material parameters: wet (saturated) mass, wet volume, dry mass, and/or dry volume after 24 h drying in a convection oven at 105 degrees C. From the moisture and volume measurements, the following phase relationships are calculated: wet and dry water content, wet bulk density, dry bulk density, grain density, porosity, and void ratio.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Natural gamma radiation</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210950/</guid>
+      <description>Abstract Natural gamma radiation (NGR) data in the ~0.1 to 3.0 MeV range were measured using eight custom-designed sodium iodide (thallium) [NaI(Tl)] detectors arranged along the core measurement axis at 20 cm intervals. The NGR system uses layers of passive shielding (lead) and active shielding (plastic scintillators and coincidence electronics) to reduce the cosmic-ray signal for low-count analysis of sediment core sections and to obtain the maximum signal-to-noise ratio. Data are reported on a total counts per second basis and the raw spectral files are available as compressed files for later analysis.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Natural gamma radiation</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210951/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210951/</guid>
+      <description>Abstract Natural gamma radiation (NGR) data in the ~0.1 to 3.0 MeV range were measured using eight custom-designed sodium iodide (thallium) [NaI(Tl)] detectors arranged along the core measurement axis at 20 cm intervals. The NGR system uses layers of passive shielding (lead) and active shielding (plastic scintillators and coincidence electronics) to reduce the cosmic-ray signal for low-count analysis of sediment core sections and to obtain the maximum signal-to-noise ratio. Data are reported on a total counts per second basis and the raw spectral files are available as compressed files for later analysis.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T P-wave velocity caliper (section/discrete)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210958/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210958/</guid>
+      <description>Abstract P-wave velocity data were measured on undisturbed section halves (JRSO-defined x-axis) and/or discrete cube and cylinder samples (x, y, or z-axis) using pairs of piezoelectric transducers mounted on a caliper system. Report includes P-wave velocity in x, y, and/or z-direction, caliper separation, traveltime between transucers, and first arrival picks.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210958
+Related Identifiers HasVersion 10.5281/zenodo.10210959 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T P-wave velocity caliper (section/discrete)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210959/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210959/</guid>
+      <description>Abstract P-wave velocity data were measured on undisturbed section halves (JRSO-defined x-axis) and/or discrete cube and cylinder samples (x, y, or z-axis) using pairs of piezoelectric transducers mounted on a caliper system. Report includes P-wave velocity in x, y, and/or z-direction, caliper separation, traveltime between transucers, and first arrival picks.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210959
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210958 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Photomicrographs</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210938/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210938/</guid>
+      <description>Abstract Microscopic images of discrete samples were acquired using stereo and upright light microscopes and captured on digital cameras. Image files were uploaded along with a brief description and a record of the microscopic and lighting conditions when the image was taken.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210938
+Related Identifiers HasVersion 10.5281/zenodo.10210939 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Photomicrographs</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210939/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210939/</guid>
+      <description>Abstract Microscopic images of discrete samples were acquired using stereo and upright light microscopes and captured on digital cameras. Image files were uploaded along with a brief description and a record of the microscopic and lighting conditions when the image was taken.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210939
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210938 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Piece log</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210954/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210954/</guid>
+      <description>Abstract Dataset includes length data for every whole-round piece: bin length, whole-round piece length (measured by curation staff), and both the archive- and working-half piece lengths (optionally measured by scientists).
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210954
+Related Identifiers HasVersion 10.5281/zenodo.10210955 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Piece log</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210955/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210955/</guid>
+      <description>Abstract Dataset includes length data for every whole-round piece: bin length, whole-round piece length (measured by curation staff), and both the archive- and working-half piece lengths (optionally measured by scientists).
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210955
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210954 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T RGB channels (calculated from core photos)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210961/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210961/</guid>
+      <description>Abstract Red, green, and blue pixel data were extracted from Section Half Imaging Logger (SHIL) linescan images, typically binned at 0.5 cm resolution using the central 2 cm of the image.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210961
+Related Identifiers HasVersion 10.5281/zenodo.10210962 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T RGB channels (calculated from core photos)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210962/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210962/</guid>
+      <description>Abstract Red, green, and blue pixel data were extracted from Section Half Imaging Logger (SHIL) linescan images, typically binned at 0.5 cm resolution using the central 2 cm of the image.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210962
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210961 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Rig instrumentation</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210952/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210952/</guid>
+      <description>Abstract Operational rig information data were measured using a variety of sensors and compiled using the RigWatch software package. Approximately 50 channels of drilling/coring data are captured in real time during the expedition. Data are presented as ASCII files extracted from the proprietary RigWatch data files and are presented by expedition. RigWatch data in time or depth domain can be imported into graphics and analysis programs to be merged and correlated with core physical properties data to enhance assessment of poor core recovery intervals.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Rig instrumentation</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210953/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210953/</guid>
+      <description>Abstract Operational rig information data were measured using a variety of sensors and compiled using the RigWatch software package. Approximately 50 channels of drilling/coring data are captured in real time during the expedition. Data are presented as ASCII files extracted from the proprietary RigWatch data files and are presented by expedition. RigWatch data in time or depth domain can be imported into graphics and analysis programs to be merged and correlated with core physical properties data to enhance assessment of poor core recovery intervals.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Sample report</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210965/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210965/</guid>
+      <description>Abstract Report includes detailed information about samples taken for testing: location/depth, type/form factor, test, request number, and database identifier.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210965
+Related Identifiers HasVersion 10.5281/zenodo.10210966 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Sample report</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210966/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210966/</guid>
+      <description>Abstract Report includes detailed information about samples taken for testing: location/depth, type/form factor, test, request number, and database identifier.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210966
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210965 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Section summary</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210969/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210969/</guid>
+      <description>Abstract Report includes data for individual core sections: coring/drilling depths and recovery, database identifiers for the whole section and section halves, and number of samples taken from the section before and after splitting.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210969
+Related Identifiers HasVersion 10.5281/zenodo.10210970 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Section summary</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210970/</guid>
+      <description>Abstract Report includes data for individual core sections: coring/drilling depths and recovery, database identifiers for the whole section and section halves, and number of samples taken from the section before and after splitting.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210970
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210969 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Section-half images</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210691/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210691/</guid>
+      <description>Abstract Digital section images were taken of the flat face of split cores on the Section Half Imaging Logger (SHIL) using a linescan camera at a resolution of 20 lines/mm (50 micron pixels). Cores were imaged as soon as possible after splitting to minimize color changes that occur through oxidation and drying. The SHIL produces TIF files as well as reduced-size JPG files. The TIF files are not kept online but users may request them from the IODP-JRSO Data Librarian.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Section-half images</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210692/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210692/</guid>
+      <description>Abstract Digital section images were taken of the flat face of split cores on the Section Half Imaging Logger (SHIL) using a linescan camera at a resolution of 20 lines/mm (50 micron pixels). Cores were imaged as soon as possible after splitting to minimize color changes that occur through oxidation and drying. The SHIL produces TIF files as well as reduced-size JPG files. The TIF files are not kept online but users may request them from the IODP-JRSO Data Librarian.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Thin section images</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210984/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210984/</guid>
+      <description>Abstract Hard rock and sediment thin section images were acquired using either the JRSO-developed Petrographic Image Capture and Archival Tool (PICAT) imager or (rarely) an upright microscope and a digital camera. Sample images are acquired in unpolarized, polarized, and/or cross-polarized light. Image files are presented compressed by hole.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210984
+Related Identifiers HasVersion 10.5281/zenodo.10210985 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Thin section images</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210985/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210985/</guid>
+      <description>Abstract Hard rock and sediment thin section images were acquired using either the JRSO-developed Petrographic Image Capture and Archival Tool (PICAT) imager or (rarely) an upright microscope and a digital camera. Sample images are acquired in unpolarized, polarized, and/or cross-polarized light. Image files are presented compressed by hole.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210985
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210984 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Whole-round core section composite 360 degree images</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211018/</guid>
+      <description>Abstract Images of the outside of hard rock whole-round sections were acquired using a linescan imager (Section Half Imaging Logger [SHIL]) and a special holder that allows each 90 degree segment of the outer surface to be positioned properly. The images were taken at a resolution of 20 lines/mm (50 micropixels). JRSO staff take these quadrant images and compile them into a side-by-side rollout photograph of the section. Composite images are available as both JPG and TIF image formats.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Whole-round core section composite 360 degree images</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211019/</guid>
+      <description>Abstract Images of the outside of hard rock whole-round sections were acquired using a linescan imager (Section Half Imaging Logger [SHIL]) and a special holder that allows each 90 degree segment of the outer surface to be positioned properly. The images were taken at a resolution of 20 lines/mm (50 micropixels). JRSO staff take these quadrant images and compile them into a side-by-side rollout photograph of the section. Composite images are available as both JPG and TIF image formats.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Whole-round core section images</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211006/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211006/</guid>
+      <description>Abstract Images of the outside of hard rock whole-round sections were acquired using a linescan imager (Section Half Imaging Logger [SHIL]) and a special holder that allows each 90 degree segment of the outer surface to be positioned properly. The images were taken at a resolution of 20 lines/mm (50 micropixels). JRSO staff take these quadrant images and compile them into a side-by-side rollout photograph of the section. Composite images are available as both JPG and TIF image formats.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Whole-round core section images</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211007/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211007/</guid>
+      <description>Abstract Images of the outside of hard rock whole-round sections were acquired using a linescan imager (Section Half Imaging Logger [SHIL]) and a special holder that allows each 90 degree segment of the outer surface to be positioned properly. The images were taken at a resolution of 20 lines/mm (50 micropixels). JRSO staff take these quadrant images and compile them into a side-by-side rollout photograph of the section. Composite images are available as both JPG and TIF image formats.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T X-ray diffraction (XRD)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211030/</guid>
+      <description>Abstract X-ray diffraction (XRD) is used to identify minerals and their proportions in sediment or hard rock sample powders on a Bruker AXS D4 Endeavor X-ray diffractometer. Results are returned as diffractograms in a viewable format (either PDF or PNG).
+Access Points https://zenodo.org/doi/10.5281/zenodo.10211030
+Related Identifiers HasVersion 10.5281/zenodo.10211031 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T X-ray diffraction (XRD)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211031/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211031/</guid>
+      <description>Abstract X-ray diffraction (XRD) is used to identify minerals and their proportions in sediment or hard rock sample powders on a Bruker AXS D4 Endeavor X-ray diffractometer. Results are returned as diffractograms in a viewable format (either PDF or PNG).
+Access Points https://zenodo.org/doi/10.5281/zenodo.10211031
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10211030 </description>
+    </item>
+    
+  </channel>
+</rss>

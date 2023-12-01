@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>National Science Foundation on Landingpage-in-a-Box</title>
+    <link>https://datapurifier.github.io/landingpage-in-a-box/funders/national-science-foundation/</link>
+    <description>Recent content in National Science Foundation on Landingpage-in-a-Box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://datapurifier.github.io/landingpage-in-a-box/funders/national-science-foundation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adult male birds advance spring migratory phenology faster than females and juveniles across North America</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.m905qfv4v/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.m905qfv4v/</guid>
+      <description>Abstract Advances in spring migratory phenology comprise some of the most well-documented evidence for the impacts of climate change on birds. Nevertheless, surprisingly little research has investigated whether birds are shifting their migratory phenology equally across sex and age classes – a question critical to understanding the potential for trophic mismatch. We used 60-years of bird banding data across North America – comprising over 4 million captures in total – to investigate both spring and fall migratory phenology for a total of 98 bird species across sex and age classes, with the exact numbers of species for each analysis depending on season-specific data availability.</description>
+    </item>
+    
+    <item>
+      <title>Annotation data from: Utilizing a comparative approach to assess genome evolution during diploidization in Artemisia tridentata (Asteraceae), a keystone species of western North America</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.7923/hysd-x388/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.7923/hysd-x388/</guid>
+      <description>Abstract Supporting dataset for genome assembly data found within NCBI BioProjects PRJNA1032953 (UTT2), PRJNA722258 (IDT2) and PRJNA795150 (IDT3-Reference Genome). Fasta assembly data used in the EDTA analysis to generate subsequent output files are available from the NCBI Genome database and raw sequence data are available from the NCBI SRA database. Each input fasta contains the nine pseudo-chromosomes described in Melton et al. 2022. Reads from each sample were mapped to the nine pseudo-chromosomes and used to call a consensus sequence.</description>
+    </item>
+    
+    <item>
+      <title>Binding and sequestration of poison frog alkaloids by a plasma globulin</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.mkkwh7143/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.mkkwh7143/</guid>
+      <description>Abstract Alkaloids are important bioactive molecules throughout the natural world, and in many animals, they serve as a source of chemical defense against predation. Dendrobatid poison frogs bioaccumulate alkaloids from their diet to make themselves toxic or unpalatable to predators. Despite the proposed roles of plasma proteins as mediators of alkaloid trafficking and bioavailability, the responsible proteins have not been identified. We use chemical approaches to show that a ~50 kDa plasma protein is the principal alkaloid binding molecule in blood from poison frogs.</description>
+    </item>
+    
+    <item>
+      <title>COAWST model files</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10160563/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10160563/</guid>
+      <description>Abstract These are the necessary ROMS files to run the COAWST kelp forest module. The vegetation_drag_newMod.txt must replace the file vegetation_drag.F in the vegetation folder in COAWST. Access Points https://zenodo.org/doi/10.5281/zenodo.10160563
+Related Identifiers HasVersion 10.5281/zenodo.10160564 </description>
+    </item>
+    
+    <item>
+      <title>COAWST model files</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10160564/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10160564/</guid>
+      <description>Abstract These are the necessary ROMS files to run the COAWST kelp forest module. The vegetation_drag_newMod.txt must replace the file vegetation_drag.F in the vegetation folder in COAWST. Access Points https://zenodo.org/doi/10.5281/zenodo.10160564
+Related Identifiers IsVersionOf 10.5281/zenodo.10160563 </description>
+    </item>
+    
+    <item>
+      <title>Complete data from the Barro Colorado 50-ha plot: 423617 trees, 35 years</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.15146/5xcp-0d46/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.15146/5xcp-0d46/</guid>
+      <description>Abstract The 50-ha plot at Barro Colorado Island was initially demarcated and fully censused in 1982, and has been fully censused 7 times since, every 5 years from 1985 through 2015 (Hubbell and Foster 1983, Hubbell et al. 1990, Condit et al. 2012, Condit et al. 2017). Every measurement of every stem over 8 censuses is included in this archive. Most users will need only the 8 R Analytical Tables in the format tree, which come here zipped together into a single archive (bci.</description>
+    </item>
+    
+    <item>
+      <title>Data for: A histone demethylase links the loss of plasticity to nongenetic inheritance and morphological change</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.98sf7m0nm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.98sf7m0nm/</guid>
+      <description>Abstract Plasticity is a widespread feature of development, enabling phenotypic change based on the environment. Although the evolutionary loss of plasticity has been linked both theoretically and empirically to increased rates of phenotypic diversification, molecular insights into how this process might unfold are generally lacking. Here, we show that a regulator of nongenetic inheritance links evolutionary loss of plasticity in nature to changes in plasticity and morphology as selected in the laboratory.</description>
+    </item>
+    
+    <item>
+      <title>Data for: Fabrication and characterization of antibacterial coatings using an amphoteric condensed tannin,Tanfloc</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.gqnk98sv9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.gqnk98sv9/</guid>
+      <description>Abstract This dataset presents comprehensive information on the development and characterization of antibacterial polyelectrolyte multilayer (PEM) coatings incorporating tanfloc, a plant-derived condensed tannin polymer with inherent antimicrobial properties. The dataset encompasses experimental data related to the fabrication of PEMs using tanfloc as either a polyanion or a polycation, expanding the versatility of this amphoteric polymer in PEM coatings. Typically, PEMs are formed by combining a polycation and a polyanion with complementary ionic groups.</description>
+    </item>
+    
+    <item>
+      <title>Data from: A dynamical model of growth and maturation in Drosophila</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.q573n5tq2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.q573n5tq2/</guid>
+      <description>Abstract The decision to stop growing and mature into an adult is a critical point in development that determines adult body size, impacting multiple aspects of an adult’s biology. In many animals, growth-cessation is a consequence of hormone release that appears to be tied to attainment of particular body size or condition. Nevertheless, the size-sensing mechanism animals use to initiate hormone synthesis is poorly understood. Here we develop a simple mathematical model of growth cessation in Drosophila melanogaster, which is ostensibly triggered by attainment of a critical weight early in the last instar.</description>
+    </item>
+    
+    <item>
+      <title>Data from: Genetic signatures of lineage fusion closely resemble population decline</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.1jwstqk11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.1jwstqk11/</guid>
+      <description>Abstract Accurate interpretation of the genetic signatures of past demographic events is crucial for reconstructing evolutionary history. Lineage fusion (complete merging, resulting in a single panmictic population) is a special case of secondary contact that is seldom considered. Here, the circumstances under which lineage fusion can be distinguished from population size constancy, growth, bottleneck, and decline were investigated. Multi-locus haplotype data were simulated under models of lineage fusion with different divergence versus sampling lag times (D:L ratios).</description>
+    </item>
+    
+    <item>
+      <title>Data from: Integrated species distribution models to account for sampling biases and improve range wide occurrence predictions</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.k98sf7mdg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.k98sf7mdg/</guid>
+      <description>Abstract Aim Species distribution models (SDMs) that integrate presence-only and presence-absence data offer a promising avenue to improve information on species’ geographic distributions. The use of such ‘integrated SDMs’ on a species range-wide extent has been constrained by the often-limited presence-absence data and by the heterogeneous sampling of the presence-only data. Here, we evaluate integrated SDMs for studying species ranges with a novel expert range map-based evaluation. We build a new understanding about how integrated SDMs address issues of estimation accuracy and data deficiency and thereby offer advantages over traditional SDMs.</description>
+    </item>
+    
+    <item>
+      <title>Data from: programming co-assembled peptide nanofiber morphology via anionic amino acid type: insights from molecular dynamics simulations</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.5mkkwh7bp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.5mkkwh7bp/</guid>
+      <description>Abstract Co-assembling peptides can be crafted into supramolecular biomaterials for use in biotechnological applications, such as cell culture scaffolds, drug delivery, biosensors, and tissue engineering. Peptide co-assembly refers to the spontaneous organization of two different peptides into a supramolecular architecture. Here we use molecular dynamics simulations to quantify the effect of anionic amino acid type on co-assembly dynamics and nanofiber structure in binary CATCH(+/-) peptide systems. CATCH peptide sequences follow a general pattern: CQCFCFCFCQC, where all C’s are either a positively charged or a negatively charged amino acid.</description>
+    </item>
+    
+    <item>
+      <title>Data from: Soil phosphorus drawdown by perennial bioenergy cropping systems in the Midwestern US</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.dfn2z355r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.dfn2z355r/</guid>
+      <description>Abstract Without fertilization, harvest of perennial bioenergy cropping systems diminishes soil nutrient stocks, yet the time course of nutrient drawdown has not often been investigated. We analyzed phosphorus (P) inputs (fertilization and atmospheric deposition) and outputs (harvest and leaching losses) over seven years in three representative biomass crops—switchgrass (Panicum virga­tum L.), miscanthus (Miscanthus X giganteus) and hybrid poplar trees (Populus nigra X P. maximowiczii) – as well as in no-till corn (maize; Zea mays L.</description>
+    </item>
+    
+    <item>
+      <title>Data from: The role of mutation bias in adaptive molecular evolution: insights from convergent changes in protein function</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.2256f38/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.2256f38/</guid>
+      <description>Abstract An underexplored question in evolutionary genetics concerns the extent to which mutational bias in the production of genetic variation influences outcomes and pathways of adaptive molecular evolution. In the genomes of at least some vertebrate taxa, an important form of mutation bias involves changes at CpG dinucleotides: If the DNA nucleotide cytosine (C) is immediately 5’ to guanine (G) on the same coding strand, and if the C is methylated, then C→T and G→A mutations occur at an elevated rate relative to mutations at non-CpG sites.</description>
+    </item>
+    
+    <item>
+      <title>Data from: Wildlife fecal microbiota exhibit community stability across a semi-controlled longitudinal non-invasive sampling experiment</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.v6wwpzh2b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.v6wwpzh2b/</guid>
+      <description>Abstract Wildlife microbiome studies are being used to assess microbial links with animal health and habitat. The gold standard of sampling microbiomes directly from captured animals is ideal for limiting potential abiotic influences on microbiome composition, yet fails to leverage the many benefits of non-invasive sampling. Application of microbiome-based monitoring for rare, endangered, or elusive species creates a need to non-invasively collect scat samples shed into the environment. Since controlling sample age is not always possible, the potential influence of time-associated abiotic factors was assessed.</description>
+    </item>
+    
+    <item>
+      <title>Development of a Smart Manufacturing Technology Earn and Learn Program at a Rural Community College</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10158072/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10158072/</guid>
+      <description>Abstract Manufacturing continues to be a vital component of the Ohio economy. Ohio&amp;rsquo;s manufacturing sector employs over 600,000 skilled individuals, the third-largest manufacturing workforce in the U.S. [1]. With additional manufacturing industries moving into Ohio, including Intel and its supply chain partners, there is a growing need for industry-ready, skilled engineering technicians. In addition, with the increasing use of automated systems and network connectivity of these systems in manufacturing operations, technicians need to be equipped with skills in the area of smart manufacturing.</description>
+    </item>
+    
+    <item>
+      <title>Development of a Smart Manufacturing Technology Earn and Learn Program at a Rural Community College</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10158073/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10158073/</guid>
+      <description>Abstract Manufacturing continues to be a vital component of the Ohio economy. Ohio&amp;rsquo;s manufacturing sector employs over 600,000 skilled individuals, the third-largest manufacturing workforce in the U.S. [1]. With additional manufacturing industries moving into Ohio, including Intel and its supply chain partners, there is a growing need for industry-ready, skilled engineering technicians. In addition, with the increasing use of automated systems and network connectivity of these systems in manufacturing operations, technicians need to be equipped with skills in the area of smart manufacturing.</description>
+    </item>
+    
+    <item>
+      <title>Drought tolerant grassland species are generally more resistant to competition</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.1jwstqk1x/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.1jwstqk1x/</guid>
+      <description>Abstract Plant populations are limited by resource availability and exhibit physiological trade-offs in resource acquisition strategies. These trade-offs may constrain the ability of populations to exhibit fast growth rates under water limitation and high cover of neighbors. However, traits that confer drought tolerance may also confer resistance to competition. It remains unclear how fitness responses to these abiotic conditions and biotic interactions combine to structure grassland communities and how this relationship may change along a gradient of water availability.</description>
+    </item>
+    
+    <item>
+      <title>Early Intervention Colorado (EI-CO) Participant Characteristics, Service Use, and Patient-Reported Outcomes, Colorado, 2017-2021</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.3886/icpsr37320/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.3886/icpsr37320/</guid>
+      <description>Abstract The Individuals with Disabilities Education Act authorizes states to create early intervention (EI) programming to provide developmental and therapeutic services to infants and toddlers with a developmental condition; EI programs are mandated to report on child and family outcomes for purposes of accountability and quality improvement. For both purposes, there is critical need for research evidence on the adequacy of EI services. The researchers for this study partnered with a large urban EI program in Colorado that had recently transitioned to electronic data capture and was implementing a statewide initiative to facilitate function-focused care with individual families and paired collected electronic patient-reported outcomes (e-PRO) data with EI administrative data on child and family characteristics and service use to more fully examine EI service adequacy relative to patient-important outcomes.</description>
+    </item>
+    
+    <item>
+      <title>Early Intervention Colorado (EI-CO) Participant Characteristics, Service Use, and Patient-Reported Outcomes, Colorado, 2017-2021</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.3886/icpsr37320.v3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.3886/icpsr37320.v3/</guid>
+      <description>Abstract The Individuals with Disabilities Education Act authorizes states to create early intervention (EI) programming to provide developmental and therapeutic services to infants and toddlers with a developmental condition; EI programs are mandated to report on child and family outcomes for purposes of accountability and quality improvement. For both purposes, there is critical need for research evidence on the adequacy of EI services. The researchers for this study partnered with a large urban EI program in Colorado that had recently transitioned to electronic data capture and was implementing a statewide initiative to facilitate function-focused care with individual families and paired collected electronic patient-reported outcomes (e-PRO) data with EI administrative data on child and family characteristics and service use to more fully examine EI service adequacy relative to patient-important outcomes.</description>
+    </item>
+    
+    <item>
+      <title>Early Intervention Colorado (EI-CO) Participant Characteristics, Service Use, and Patient-Reported Outcomes, Colorado, 2017-2021</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.3886/icpsr37320.v4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.3886/icpsr37320.v4/</guid>
+      <description>Abstract The Individuals with Disabilities Education Act authorizes states to create early intervention (EI) programming to provide developmental and therapeutic services to infants and toddlers with a developmental condition; EI programs are mandated to report on child and family outcomes for purposes of accountability and quality improvement. For both purposes, there is critical need for research evidence on the adequacy of EI services. The researchers for this study partnered with a large urban EI program in Colorado that had recently transitioned to electronic data capture and was implementing a statewide initiative to facilitate function-focused care with individual families and paired collected electronic patient-reported outcomes (e-PRO) data with EI administrative data on child and family characteristics and service use to more fully examine EI service adequacy relative to patient-important outcomes.</description>
+    </item>
+    
+    <item>
+      <title>ECO-CHIP: Estimation of Carbon Footprint of Chiplet-based Architectures for Sustainable VLSI: HPCA 2024 Artifact Evaluation</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10099731/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10099731/</guid>
+      <description>Abstract The paper introduces ECO-CHIP, a framework for measuring the carbon footprint (CFP) of a heterogeneous system across its lifespan. This artifact is released on Zenodo and contains two parts. The first is ECO-CHIP submodule from GitHub, and the second is a folder that consists of the experiments performed in this paper using ECO-CHIP. The minimal hardware requirements are any single-core CPU, and the software requirements are Python 3.9 with pip 22.</description>
+    </item>
+    
+    <item>
+      <title>ECO-CHIP: Estimation of Carbon Footprint of Chiplet-based Architectures for Sustainable VLSI: HPCA 2024 Artifact Evaluation</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10099732/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10099732/</guid>
+      <description>Abstract The paper introduces ECO-CHIP, a framework for measuring the carbon footprint (CFP) of a heterogeneous system across its lifespan. This artifact is released on Zenodo and contains two parts. The first is ECO-CHIP submodule from GitHub, and the second is a folder that consists of the experiments performed in this paper using ECO-CHIP. The minimal hardware requirements are any single-core CPU, and the software requirements are Python 3.9 with pip 22.</description>
+    </item>
+    
+    <item>
+      <title>ECO-CHIP: Estimation of Carbon Footprint of Chiplet-based Architectures for Sustainable VLSI: HPCA 2024 Artifact Evaluation</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10223759/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10223759/</guid>
+      <description>Abstract The paper introduces ECO-CHIP, a framework for measuring the carbon footprint (CFP) of a heterogeneous system across its lifespan. This artifact is released on Zenodo and contains two parts. The first is ECO-CHIP submodule from GitHub, and the second is a folder that consists of the experiments performed in this paper using ECO-CHIP. The minimal hardware requirements are any single-core CPU, and the software requirements are Python 3.9 with pip 22.</description>
+    </item>
+    
+    <item>
+      <title>FEHM source code modifications and executables for use with ocean-world gravity</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.7291/d1vq3r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.7291/d1vq3r/</guid>
+      <description>Abstract This is a repository for compiled codes, source code, and input files used in this paper: Fisher, A. T., K. D. Dickerson, D. K. Blackman, N. Randolph-Flagg, C. R. German, and C. Sotin (2024), Sustained hydrothermal circulation under ocean-world gravity, J. Geophys. Res. - Planets, submitted and in review. Plain language summary from paper: Ocean worlds are planets, moons, and other rocky bodies that have a liquid ocean, often under an icy shell or within the rocky interior.</description>
+    </item>
+    
+    <item>
+      <title>Foraging behavior of tagged rock ants (Temnothorax rugatulus)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.xksn02vn0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.xksn02vn0/</guid>
+      <description>Abstract Technological advances continue to push the boundaries of scientific inquiry in animal behavior. One such development is the emergence of automated tracking systems, which enable the collection of high-resolution spatio-temporal information for animals. Although tag-based tracking systems provide valuable insights into animal movement and collective behavior, the attachment of devices can have detrimental effects in some cases. Here, we investigated the effects of recently developed miniature tracking tags using the rock ant, Temnothorax rugatulus, as a model system.</description>
+    </item>
+    
+    <item>
+      <title>In Proceedings of the International Symposium for ASEAN Smart Cities: Experiences and Innovations</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.8031759/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.8031759/</guid>
+      <description>Abstract ISSCEI prioritizes activities that foster practical smart city advances toward improving the quality of life and well-being of ASEAN residents. ISSCEI highlights cases of smart city deployments to identify transferrable successes and pitfalls. And finally, the ISSCEI community shares new ideas and solutions that could underpin future smart city efforts.
+Access Points https://zenodo.org/doi/10.5281/zenodo.8031759
+Related Identifiers HasVersion 10.5281/zenodo.8031760 </description>
+    </item>
+    
+    <item>
+      <title>In Proceedings of the International Symposium for ASEAN Smart Cities: Experiences and Innovations</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.8031760/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.8031760/</guid>
+      <description>Abstract ISSCEI prioritizes activities that foster practical smart city advances toward improving the quality of life and well-being of ASEAN residents. ISSCEI highlights cases of smart city deployments to identify transferrable successes and pitfalls. And finally, the ISSCEI community shares new ideas and solutions that could underpin future smart city efforts.
+Access Points https://zenodo.org/doi/10.5281/zenodo.8031760
+Related Identifiers IsVersionOf 10.5281/zenodo.8031759 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Color reflectance</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210963/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210963/</guid>
+      <description>Abstract Color reflectance data were measured on section halves using an integration sphere and a UV-VIS spectrophotometer mounted on the Section Half Multisensor Logger (SHMSL). Spectral counts are recorded in the range of 380 to 700 nm, covering the visible spectrum, and binned in ~2 nm bins. Spectral data are reduced from spectra and recorded in tristimulus XYZ values, CieLAB Lab* values, and other units.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210963
+Related Identifiers HasVersion 10.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Color reflectance</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210964/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210964/</guid>
+      <description>Abstract Color reflectance data were measured on section halves using an integration sphere and a UV-VIS spectrophotometer mounted on the Section Half Multisensor Logger (SHMSL). Spectral counts are recorded in the range of 380 to 700 nm, covering the visible spectrum, and binned in ~2 nm bins. Spectral data are reduced from spectra and recorded in tristimulus XYZ values, CieLAB Lab* values, and other units.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210964
+Related Identifiers IsDocumentedBy https://doi.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Hole drilling summary</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210681/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210681/</guid>
+      <description>Abstract Report includes detailed drilling data: BHA length, bit parameters, and primary depth measurements.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210681
+Related Identifiers HasVersion 10.5281/zenodo.10210682 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Hole drilling summary</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210682/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210682/</guid>
+      <description>Abstract Report includes detailed drilling data: BHA length, bit parameters, and primary depth measurements.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210682
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210681 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T ICP-AES elemental analysis (solids)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210687/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210687/</guid>
+      <description>Abstract Elemental contents in hard rock and sediment samples was measured by inductively coupled plasma - atomic emission spectrocopy (ICP-AES). Data are presented by element-wavelength pair (e.g., more than one calcium line may be reported). Elemental lines for which data do not exist for a particular expedition will not appear.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210687
+Related Identifiers HasVersion 10.5281/zenodo.10210688 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T ICP-AES elemental analysis (solids)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210688/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210688/</guid>
+      <description>Abstract Elemental contents in hard rock and sediment samples was measured by inductively coupled plasma - atomic emission spectrocopy (ICP-AES). Data are presented by element-wavelength pair (e.g., more than one calcium line may be reported). Elemental lines for which data do not exist for a particular expedition will not appear.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210688
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210687 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Laser height profile (section half)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210956/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210956/</guid>
+      <description>Abstract Height profile data were measured on the Section Half Multisensor Logger (SHMSL) by a rangefinding laser and recorded in uncorrected height units in millimeters in CSV files.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210956
+Related Identifiers HasVersion 10.5281/zenodo.10210957 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Laser height profile (section half)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210957/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210957/</guid>
+      <description>Abstract Height profile data were measured on the Section Half Multisensor Logger (SHMSL) by a rangefinding laser and recorded in uncorrected height units in millimeters in CSV files.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210957
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210956 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Magnetic remanence (spinner)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210974/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210974/</guid>
+      <description>Abstract Magnetic remanence was measured on discrete samples by an Agico JR-6A spinner magnetometer, first as natural remanent magnetization (NRM) and then after demagnetization or remagnetization steps were performed on the samples (e.g., alternating field [AF] demagnetization, thermal demagnetization [TD], or isothermal remanent magnetization [IRM]).
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210974
+Related Identifiers HasVersion 10.5281/zenodo.10210975 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Magnetic remanence (spinner)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210975/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210975/</guid>
+      <description>Abstract Magnetic remanence was measured on discrete samples by an Agico JR-6A spinner magnetometer, first as natural remanent magnetization (NRM) and then after demagnetization or remagnetization steps were performed on the samples (e.g., alternating field [AF] demagnetization, thermal demagnetization [TD], or isothermal remanent magnetization [IRM]).
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210975
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210974 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Magnetic remanence (SRM-longcore)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210977/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210977/</guid>
+      <description>Abstract Magnetic remanence was measured on section halves (and rarely on whole-round sections) using a 2G Enterprises 760R cryogenic magnetometer, first as natural remanent magnetization (NRM) and then after demagnetization steps were performed on the samples by alternating field (AF) demagnetizer coils mounted in-line within the instrument.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210977
+Related Identifiers HasVersion 10.5281/zenodo.10210978 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Magnetic remanence (SRM-longcore)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210978/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210978/</guid>
+      <description>Abstract Magnetic remanence was measured on section halves (and rarely on whole-round sections) using a 2G Enterprises 760R cryogenic magnetometer, first as natural remanent magnetization (NRM) and then after demagnetization steps were performed on the samples by alternating field (AF) demagnetizer coils mounted in-line within the instrument.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210978
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210977 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Magnetic susceptibility (point or contact system)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210948/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210948/</guid>
+      <description>Abstract Magnetic susceptibility was measured on section halves on the Section Half Multisensor Logger (SHMSL) using a Bartington MS2 meter and either a MS2E or MS2K probe. Because all JRSO cores meet minimum size requirements for these two probes, MSPOINT data are corrected for volume and recorded in SI susceptibility units (x10-5).
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210948
+Related Identifiers HasVersion 10.5281/zenodo.10210949 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Magnetic susceptibility (point or contact system)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210949/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210949/</guid>
+      <description>Abstract Magnetic susceptibility was measured on section halves on the Section Half Multisensor Logger (SHMSL) using a Bartington MS2 meter and either a MS2E or MS2K probe. Because all JRSO cores meet minimum size requirements for these two probes, MSPOINT data are corrected for volume and recorded in SI susceptibility units (x10-5).
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210949
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210948 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Magnetic susceptibility (whole round)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210946/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210946/</guid>
+      <description>Abstract Magnetic susceptibility was measured on whole-round sections (and rarely section halves) on the Whole-Round Multisensor Logger (WRMSL) and/or Special Task Multisensor Logger (STMSL) using a Bartington MS2 meter and a 90 mm or 80 mm MS2C loop. As volume of the sample is not controlled for this experiment, susceptibility units are recorded in instrument units and are not volume-corrected.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210946
+Related Identifiers HasVersion 10.5281/zenodo.10210947 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Magnetic susceptibility (whole round)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210947/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210947/</guid>
+      <description>Abstract Magnetic susceptibility was measured on whole-round sections (and rarely section halves) on the Whole-Round Multisensor Logger (WRMSL) and/or Special Task Multisensor Logger (STMSL) using a Bartington MS2 meter and a 90 mm or 80 mm MS2C loop. As volume of the sample is not controlled for this experiment, susceptibility units are recorded in instrument units and are not volume-corrected.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210947
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210946 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Moisture and Density</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210936/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210936/</guid>
+      <description>Abstract Moisture and density (MAD) data were acquired on ~10 mL sediment or rock samples by measuring three out of four material parameters: wet (saturated) mass, wet volume, dry mass, and/or dry volume after 24 h drying in a convection oven at 105 degrees C. From the moisture and volume measurements, the following phase relationships are calculated: wet and dry water content, wet bulk density, dry bulk density, grain density, porosity, and void ratio.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Moisture and Density</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210937/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210937/</guid>
+      <description>Abstract Moisture and density (MAD) data were acquired on ~10 mL sediment or rock samples by measuring three out of four material parameters: wet (saturated) mass, wet volume, dry mass, and/or dry volume after 24 h drying in a convection oven at 105 degrees C. From the moisture and volume measurements, the following phase relationships are calculated: wet and dry water content, wet bulk density, dry bulk density, grain density, porosity, and void ratio.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Natural gamma radiation</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210950/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210950/</guid>
+      <description>Abstract Natural gamma radiation (NGR) data in the ~0.1 to 3.0 MeV range were measured using eight custom-designed sodium iodide (thallium) [NaI(Tl)] detectors arranged along the core measurement axis at 20 cm intervals. The NGR system uses layers of passive shielding (lead) and active shielding (plastic scintillators and coincidence electronics) to reduce the cosmic-ray signal for low-count analysis of sediment core sections and to obtain the maximum signal-to-noise ratio. Data are reported on a total counts per second basis and the raw spectral files are available as compressed files for later analysis.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Natural gamma radiation</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210951/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210951/</guid>
+      <description>Abstract Natural gamma radiation (NGR) data in the ~0.1 to 3.0 MeV range were measured using eight custom-designed sodium iodide (thallium) [NaI(Tl)] detectors arranged along the core measurement axis at 20 cm intervals. The NGR system uses layers of passive shielding (lead) and active shielding (plastic scintillators and coincidence electronics) to reduce the cosmic-ray signal for low-count analysis of sediment core sections and to obtain the maximum signal-to-noise ratio. Data are reported on a total counts per second basis and the raw spectral files are available as compressed files for later analysis.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T P-wave velocity caliper (section/discrete)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210958/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210958/</guid>
+      <description>Abstract P-wave velocity data were measured on undisturbed section halves (JRSO-defined x-axis) and/or discrete cube and cylinder samples (x, y, or z-axis) using pairs of piezoelectric transducers mounted on a caliper system. Report includes P-wave velocity in x, y, and/or z-direction, caliper separation, traveltime between transucers, and first arrival picks.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210958
+Related Identifiers HasVersion 10.5281/zenodo.10210959 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T P-wave velocity caliper (section/discrete)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210959/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210959/</guid>
+      <description>Abstract P-wave velocity data were measured on undisturbed section halves (JRSO-defined x-axis) and/or discrete cube and cylinder samples (x, y, or z-axis) using pairs of piezoelectric transducers mounted on a caliper system. Report includes P-wave velocity in x, y, and/or z-direction, caliper separation, traveltime between transucers, and first arrival picks.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210959
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210958 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Photomicrographs</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210938/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210938/</guid>
+      <description>Abstract Microscopic images of discrete samples were acquired using stereo and upright light microscopes and captured on digital cameras. Image files were uploaded along with a brief description and a record of the microscopic and lighting conditions when the image was taken.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210938
+Related Identifiers HasVersion 10.5281/zenodo.10210939 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Photomicrographs</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210939/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210939/</guid>
+      <description>Abstract Microscopic images of discrete samples were acquired using stereo and upright light microscopes and captured on digital cameras. Image files were uploaded along with a brief description and a record of the microscopic and lighting conditions when the image was taken.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210939
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210938 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Piece log</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210954/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210954/</guid>
+      <description>Abstract Dataset includes length data for every whole-round piece: bin length, whole-round piece length (measured by curation staff), and both the archive- and working-half piece lengths (optionally measured by scientists).
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210954
+Related Identifiers HasVersion 10.5281/zenodo.10210955 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Piece log</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210955/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210955/</guid>
+      <description>Abstract Dataset includes length data for every whole-round piece: bin length, whole-round piece length (measured by curation staff), and both the archive- and working-half piece lengths (optionally measured by scientists).
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210955
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210954 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T RGB channels (calculated from core photos)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210961/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210961/</guid>
+      <description>Abstract Red, green, and blue pixel data were extracted from Section Half Imaging Logger (SHIL) linescan images, typically binned at 0.5 cm resolution using the central 2 cm of the image.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210961
+Related Identifiers HasVersion 10.5281/zenodo.10210962 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T RGB channels (calculated from core photos)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210962/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210962/</guid>
+      <description>Abstract Red, green, and blue pixel data were extracted from Section Half Imaging Logger (SHIL) linescan images, typically binned at 0.5 cm resolution using the central 2 cm of the image.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210962
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210961 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Rig instrumentation</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210952/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210952/</guid>
+      <description>Abstract Operational rig information data were measured using a variety of sensors and compiled using the RigWatch software package. Approximately 50 channels of drilling/coring data are captured in real time during the expedition. Data are presented as ASCII files extracted from the proprietary RigWatch data files and are presented by expedition. RigWatch data in time or depth domain can be imported into graphics and analysis programs to be merged and correlated with core physical properties data to enhance assessment of poor core recovery intervals.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Rig instrumentation</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210953/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210953/</guid>
+      <description>Abstract Operational rig information data were measured using a variety of sensors and compiled using the RigWatch software package. Approximately 50 channels of drilling/coring data are captured in real time during the expedition. Data are presented as ASCII files extracted from the proprietary RigWatch data files and are presented by expedition. RigWatch data in time or depth domain can be imported into graphics and analysis programs to be merged and correlated with core physical properties data to enhance assessment of poor core recovery intervals.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Sample report</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210965/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210965/</guid>
+      <description>Abstract Report includes detailed information about samples taken for testing: location/depth, type/form factor, test, request number, and database identifier.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210965
+Related Identifiers HasVersion 10.5281/zenodo.10210966 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Sample report</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210966/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210966/</guid>
+      <description>Abstract Report includes detailed information about samples taken for testing: location/depth, type/form factor, test, request number, and database identifier.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210966
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210965 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Section summary</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210969/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210969/</guid>
+      <description>Abstract Report includes data for individual core sections: coring/drilling depths and recovery, database identifiers for the whole section and section halves, and number of samples taken from the section before and after splitting.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210969
+Related Identifiers HasVersion 10.5281/zenodo.10210970 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Section summary</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210970/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210970/</guid>
+      <description>Abstract Report includes data for individual core sections: coring/drilling depths and recovery, database identifiers for the whole section and section halves, and number of samples taken from the section before and after splitting.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210970
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210969 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Section-half images</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210691/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210691/</guid>
+      <description>Abstract Digital section images were taken of the flat face of split cores on the Section Half Imaging Logger (SHIL) using a linescan camera at a resolution of 20 lines/mm (50 micron pixels). Cores were imaged as soon as possible after splitting to minimize color changes that occur through oxidation and drying. The SHIL produces TIF files as well as reduced-size JPG files. The TIF files are not kept online but users may request them from the IODP-JRSO Data Librarian.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Section-half images</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210692/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210692/</guid>
+      <description>Abstract Digital section images were taken of the flat face of split cores on the Section Half Imaging Logger (SHIL) using a linescan camera at a resolution of 20 lines/mm (50 micron pixels). Cores were imaged as soon as possible after splitting to minimize color changes that occur through oxidation and drying. The SHIL produces TIF files as well as reduced-size JPG files. The TIF files are not kept online but users may request them from the IODP-JRSO Data Librarian.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Thin section images</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210984/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210984/</guid>
+      <description>Abstract Hard rock and sediment thin section images were acquired using either the JRSO-developed Petrographic Image Capture and Archival Tool (PICAT) imager or (rarely) an upright microscope and a digital camera. Sample images are acquired in unpolarized, polarized, and/or cross-polarized light. Image files are presented compressed by hole.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210984
+Related Identifiers HasVersion 10.5281/zenodo.10210985 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Thin section images</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210985/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10210985/</guid>
+      <description>Abstract Hard rock and sediment thin section images were acquired using either the JRSO-developed Petrographic Image Capture and Archival Tool (PICAT) imager or (rarely) an upright microscope and a digital camera. Sample images are acquired in unpolarized, polarized, and/or cross-polarized light. Image files are presented compressed by hole.
+Access Points https://zenodo.org/doi/10.5281/zenodo.10210985
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10210984 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Whole-round core section composite 360 degree images</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211018/</guid>
+      <description>Abstract Images of the outside of hard rock whole-round sections were acquired using a linescan imager (Section Half Imaging Logger [SHIL]) and a special holder that allows each 90 degree segment of the outer surface to be positioned properly. The images were taken at a resolution of 20 lines/mm (50 micropixels). JRSO staff take these quadrant images and compile them into a side-by-side rollout photograph of the section. Composite images are available as both JPG and TIF image formats.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Whole-round core section composite 360 degree images</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211019/</guid>
+      <description>Abstract Images of the outside of hard rock whole-round sections were acquired using a linescan imager (Section Half Imaging Logger [SHIL]) and a special holder that allows each 90 degree segment of the outer surface to be positioned properly. The images were taken at a resolution of 20 lines/mm (50 micropixels). JRSO staff take these quadrant images and compile them into a side-by-side rollout photograph of the section. Composite images are available as both JPG and TIF image formats.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Whole-round core section images</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211006/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211006/</guid>
+      <description>Abstract Images of the outside of hard rock whole-round sections were acquired using a linescan imager (Section Half Imaging Logger [SHIL]) and a special holder that allows each 90 degree segment of the outer surface to be positioned properly. The images were taken at a resolution of 20 lines/mm (50 micropixels). JRSO staff take these quadrant images and compile them into a side-by-side rollout photograph of the section. Composite images are available as both JPG and TIF image formats.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T Whole-round core section images</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211007/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211007/</guid>
+      <description>Abstract Images of the outside of hard rock whole-round sections were acquired using a linescan imager (Section Half Imaging Logger [SHIL]) and a special holder that allows each 90 degree segment of the outer surface to be positioned properly. The images were taken at a resolution of 20 lines/mm (50 micropixels). JRSO staff take these quadrant images and compile them into a side-by-side rollout photograph of the section. Composite images are available as both JPG and TIF image formats.</description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T X-ray diffraction (XRD)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211030/</guid>
+      <description>Abstract X-ray diffraction (XRD) is used to identify minerals and their proportions in sediment or hard rock sample powders on a Bruker AXS D4 Endeavor X-ray diffractometer. Results are returned as diffractograms in a viewable format (either PDF or PNG).
+Access Points https://zenodo.org/doi/10.5281/zenodo.10211030
+Related Identifiers HasVersion 10.5281/zenodo.10211031 IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 </description>
+    </item>
+    
+    <item>
+      <title>IODP Expedition 397T X-ray diffraction (XRD)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211031/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211031/</guid>
+      <description>Abstract X-ray diffraction (XRD) is used to identify minerals and their proportions in sediment or hard rock sample powders on a Bruker AXS D4 Endeavor X-ray diffractometer. Results are returned as diffractograms in a viewable format (either PDF or PNG).
+Access Points https://zenodo.org/doi/10.5281/zenodo.10211031
+Related Identifiers IsDocumentedBy https://doi.org/10.14379/iodp.proc.391.2023 IsVersionOf 10.5281/zenodo.10211030 </description>
+    </item>
+    
+    <item>
+      <title>IPUMS USA: Version 13.0</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.18128/d010.v13.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.18128/d010.v13.0/</guid>
+      <description>Abstract IPUMS USA contains harmonized census and American Community Survey (ACS) data from 1790 to the present. For the period 1850 to 1940, IPUMS includes 100% of individuals in the decennial censuses. For the period 1950 to 2010, we have public use samples of decennial censuses. For the period since 2000, IPUMS provides annual ACS public use samples. The available information in the censuses and ACS varies by year, but generally includes basic housing data (type of housing, household appliances, and housing characteristics), demographic data (age, race, sex, marital status, and relationship to the head of household), economic data (occupation, industry, income, work status), and other individual characteristics (migration, disability, veteran status).</description>
+    </item>
+    
+    <item>
+      <title>Kinoson data for FCC random and high entropy alloys</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10214333/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10214333/</guid>
+      <description>Abstract This database contains the single KMC-step datasets for the &amp;ldquo;Ordered&amp;rdquo; and &amp;ldquo;Random&amp;rdquo; rate lattice gas systems, as well the &amp;ldquo;Complex&amp;rdquo; high-entropy alloy to accompany our main publication along with our code repository mentioned therein. The datasets are given as HDF5 files, readable with the h5py module in python 3. These files are listed below:
+CrystalData: CrystData.h5 and CrystData_ortho_5_cube.h5 contain all the necessary FCC crystal structure data for primitive 8x8x8 and orthogonal 5x5x5 FCC supercells.</description>
+    </item>
+    
+    <item>
+      <title>Kinoson data for FCC random and high entropy alloys</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10214334/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10214334/</guid>
+      <description>Abstract This database contains the single KMC-step datasets for the &amp;ldquo;Ordered&amp;rdquo; and &amp;ldquo;Random&amp;rdquo; rate lattice gas systems, as well the &amp;ldquo;Complex&amp;rdquo; high-entropy alloy to accompany our main publication along with our code repository mentioned therein. The datasets are given as HDF5 files, readable with the h5py module in python 3. These files are listed below:
+CrystalData: CrystData.h5 and CrystData_ortho_5_cube.h5 contain all the necessary FCC crystal structure data for primitive 8x8x8 and orthogonal 5x5x5 FCC supercells.</description>
+    </item>
+    
+    <item>
+      <title>Mingrelian SNP Genotype Data</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10045554/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10045554/</guid>
+      <description>Abstract This dataset contains data from 645,337 single nucleotide polymorphisms (SNPs) that were genotyped on GenoChip 2+ microarrays. The SNP data were ascertained from the mtDNA, Y-chromosome and autosomes for each individual, depending on their biological sex. In total, 5,205 mtDNA and 10,272 Y-chromosome SNPs were extracted from the array data. These data files have been uploaded as .csv files and also be uploaded as plink-formatted files. Details about the analysis of the SNP data can be found in the associated manuscript: Theodore G Schurr, Ramaz Shengelia, Michel Shamoon-Pour, David Chitanava, Shorena Laliashvili, Irma Laliashvili, Redate Kibret, Yanu Kume-Kangkolo, Irakli Akhvlediani, Lia Bitadze, Iain Mathieson, Aram Yardumian, Genetic Analysis of Mingrelians Reveals Long-Term Continuity of Populations in Western Georgia (Caucasus), Genome Biology and Evolution, 2023; evad198, https://doi.</description>
+    </item>
+    
+    <item>
+      <title>Mingrelian SNP Genotype Data</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10045555/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10045555/</guid>
+      <description>Abstract This dataset contains data from 645,337 single nucleotide polymorphisms (SNPs) that were genotyped on GenoChip 2+ microarrays. The SNP data were ascertained from the mtDNA, Y-chromosome and autosomes for each individual, depending on their biological sex. In total, 5,205 mtDNA and 10,272 Y-chromosome SNPs were extracted from the array data. These data files have been uploaded as .csv files and will also be uploaded as plink-formatted files by 15 November 2023.</description>
+    </item>
+    
+    <item>
+      <title>Mingrelian SNP Genotype Data</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10180280/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10180280/</guid>
+      <description>Abstract This dataset contains data from 645,337 single nucleotide polymorphisms (SNPs) that were genotyped on GenoChip 2+ microarrays. The SNP data were ascertained from the mtDNA, Y-chromosome and autosomes for each individual, depending on their biological sex. In total, 5,205 mtDNA and 10,272 Y-chromosome SNPs were extracted from the array data. These data files have been uploaded as .csv files and also be uploaded as plink-formatted files. Details about the analysis of the SNP data can be found in the associated manuscript: Theodore G Schurr, Ramaz Shengelia, Michel Shamoon-Pour, David Chitanava, Shorena Laliashvili, Irma Laliashvili, Redate Kibret, Yanu Kume-Kangkolo, Irakli Akhvlediani, Lia Bitadze, Iain Mathieson, Aram Yardumian, Genetic Analysis of Mingrelians Reveals Long-Term Continuity of Populations in Western Georgia (Caucasus), Genome Biology and Evolution, 2023; evad198, https://doi.</description>
+    </item>
+    
+    <item>
+      <title>mRI: multi-modal 3d human pose estimation dataset using mmwave, rgb-d, and inertial sensors</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.9ghx3ffpp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.9ghx3ffpp/</guid>
+      <description>Abstract The ability to estimate 3D human body pose and movement, also known as human pose estimation~(HPE), enables many applications for home-based health monitoring, such as remote rehabilitation training. Several possible solutions have emerged using sensors ranging from RGB cameras, depth sensors, millimeter-Wave (mmWave) radars, and wearable inertial sensors. Despite previous efforts on datasets and benchmarks for HPE, few datasets exploit multiple modalities and focus on home-based health monitoring. To bridge this gap, we present mRI, a multi-modal 3D human pose estimation dataset with mmWave, RGB-D, and Inertial Sensors.</description>
+    </item>
+    
+    <item>
+      <title>NEEM-2011-S1 ice-core aerosol record (conductivity, NH4, NO3, BC, acidity, Na, Mg, S, Ca, Mn, Sr, Ce) in NW-Greenland at 2 cm resolution from 86-1997 CE on the annual-layer counted NS1-2011 chronology</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.1594/pangaea.940553/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.1594/pangaea.940553/</guid>
+      <description>Abstract A continuous ice core analytical system was used to analyze the ~410 m NEEM-2011-S1 ice core collected in summer 2011 near the NEEM deep drilling site in NW Greenland. The core was analyzed for a broad range of elements and chemical species using a coupled continuous flow analysis system with two inductively coupled plasma mass spectrometers and single-particle soot photometer. The aerosol records are provided at 2 cm depth resolution to account for signal dispersion in the online analytical system.</description>
+    </item>
+    
+    <item>
+      <title>Novel code for the paper &#39;Projecting the future of a threatened marine mammal in relation to climate warming&#39;</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211497/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211497/</guid>
+      <description>Abstract Novel code in the R programming language for population projections of ringed seals (Pusa hispida) in the Chukchi Sea region west of Alaska USA. Access Points https://zenodo.org/doi/10.5281/zenodo.10211497
+Related Identifiers HasVersion 10.5281/zenodo.10211498 </description>
+    </item>
+    
+    <item>
+      <title>Novel code for the paper &#39;Projecting the future of a threatened marine mammal in relation to climate warming&#39;</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211498/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10211498/</guid>
+      <description>Abstract Novel code in the R programming language for population projections of ringed seals (Pusa hispida) in the Chukchi Sea region west of Alaska USA. Access Points https://zenodo.org/doi/10.5281/zenodo.10211498
+Related Identifiers IsVersionOf 10.5281/zenodo.10211497 </description>
+    </item>
+    
+    <item>
+      <title>Observation of mHz-level cooperative Lamb shifts in an optical atomic clock</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.wpzgmsbtj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.wpzgmsbtj/</guid>
+      <description>Abstract We report on the direct observation of resonant electric dipole-dipole interactions in a cubic array of atoms in the many-excitation limit. The interactions, mediated by single-atom couplings to the shared electromagnetic vacuum, are shown to produce spatially-dependent cooperative Lamb shifts when spectroscopically interrogating the mHz-wide optical clock transition in strontium-87. We show that the ensemble-averaged shifts can be suppressed below the level of evaluated systematic uncertainties for state-of-the-art optical atomic clocks.</description>
+    </item>
+    
+    <item>
+      <title>Polycyclic Aromatic Hydrocarbons in tropical Australian stalagmites: a framework for reconstructing paleofire activity - Research data</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.17632/zpmjwkcnrz.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.17632/zpmjwkcnrz.1/</guid>
+      <description>Abstract We investigate the possibility to use polycyclic aromatic hydrocarbons in stalagmites as proxies for paleofires at KNI-51, a shallow cave located in tropical Western Australia, where bushfire is a regular occurrence. In order to test links between the stalagmite PAHs and fire above the cave, we performed a series of experiments using PAH distributions in stalagmite aragonite, sediment from the cave and overlying soil. In addition, the possibility of surface contamination was evaluated by measuring PAH abundances and distributions in sequential digestions.</description>
+    </item>
+    
+    <item>
+      <title>Polycyclic Aromatic Hydrocarbons in tropical Australian stalagmites: a framework for reconstructing paleofire activity - Research data</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.17632/zpmjwkcnrz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.17632/zpmjwkcnrz/</guid>
+      <description>Abstract We investigate the possibility to use polycyclic aromatic hydrocarbons in stalagmites as proxies for paleofires at KNI-51, a shallow cave located in tropical Western Australia, where bushfire is a regular occurrence. In order to test links between the stalagmite PAHs and fire above the cave, we performed a series of experiments using PAH distributions in stalagmite aragonite, sediment from the cave and overlying soil. In addition, the possibility of surface contamination was evaluated by measuring PAH abundances and distributions in sequential digestions.</description>
+    </item>
+    
+    <item>
+      <title>QuCo: quartet-based co-estimation of species trees and gene trees</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.6076/d1cp4r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.6076/d1cp4r/</guid>
+      <description>Abstract Motivation: Phylogenomics faces a dilemma: on the one hand, the most accurate species and gene tree estimation methods are those that co-estimate them; on the other hand, these co-estimation methods do not scale to moderately large numbers of species. The summary-based methods, which first infer gene trees independently and then combine them, are much more scalable but are prone to gene tree estimation error, which is inevitable when inferring trees from limited-length data.</description>
+    </item>
+    
+    <item>
+      <title>Root biomass and chemistry, Megapit (DP1.10066.001)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.48443/xmbe-7b55/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.48443/xmbe-7b55/</guid>
+      <description>Abstract This data product contains the quality-controlled, native sampling resolution data from NEON&amp;rsquo;s belowground plant biomass stock and chemistry measurements from Megapits. Soil samples were collected at 10 cm depth increments to the first 100 cm below the surface, then 20 cm depth increments thereafter, along three vertical profiles from a single temporary soil pit at a location expected to be representative of NEON sensor-based soil plots. This sampling activity is expected to occur once at each NEON terrestrial site.</description>
+    </item>
+    
+    <item>
+      <title>Sagebrush greenhouse water use efficiency GxE phenotypic data</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.7923/jk5q-6876/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.7923/jk5q-6876/</guid>
+      <description>Abstract Phenotypic data related to water use efficiency (WUE) in sagebrush seedlings; specifically, stomata density and size on both leaf surfaces and the anatomy of vessels (i.e., xylem). Natural abundance stable carbon isotope data was also collected to confirm similar physiological processes between individuals analyzed within the study.
+Access Points https://data.nkn.uidaho.edu/dataset/sagebrush-greenhouse-water-use-efficiency-gxe-phenotypic-data</description>
+    </item>
+    
+    <item>
+      <title>Secondary Orbital Interactions Enhance the Reactivity of Alkynes in Diels-Alder Cycloadditions</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.34726/2101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.34726/2101/</guid>
+      <description>Abstract We have investigated the inverse electron-demand Diels-Alder reactions of trans-cyclooctene (TCO) and endo-bicyclo[6.1.0]nonyne (BCN) with a 1,2,4,5-tetrazine, a cyclopentadienone, and an ortho-benzoquinone. Tetrazines react significantly faster with TCO compared to BCN because the highest occupied molecular orbital (HOMO) of TCO is significantly higher in energy than the HOMO of BCN and there is less distortion of the tetrazine. Despite the different HOMO energies, TCO and BCN have similar reactivities toward cyclopentadienones, while BCN is significantly more reactive than TCO in the cycloaddition with ortho-benzoquinone.</description>
+    </item>
+    
+    <item>
+      <title>Snow depth, temperature, and residual forage experienced by migrating mule deer during autumn (2011–2020), Wyoming, USA</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.c866t1gdc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.c866t1gdc/</guid>
+      <description>Abstract Growing evidence supports the hypothesis that temperate herbivores surf the green wave of emerging plants during spring migration. Despite the importance of autumn migration, few studies have conceptualized resource tracking of temperate herbivores during this critical season. We adapted the Frost Wave Hypothesis (FWH), which posits that animals pace their autumn migration to reduce exposure to snow but increase acquisition of forage. We tested the FWH in a population of mule deer in Wyoming, USA by tracking the autumn migrations of n = 163 mule deer that moved 15–288 km from summer to winter range.</description>
+    </item>
+    
+    <item>
+      <title>Soil physical and chemical properties, Megapit (DP1.00096.001)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.48443/10dn-8031/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.48443/10dn-8031/</guid>
+      <description>Abstract Soil properties affect the movement of water, heat and gases into and out of the soil. They also influence the availability of nutrients to plants and soil organisms and the production and stabilization of soil organic matter. Soil physical and chemical properties are measured by horizon from a single temporary soil &amp;ldquo;Megapit&amp;rdquo; at each terrestrial site at depths of up to 200 cm at non-permafrost sites (up to 300 cm at Alaskan sites).</description>
+    </item>
+    
+    <item>
+      <title>Soil water content and water salinity (DP1.00094.001)</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.48443/ghry-qw46/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.48443/ghry-qw46/</guid>
+      <description>Abstract Soil volumetric water content and an index of soil water ion content (salinity) are measured at various depths below the soil surface from approximately 2 cm up to 200 cm at non-permafrost sites (up to 300 cm at Alaskan sites). Soil moisture is an important component of the hydrologic cycle and is the dominant source of water for most plants and soil organisms making it a key indicator of drought.</description>
+    </item>
+    
+    <item>
+      <title>Superadditive Communications with the Green Machine: Online Data Repository</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215207/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215207/</guid>
+      <description>Abstract This online repository contains selected datasets and scripts for data processes in the paper &amp;ldquo;Superadditive Communications with the Green Machine: A Practical Demonstration of Nonlocality without Entanglement&amp;rdquo;. arXiv.2310.05889
+Access Points https://zenodo.org/doi/10.5281/zenodo.10215207
+Related Identifiers HasVersion 10.5281/zenodo.10215208 IsSupplementTo https://arxiv.org/abs/2310.05889 </description>
+    </item>
+    
+    <item>
+      <title>Superadditive Communications with the Green Machine: Online Data Repository</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215208/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215208/</guid>
+      <description>Abstract This online repository contains selected datasets and scripts for data processes in the paper &amp;ldquo;Superadditive Communications with the Green Machine: A Practical Demonstration of Nonlocality without Entanglement&amp;rdquo;. arXiv.2310.05889
+Access Points https://zenodo.org/doi/10.5281/zenodo.10215208
+Related Identifiers IsSupplementTo https://arxiv.org/abs/2310.05889 IsVersionOf 10.5281/zenodo.10215207 </description>
+    </item>
+    
+    <item>
+      <title>Surface Porosity Prediction in Directed-Energy-Deposition (DED) Printed SS316L Parts</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215234/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215234/</guid>
+      <description>Access Points https://zenodo.org/doi/10.5281/zenodo.10215234
+Related Identifiers HasVersion https://doi.org/10.5281/zenodo.10215235 10.5281/zenodo.10215247 </description>
+    </item>
+    
+    <item>
+      <title>Surface Porosity Prediction in Directed-Energy-Deposition (DED) Printed SS316L Parts</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215247/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5281/zenodo.10215247/</guid>
+      <description>Access Points https://zenodo.org/doi/10.5281/zenodo.10215247
+Related Identifiers IsVersionOf 10.5281/zenodo.10215234 </description>
+    </item>
+    
+    <item>
+      <title>Temperature-dependent competitive outcomes between the fruit flies Drosophila santomea and D. yakuba</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.bk3j9kd8t/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.bk3j9kd8t/</guid>
+      <description>Abstract We use these data to test whether temperature can indirectly affect the fitness of Drosophila santomea and D. yakuba by altering interspecific competitive outcomes. We show that, when raised in isolation, both D. santomea and D. yakuba display similar variation in relative fitness across temperatures of 18°C, 22°C, and 25°C. However, D. santomea has higher fitness than D. yakuba when experiencing interspecific competition at 18°C, while the inverse is true at 25°C.</description>
+    </item>
+    
+    <item>
+      <title>The function of the female mimic signal in Enchenopa binotata treehoppers</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.6078/d1qf08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.6078/d1qf08/</guid>
+      <description>Abstract Some animals mimic behaviors or signals of conspecifics while courting. Sexual mimicry is beneficial when it increases reproductive success. We explored the function of a novel form of sexual mimicry in the courtship display of male Enchenopa treehoppers. Males produce plant-borne vibrational advertisement signals, to which females respond. Interestingly, males also produce a female mimic signal, and we experimentally tested its function. First, with a female priming hypothesis, we tested if this signal would increase female response.</description>
+    </item>
+    
+    <item>
+      <title>Trait-based sensitivity of large mammals to a catastrophic tropical cyclone: DNA metabarcoding data</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.7wm37pvzv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.7wm37pvzv/</guid>
+      <description>Abstract Extreme weather events perturb ecosystems and increasingly threaten biodiversity1. Ecologists emphasize the need to forecast and mitigate the impacts of these incidents, which requires knowledge of how risk is distributed among species and environments, but the scale and unpredictability of extreme events complicates assessment1–4. These challenges are compounded for large animals (‘megafauna’), which play crucial ecological roles but are hard to study5. Traits such as body size, dispersal ability, and habitat affiliation are among the hypothesized determinants of animals’ vulnerability to natural hazards1,6,7.</description>
+    </item>
+    
+    <item>
+      <title>Twenty years of Salix height in response to experimental manipulation of browsing and water table, northern range of Yellowstone National Park</title>
+      <link>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.sqv9s4n7n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapurifier.github.io/landingpage-in-a-box/10.5061/dryad.sqv9s4n7n/</guid>
+      <description>Abstract This respository contains multiple datasets collected during a 20 year investigation of the responses of willow (Salix spp.) communities in Yellowstone National Park after the restoration of large carnivores. The study sought to understand whether the restoration of wolves to the food web cause a change in the state of willow communities that occured while wolves were absent. Each dataset has a corresonding file of metadata.
+Methods Sampling and experimental designs and methods used to collect the data were described in Hobbs, N.</description>
+    </item>
+    
+  </channel>
+</rss>
